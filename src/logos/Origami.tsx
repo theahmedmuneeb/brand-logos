@@ -1,0 +1,107 @@
+import type { SVGProps } from "react";
+const Origami = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    width={24}
+    height={24}
+    viewBox="0 0 256 256"
+    xmlns="http://www.w3.org/2000/svg"
+    preserveAspectRatio="xMidYMid"
+    {...props}
+  >
+    <defs>
+      <radialGradient
+        cx="26.1956818%"
+        cy="9.36015909%"
+        fx="26.1956818%"
+        fy="9.36015909%"
+        r="105.50989%"
+        gradientTransform="translate(0.261957,0.093602),scale(1.000000,0.996094),rotate(58.071241),translate(-0.261957,-0.093602)"
+        id="a"
+      >
+        <stop stopColor="#51C3F7" offset="0%" />
+        <stop stopColor="#046CF4" offset="100%" />
+      </radialGradient>
+      <path
+        d="M127.754545,256 C198.171057,256 255.254545,198.692655 255.254545,128 C255.254545,57.3075782 198.171057,0 127.754545,0 C57.3382659,0 0.254545455,57.3075782 0.254545455,128 C0.254545455,198.692655 57.3382659,256 127.754545,256 Z"
+        id="b"
+      />
+      <radialGradient
+        cx="-15.3135%"
+        cy="-13.6326789%"
+        fx="-15.3135%"
+        fy="-13.6326789%"
+        r="181.00096%"
+        gradientTransform="translate(-0.153135,-0.136327),scale(1.000000,0.909547),rotate(15.269975),translate(0.153135,0.136327)"
+        id="d"
+      >
+        <stop stopColor="#FFFFFF" offset="0%" />
+        <stop stopColor="#5CB5FF" offset="100%" />
+      </radialGradient>
+      <radialGradient
+        cx="69.5505569%"
+        cy="-14.976051%"
+        fx="69.5505569%"
+        fy="-14.976051%"
+        r="205.050435%"
+        gradientTransform="translate(0.695506,-0.149761),scale(1.000000,0.576945),rotate(117.132184),translate(-0.695506,0.149761)"
+        id="e"
+      >
+        <stop stopColor="#FFFFFF" offset="0%" />
+        <stop stopColor="#7AC2FF" offset="100%" />
+      </radialGradient>
+      <radialGradient
+        cx="40.0708592%"
+        cy="19.9807672%"
+        fx="40.0708592%"
+        fy="19.9807672%"
+        r="98.9201276%"
+        gradientTransform="translate(0.400709,0.199808),scale(1.000000,0.667344),rotate(59.049023),translate(-0.400709,-0.199808)"
+        id="f"
+      >
+        <stop stopColor="#FFFFFF" offset="0%" />
+        <stop stopColor="#CBE7FF" offset="100%" />
+      </radialGradient>
+    </defs>
+    <g>
+      <path
+        d="M127.754545,256 C198.171057,256 255.254545,198.692655 255.254545,128 C255.254545,57.3075782 198.171057,0 127.754545,0 C57.3382659,0 0.254545455,57.3075782 0.254545455,128 C0.254545455,198.692655 57.3382659,256 127.754545,256 Z"
+        fill="url(#a)"
+      />
+      <mask id="c" fill="white">
+        <use href="#b" />
+      </mask>
+      <g />
+      <polygon
+        fill="#E8F5FF"
+        mask="url(#c)"
+        points="136.981818 58.7636364 194.745455 119.854545 144.988659 108.218182"
+      />
+      <path
+        d="M138.3786,67.2429818 L152.9036,110.235982 L144.692567,108.218182 L138.3786,67.2429818 Z"
+        fill="#64A4D8"
+        mask="url(#c)"
+      />
+      <polygon
+        fill="url(#d)"
+        mask="url(#c)"
+        points="21.3636364 140.8 -94 13.9636364 6.17220664 35.9065018"
+      />
+      <polygon
+        fill="url(#e)"
+        mask="url(#c)"
+        points="159.487855 196.996655 136.503324 58.7636364 79.7349818 127.880145"
+      />
+      <path
+        d="M89.1156364,116.735418 L124.051636,160.199418 L86.3636364,120.145455 L89.1156364,116.735418 Z"
+        fill="#4492D2"
+        mask="url(#c)"
+      />
+      <polygon
+        fill="url(#f)"
+        mask="url(#c)"
+        points="56.7247255 335.584582 -40.5537164 108.739491 4.62124364 35.4909091 159.711855 197.174109"
+      />
+    </g>
+  </svg>
+);
+export { Origami };

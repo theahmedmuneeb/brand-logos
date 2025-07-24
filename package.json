@@ -1,0 +1,47 @@
+{
+  "name": "brand-logos",
+  "version": "0.1.0",
+  "description": "A collection of colorful brand logos for React.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "react": "^19.1.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0"
+  },
+  "homepage": "https://lab.ahmedmuneeb.com/brand-logos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theahmedmuneeb/brand-logos"
+  },
+  "bugs": {
+    "url": "https://github.com/theahmedmuneeb/brand-logos/issues"
+  },
+  "keywords": [
+    "react",
+    "logos",
+    "icons",
+    "brand-icons",
+    "react-components"
+  ],
+  "author": "Ahmed Muneeb",
+  "license": "MIT",
+  "type": "module"
+}

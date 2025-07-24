@@ -1,0 +1,23 @@
+import type { SVGProps } from "react";
+const AlpinejsIcon = (props: SVGProps<SVGSVGElement>) => (
+  <svg
+    width={24}
+    height={24}
+    viewBox="0 0 256 118"
+    xmlns="http://www.w3.org/2000/svg"
+    preserveAspectRatio="xMidYMid"
+    {...props}
+  >
+    <g>
+      <polygon
+        fill="#77C1D2"
+        points="199.111112 0 256 56.6393762 199.111112 113.278752 142.222222 56.6393762"
+      />
+      <polygon
+        fill="#2D3441"
+        points="56.8888888 0 174.826667 117.420507 61.0488889 117.420507 0 56.6393762"
+      />
+    </g>
+  </svg>
+);
+export { AlpinejsIcon };
