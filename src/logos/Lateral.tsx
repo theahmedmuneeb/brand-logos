@@ -9,13 +9,18 @@ const Lateral = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <circle id="a" cx={64.3822697} cy={64.3822697} r={64.3822697} />
+      <circle
+        id="_ambl_Lateral__a"
+        cx={64.3822697}
+        cy={64.3822697}
+        r={64.3822697}
+      />
       <linearGradient
         x1="1.38181042e-06%"
         y1="73.25%"
         x2="37.75%"
         y2="36.5833333%"
-        id="c"
+        id="_ambl_Lateral__c"
       >
         <stop stopColor="#0060FF" offset="0%" />
         <stop stopColor="#1F66D6" offset="100%" />
@@ -25,13 +30,13 @@ const Lateral = (props: SVGProps<SVGSVGElement>) => (
         y1="1.11882917e-06%"
         x2="92.0138889%"
         y2="90.75%"
-        id="d"
+        id="_ambl_Lateral__d"
       >
         <stop stopColor="#1F6AE2" offset="0%" />
         <stop stopColor="#2E7BED" offset="100%" />
       </linearGradient>
       <polygon
-        id="e"
+        id="_ambl_Lateral__e"
         points="118.034161 128.764539 118.034161 0 0 0 96.5734046 128.764539"
       />
       <linearGradient
@@ -39,13 +44,13 @@ const Lateral = (props: SVGProps<SVGSVGElement>) => (
         y1="48.2653125%"
         x2="8.64720833e-07%"
         y2="54.8185764%"
-        id="g"
+        id="_ambl_Lateral__g"
       >
         <stop stopColor="#0D57D9" offset="0%" />
         <stop stopColor="#0D57D9" offset="100%" />
       </linearGradient>
       <polygon
-        id="h"
+        id="_ambl_Lateral__h"
         points="93.7835062 0 0 26.5040344 0 45.8187153 128.764539 45.8187153 128.764539 37.0198051"
       />
     </defs>
@@ -55,14 +60,14 @@ const Lateral = (props: SVGProps<SVGSVGElement>) => (
         fill="#006BFF"
       />
       <g>
-        <mask id="b" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_Lateral__b" fill="white">
+          <use href="#_ambl_Lateral__a" />
         </mask>
-        <g mask="url(#b)">
+        <g mask="url(#_ambl_Lateral__b)">
           <g transform="translate(-61.449121, -35.204240)">
             <polygon
               stroke="none"
-              fill="url(#c)"
+              fill="url(#_ambl_Lateral__c)"
               points="190.21366 163.96878 190.21366 35.2042402 61.4491208 35.2042402 61.4491208 163.861476"
             />
             <polygon
@@ -193,14 +198,14 @@ const Lateral = (props: SVGProps<SVGSVGElement>) => (
             />
             <polygon
               stroke="none"
-              fill="url(#d)"
+              fill="url(#_ambl_Lateral__d)"
               points="190.21366 163.96878 190.21366 35.2042402 72.1794991 35.2042402 168.752904 163.96878"
             />
             <g transform="translate(72.179499, 35.204240)">
-              <mask id="f" fill="white">
-                <use href="#e" />
+              <mask id="_ambl_Lateral__f" fill="white">
+                <use href="#_ambl_Lateral__e" />
               </mask>
-              <g mask="url(#f)" fill="#3582F7">
+              <g mask="url(#_ambl_Lateral__f)" fill="#3582F7">
                 <g transform="translate(-31.500501, -75.750584)">
                   <polygon
                     transform="translate(50.608905, 50.760499) rotate(-45.000000) translate(-50.608905, -50.760499) "
@@ -328,14 +333,14 @@ const Lateral = (props: SVGProps<SVGSVGElement>) => (
             <polygon
               stroke="#0D57D9"
               strokeWidth={1}
-              fill="url(#g)"
+              fill="url(#_ambl_Lateral__g)"
               points="155.232627 118.150064 61.4491208 144.654099 61.4491208 163.96878 190.21366 163.96878 190.21366 155.169869"
             />
             <g transform="translate(61.449121, 118.150064)">
-              <mask id="i" fill="white">
-                <use href="#h" />
+              <mask id="_ambl_Lateral__i" fill="white">
+                <use href="#_ambl_Lateral__h" />
               </mask>
-              <g mask="url(#i)" fill="#1362DD">
+              <g mask="url(#_ambl_Lateral__i)" fill="#1362DD">
                 <g transform="translate(-46.639589, -43.492711)">
                   <polygon
                     transform="translate(123.644837, 44.572670) rotate(-16.500000) translate(-123.644837, -44.572670) "

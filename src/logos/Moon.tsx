@@ -9,14 +9,14 @@ const Moon = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <circle id="a" cx={128} cy={128} r={128} />
+      <circle id="_ambl_Moon__a" cx={128} cy={128} r={128} />
       <radialGradient
         cx="50%"
         cy="50%"
         fx="50%"
         fy="50%"
         r="49.7893875%"
-        id="b"
+        id="_ambl_Moon__b"
       >
         <stop stopColor="#4600D1" offset="0%" />
         <stop stopColor="#4600D1" offset="49.2852329%" />
@@ -28,7 +28,7 @@ const Moon = (props: SVGProps<SVGSVGElement>) => (
         fx="50%"
         fy="50%"
         r="49.6030859%"
-        id="d"
+        id="_ambl_Moon__d"
       >
         <stop stopColor="#35019E" offset="0%" />
         <stop stopColor="#320194" offset="18.7296056%" />
@@ -38,19 +38,19 @@ const Moon = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <g>
         <circle fill="#5805FF" cx={128} cy={128} r={128} />
-        <mask id="c" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_Moon__c" fill="white">
+          <use href="#_ambl_Moon__a" />
         </mask>
         <circle
-          fill="url(#b)"
-          mask="url(#c)"
+          fill="url(#_ambl_Moon__b)"
+          mask="url(#_ambl_Moon__c)"
           cx={199.694484}
           cy={105.369165}
           r={128}
         />
         <circle
-          fill="url(#d)"
-          mask="url(#c)"
+          fill="url(#_ambl_Moon__d)"
+          mask="url(#_ambl_Moon__c)"
           cx={275.371994}
           cy={82.3762376}
           r={128}

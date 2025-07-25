@@ -14,7 +14,7 @@ const Bitnami = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9724928%"
         x2="411.68505%"
         y2="49.9724928%"
-        id="a"
+        id="_ambl_Bitnami__a"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="0%" />
         <stop stopColor="#FFFFFF" offset="100%" />
@@ -24,7 +24,7 @@ const Bitnami = (props: SVGProps<SVGSVGElement>) => (
         y1="82.9103647%"
         x2="379.915947%"
         y2="-193.342226%"
-        id="b"
+        id="_ambl_Bitnami__b"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="0%" />
         <stop stopColor="#FFFFFF" offset="100%" />
@@ -34,7 +34,7 @@ const Bitnami = (props: SVGProps<SVGSVGElement>) => (
         y1="44.0122841%"
         x2="-363.978405%"
         y2="243.704415%"
-        id="c"
+        id="_ambl_Bitnami__c"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="0%" />
         <stop stopColor="#FFFFFF" offset="100%" />
@@ -44,7 +44,7 @@ const Bitnami = (props: SVGProps<SVGSVGElement>) => (
         y1="19.9042951%"
         x2="355.291211%"
         y2="478.170894%"
-        id="d"
+        id="_ambl_Bitnami__d"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="0%" />
         <stop stopColor="#FFFFFF" offset="100%" />
@@ -54,7 +54,7 @@ const Bitnami = (props: SVGProps<SVGSVGElement>) => (
         y1="2.5340329%"
         x2="46.2655706%"
         y2="110.506183%"
-        id="e"
+        id="_ambl_Bitnami__e"
       >
         <stop stopColor="#1A3B54" stopOpacity={0} offset="0%" />
         <stop stopColor="#1A3B54" offset="100%" />
@@ -71,23 +71,23 @@ const Bitnami = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M158.1,125.9 L128,108.5 L97.9,125.9 L128,143.4 L158.1,125.9 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Bitnami__a)"
       />
       <path
         d="M128,178 L158.1,160.6 L158.1,125.9 L128,143.2 L128,178 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Bitnami__b)"
       />
       <path
         d="M128,178 L97.9,160.6 L97.9,125.9 L128,143.2 L128,178 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Bitnami__c)"
       />
       <path
         d="M97.9,14.3 L97.9,73.7 L128,56.3 L203.4,99.8 L203.4,100.1 L251.5,72.5 C249.2,68.3 245.8,64.8 241.1,62.1 C208,43.1 174.9,24 141.8,4.9 C133.2,-0.1 122.8,-0.1 114.2,4.9 C108.8,8 103.3,11.1 97.9,14.3 L97.9,14.3 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_Bitnami__d)"
       />
       <path
         d="M52.6,186.8 L52.6,186.3 C52.6,136 52.8,88.3 52.8,38 L14.9,59.8 C6.1,64.9 1.1,71.7 1.1,81.8 L1.1,200.4 C1.1,205.3 2.4,210.1 4.7,214.3 L52.6,186.8 L52.6,186.8 Z"
-        fill="url(#e)"
+        fill="url(#_ambl_Bitnami__e)"
       />
     </g>
   </svg>

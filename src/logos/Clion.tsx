@@ -9,7 +9,13 @@ const Clion = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="0%" y1="50%" x2="115.014638%" y2="50%" id="a">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="115.014638%"
+        y2="50%"
+        id="_ambl_Clion__a"
+      >
         <stop stopColor="#FF318C" offset="0%" />
         <stop stopColor="#FB348C" offset="15%" />
         <stop stopColor="#F03C8C" offset="28%" />
@@ -25,7 +31,7 @@ const Clion = (props: SVGProps<SVGSVGElement>) => (
         y1="17.2570133%"
         x2="43.4444773%"
         y2="151.487674%"
-        id="b"
+        id="_ambl_Clion__b"
       >
         <stop stopColor="#21D789" offset="9%" />
         <stop stopColor="#009AE5" offset="90%" />
@@ -35,7 +41,7 @@ const Clion = (props: SVGProps<SVGSVGElement>) => (
         y1="9.9805967%"
         x2="-9.59719418%"
         y2="113.191194%"
-        id="c"
+        id="_ambl_Clion__c"
       >
         <stop stopColor="#21D789" offset="9%" />
         <stop stopColor="#009AE5" offset="90%" />
@@ -45,7 +51,7 @@ const Clion = (props: SVGProps<SVGSVGElement>) => (
         y1="46.0393104%"
         x2="91.6876122%"
         y2="52.2443908%"
-        id="d"
+        id="_ambl_Clion__d"
       >
         <stop stopColor="#21D789" offset="9%" />
         <stop stopColor="#009AE5" offset="90%" />
@@ -53,19 +59,19 @@ const Clion = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Clion__a)"
         points="92.0266667 100.106667 97.5733333 0 155.786667 32.2666667"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Clion__b)"
         points="92.0266667 100.106667 97.5733333 0 23.6533333 46.5866667 -7.10542736e-15 188.213333"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Clion__c)"
         points="250.906667 76.72 217.973333 9.76 155.786667 32.2666667 92.0266667 100.106667 1.42108547e-14 188.213333 83.0133333 248.64 187.36 154.533333"
       />
       <polygon
-        fill="url(#d)"
+        fill="url(#_ambl_Clion__d)"
         points="208 146.773333 208 208 107.466667 208 151.653333 242.186667 215.653333 256 256 164.666667"
       />
       <polygon fill="#000000" points="48 48 208 48 208 208 48 208" />

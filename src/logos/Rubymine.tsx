@@ -14,7 +14,7 @@ const Rubymine = (props: SVGProps<SVGSVGElement>) => (
         y1="73.8248625%"
         x2="39.5092184%"
         y2="35.4035019%"
-        id="a"
+        id="_ambl_Rubymine__a"
       >
         <stop stopColor="#FE2857" offset="0%" />
         <stop stopColor="#FE3052" offset="6%" />
@@ -28,7 +28,7 @@ const Rubymine = (props: SVGProps<SVGSVGElement>) => (
         y1="2.91715286%"
         x2="50.1410335%"
         y2="36.3282769%"
-        id="b"
+        id="_ambl_Rubymine__b"
       >
         <stop stopColor="#6B57FF" offset="0%" />
         <stop stopColor="#FE2857" offset="100%" />
@@ -38,7 +38,7 @@ const Rubymine = (props: SVGProps<SVGSVGElement>) => (
         y1="7.99954354%"
         x2="73.276839%"
         y2="97.5122675%"
-        id="c"
+        id="_ambl_Rubymine__c"
       >
         <stop stopColor="#6B57FF" offset="0%" />
         <stop stopColor="#FE2857" offset="30%" />
@@ -52,15 +52,15 @@ const Rubymine = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Rubymine__a)"
         points="212.906667 0 139.653333 26.24 81.92 0 62.9066667 47.8933333 50.6133333 47.8933333 50.6133333 189.28 228.4 190.826667 256 50.0266667"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Rubymine__b)"
         points="210.72 91.8666667 93.7333333 22.5333333 210.72 159.653333"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Rubymine__c)"
         points="106.56 249.333333 202.24 236.586667 187.386667 208.026667 210.72 208.026667 210.72 159.653333 93.7066667 22.32 0 45.3333333 0.106666667 179.733333 53.9733333 256 106.266667 249.36 106.506667 249.333333"
       />
       <polygon

@@ -14,7 +14,7 @@ const Eclipse = (props: SVGProps<SVGSVGElement>) => (
         y1="1089.3962%"
         x2="49.9996994%"
         y2="-159.499661%"
-        id="a"
+        id="_ambl_Eclipse__a"
       >
         <stop stopColor="#473788" offset="30.33%" />
         <stop stopColor="#2C2255" offset="87.2%" />
@@ -24,7 +24,7 @@ const Eclipse = (props: SVGProps<SVGSVGElement>) => (
         y1="896.536635%"
         x2="49.9989479%"
         y2="-352.359227%"
-        id="b"
+        id="_ambl_Eclipse__b"
       >
         <stop stopColor="#473788" offset="30.33%" />
         <stop stopColor="#2C2255" offset="87.2%" />
@@ -34,7 +34,7 @@ const Eclipse = (props: SVGProps<SVGSVGElement>) => (
         y1="215.169856%"
         x2="49.9988435%"
         y2="-166.715419%"
-        id="c"
+        id="_ambl_Eclipse__c"
       >
         <stop stopColor="#473788" offset="30.33%" />
         <stop stopColor="#2C2255" offset="86.31%" />
@@ -67,15 +67,15 @@ const Eclipse = (props: SVGProps<SVGSVGElement>) => (
       <g transform="translate(29.336511, 50.477753)">
         <path
           d="M72.6092255,6.6331234 C72.4305702,4.4315234 72.0601872,2.28439149 71.5067915,0.210246809 L1.23206809,0.210246809 C0.67867234,2.28330213 0.3072,4.43043404 0.128544681,6.6331234 L72.6092255,6.6331234 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_Eclipse__a)"
         />
         <path
           d="M72.6092255,12.5984681 L0.129634043,12.5984681 C0.308289362,14.8000681 0.677582979,16.9472 1.23206809,19.0213447 L71.5078809,19.0213447 C72.0612766,16.9472 72.4305702,14.8000681 72.6092255,12.5984681 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_Eclipse__b)"
         />
         <path
           d="M36.3694298,45.989583 C50.9636085,45.989583 63.5435574,37.3912511 69.336783,24.9856 L3.4020766,24.9856 C9.19530213,37.3912511 21.7752511,45.989583 36.3694298,45.989583 Z"
-          fill="url(#c)"
+          fill="url(#_ambl_Eclipse__c)"
         />
       </g>
       <path

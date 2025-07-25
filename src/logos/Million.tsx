@@ -16,7 +16,7 @@ const Million = (props: SVGProps<SVGSVGElement>) => (
         fy="49.9986554%"
         r="32.3059134%"
         gradientTransform="translate(0,5, 0,5), scale(0,448, 1), rotate(92,849), translate(-0,5, -0,5)"
-        id="a"
+        id="_ambl_Million__a"
       >
         <stop stopColor="#845CE7" offset="0%" />
         <stop stopColor="#AF73D8" offset="100%" />
@@ -28,7 +28,7 @@ const Million = (props: SVGProps<SVGSVGElement>) => (
         fy="104.166644%"
         r="67.3009497%"
         gradientTransform="translate(0,5006, 1,0417), scale(0,4435, 1), rotate(92,7908), translate(-0,5006, -1,0417)"
-        id="b"
+        id="_ambl_Million__b"
       >
         <stop stopColor="#845CE7" offset="0%" />
         <stop stopColor="#AF73D8" offset="100%" />
@@ -40,7 +40,7 @@ const Million = (props: SVGProps<SVGSVGElement>) => (
         fy="34.2223886%"
         r="42.5206194%"
         gradientTransform="translate(0,9912, 0,3422), scale(0,6888, 1), rotate(92,7908), translate(-0,9912, -0,3422)"
-        id="c"
+        id="_ambl_Million__c"
       >
         <stop stopColor="#845CE7" offset="0%" />
         <stop stopColor="#AF73D8" offset="100%" />
@@ -52,7 +52,7 @@ const Million = (props: SVGProps<SVGSVGElement>) => (
         fy="34.2104631%"
         r="42.5058021%"
         gradientTransform="translate(0,0088, 0,3421), scale(0,689, 1), rotate(92,7908), translate(-0,0088, -0,3421)"
-        id="d"
+        id="_ambl_Million__d"
       >
         <stop stopColor="#845CE7" offset="0%" />
         <stop stopColor="#AF73D8" offset="100%" />
@@ -62,19 +62,19 @@ const Million = (props: SVGProps<SVGSVGElement>) => (
       <g>
         <path
           d="M38.8518526,91.6713528 C45.8921599,81.5938676 60.2192839,74.6950749 76.7484669,74.6950749 C93.2773759,74.6950749 107.605048,81.5938676 114.645172,91.6713528 C107.605048,101.748108 93.2773759,108.646718 76.7484669,108.646718 C60.2192839,108.646718 45.8921599,101.748108 38.8518526,91.6713528 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_Million__a)"
         />
         <path
           d="M38.596122,16.7955957 C45.6319556,6.82552462 59.9498583,0 76.4685418,0 C92.9870427,0 107.305584,6.82552462 114.341144,16.7955957 C107.305584,26.7657124 92.9870427,33.5911913 76.4685418,33.5911913 C59.9498583,33.5911913 45.6319556,26.7657124 38.596122,16.7955957 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_Million__b)"
         />
         <path
           d="M77.192275,54.5219358 C66.9560195,64.4087872 53.0725211,69.9631908 38.596122,69.9631908 C24.1198142,69.9631908 10.2363158,64.4087872 0,54.5219358 L38.596122,16.7955957 L77.192275,54.5219358 Z"
-          fill="url(#c)"
+          fill="url(#_ambl_Million__c)"
         />
         <path
           d="M153.029419,54.5404697 C142.792889,64.427321 128.908934,69.9817247 114.433357,69.9817247 C99.9568666,69.9817247 86.0731855,64.427321 75.8368387,54.5404697 L114.433357,16.7955957 L153.029419,54.5404697 Z"
-          fill="url(#d)"
+          fill="url(#_ambl_Million__d)"
         />
       </g>
       <path

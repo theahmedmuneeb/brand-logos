@@ -14,7 +14,7 @@ const Fogbugz = (props: SVGProps<SVGSVGElement>) => (
         y1="75.5639723%"
         x2="130.063559%"
         y2="-56.513466%"
-        id="a"
+        id="_ambl_Fogbugz__a"
       >
         <stop stopColor="#AB68FC" offset="0%" />
         <stop stopColor="#5521B3" offset="86%" />
@@ -24,7 +24,7 @@ const Fogbugz = (props: SVGProps<SVGSVGElement>) => (
         y1="100.586326%"
         x2="48.2524889%"
         y2="48.3901536%"
-        id="b"
+        id="_ambl_Fogbugz__b"
       >
         <stop stopColor="#AA69FF" offset="2%" />
         <stop stopColor="#C6B1FF" offset="86%" />
@@ -34,11 +34,11 @@ const Fogbugz = (props: SVGProps<SVGSVGElement>) => (
       <g>
         <path
           d="M32.427047,110.591696 L92.2611602,58.312907 L32.5284607,58.312907 C32.5284607,58.312907 32.4397237,108.576097 32.427047,110.591696 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_Fogbugz__a)"
         />
         <path
           d="M59.84679,0 L-7.20588043e-14,58.312907 L59.5805789,58.312907 C59.5805789,58.312907 59.8341132,1.52120627 59.84679,0 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_Fogbugz__b)"
         />
       </g>
       <path

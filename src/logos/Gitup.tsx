@@ -15,7 +15,7 @@ const Gitup = (props: SVGProps<SVGSVGElement>) => (
         width="200%"
         height="200%"
         filterUnits="objectBoundingBox"
-        id="a"
+        id="_ambl_Gitup__a"
       >
         <feMorphology
           radius={1}
@@ -51,7 +51,7 @@ const Gitup = (props: SVGProps<SVGSVGElement>) => (
         width="200%"
         height="200%"
         filterUnits="objectBoundingBox"
-        id="c"
+        id="_ambl_Gitup__c"
       >
         <feMorphology
           radius={1}
@@ -81,7 +81,7 @@ const Gitup = (props: SVGProps<SVGSVGElement>) => (
           <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
-      <clipPath id="b">
+      <clipPath id="_ambl_Gitup__b">
         <path d="M19.9202025,28.0114768 L194.68611,0.33107173 C207.413198,-1.68452321 219.364726,6.99868354 221.380321,19.7257722 L249.060456,194.491409 C251.076321,207.218498 242.393114,219.170025 229.666025,221.18562 L54.9001181,248.866025 C42.1732996,250.88162 30.2217722,242.198414 28.2059072,229.471325 L0.525772152,54.7056878 C-1.49009283,41.9785992 7.19311392,30.0270717 19.9202025,28.0114768 L19.9202025,28.0114768 Z" />
       </clipPath>
     </defs>
@@ -90,12 +90,12 @@ const Gitup = (props: SVGProps<SVGSVGElement>) => (
         <path
           d="M19.9202025,28.0114768 L194.68611,0.33107173 C207.413198,-1.68452321 219.364726,6.99868354 221.380321,19.7257722 L249.060456,194.491409 C251.076321,207.218498 242.393114,219.170025 229.666025,221.18562 L54.9001181,248.866025 C42.1732996,250.88162 30.2217722,242.198414 28.2059072,229.471325 L0.525772152,54.7056878 C-1.49009283,41.9785992 7.19311392,30.0270717 19.9202025,28.0114768 L19.9202025,28.0114768 Z"
           fill="#F5F5F5"
-          filter="url(#a)"
+          filter="url(#_ambl_Gitup__a)"
         />
-        <g clipPath="url(#b)">
+        <g clipPath="url(#_ambl_Gitup__b)">
           <ellipse
             fill="#FBFBFB"
-            filter="url(#c)"
+            filter="url(#_ambl_Gitup__c)"
             cx={129.582177}
             cy={128.848203}
             rx={116.67092}
@@ -103,14 +103,14 @@ const Gitup = (props: SVGProps<SVGSVGElement>) => (
           />
           <circle
             fill="#FCFCFC"
-            filter="url(#c)"
+            filter="url(#_ambl_Gitup__c)"
             cx={129.582177}
             cy={128.848203}
             r={72.9240844}
           />
           <circle
             fill="#FFFFFF"
-            filter="url(#c)"
+            filter="url(#_ambl_Gitup__c)"
             cx={129.582447}
             cy={128.847932}
             r={29.1688776}

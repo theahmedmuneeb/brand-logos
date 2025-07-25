@@ -14,7 +14,7 @@ const Rider = (props: SVGProps<SVGSVGElement>) => (
         y1="81.8025397%"
         x2="-19.1233284%"
         y2="19.0400096%"
-        id="a"
+        id="_ambl_Rider__a"
       >
         <stop stopColor="#DD1265" offset="0%" />
         <stop stopColor="#DD1265" offset="48%" />
@@ -25,7 +25,7 @@ const Rider = (props: SVGProps<SVGSVGElement>) => (
         y1="7.27061065%"
         x2="53.6996856%"
         y2="92.9939676%"
-        id="b"
+        id="_ambl_Rider__b"
       >
         <stop stopColor="#087CFA" offset="14%" />
         <stop stopColor="#DD1265" offset="48%" />
@@ -36,7 +36,7 @@ const Rider = (props: SVGProps<SVGSVGElement>) => (
         y1="11.3522538%"
         x2="56.9381078%"
         y2="91.6944908%"
-        id="c"
+        id="_ambl_Rider__c"
       >
         <stop stopColor="#DD1265" offset="28%" />
         <stop stopColor="#FDB60D" offset="97%" />
@@ -44,15 +44,15 @@ const Rider = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Rider__a)"
         points="256 99.6 76.5333333 0 196.693333 178.533333 221.386667 162.346667"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Rider__b)"
         points="184.4 58.9866667 161.92 4.02666667 112.186667 52.9866667 132.533333 230.64 180.72 256 256 212.026667"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Rider__c)"
         points="76.5333333 3.78956126e-14 0 51.5466667 28.4533333 227.36 101.84 255.573333 196.693333 178.533333"
       />
       <polygon

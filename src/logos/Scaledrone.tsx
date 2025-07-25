@@ -14,7 +14,7 @@ const Scaledrone = (props: SVGProps<SVGSVGElement>) => (
         y1="93.380625%"
         x2="26.26375%"
         y2="8.970625%"
-        id="a"
+        id="_ambl_Scaledrone__a"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="0%" />
         <stop stopColor="#6466BB" offset="47.52%" />
@@ -23,7 +23,13 @@ const Scaledrone = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <g>
-        <circle fill="url(#a)" opacity={0.5} cx={128} cy={128} r={128} />
+        <circle
+          fill="url(#_ambl_Scaledrone__a)"
+          opacity={0.5}
+          cx={128}
+          cy={128}
+          r={128}
+        />
         <path
           d="M205.6,83.2 L238.9,64 C208.9,12 142.3,-5.9 90.3,24.2 C38.3,54.2 20.4,120.8 50.5,172.8 L17.1,192 C47.1,244 113.7,261.9 165.7,231.8 C217.8,201.8 235.6,135.2 205.6,83.2 L205.6,83.2 Z"
           fill="#6466BB"

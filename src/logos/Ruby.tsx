@@ -14,7 +14,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="111.399353%"
         x2="58.2543962%"
         y2="64.5837087%"
-        id="a"
+        id="_ambl_Ruby__a"
       >
         <stop stopColor="#FB7655" offset="0%" />
         <stop stopColor="#FB7655" offset="0%" />
@@ -27,7 +27,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="60.8903211%"
         x2="1.74616041%"
         y2="19.2879503%"
-        id="b"
+        id="_ambl_Ruby__b"
       >
         <stop stopColor="#871101" offset="0%" />
         <stop stopColor="#871101" offset="0%" />
@@ -39,7 +39,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="219.327131%"
         x2="38.9781357%"
         y2="7.82868176%"
-        id="c"
+        id="_ambl_Ruby__c"
       >
         <stop stopColor="#871101" offset="0%" />
         <stop stopColor="#871101" offset="0%" />
@@ -51,7 +51,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="7.23449921%"
         x2="66.4830414%"
         y2="79.1354134%"
-        id="d"
+        id="_ambl_Ruby__d"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" offset="0%" />
@@ -65,7 +65,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="16.347907%"
         x2="49.9323342%"
         y2="83.0468449%"
-        id="e"
+        id="_ambl_Ruby__e"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" offset="0%" />
@@ -79,7 +79,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="15.5936471%"
         x2="49.5282324%"
         y2="92.4776332%"
-        id="f"
+        id="_ambl_Ruby__f"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" offset="0%" />
@@ -93,7 +93,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="58.3456855%"
         x2="85.7636612%"
         y2="-46.7167814%"
-        id="g"
+        id="_ambl_Ruby__g"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" offset="0%" />
@@ -106,7 +106,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="21.1345847%"
         x2="50.7445145%"
         y2="79.0557818%"
-        id="h"
+        id="_ambl_Ruby__h"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" offset="0%" />
@@ -119,7 +119,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="122.281897%"
         x2="104.241521%"
         y2="-6.34211007%"
-        id="i"
+        id="_ambl_Ruby__i"
       >
         <stop stopColor="#BD0012" offset="0%" />
         <stop stopColor="#BD0012" offset="0%" />
@@ -137,7 +137,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="65.2049657%"
         x2="11.9636556%"
         y2="50.1275621%"
-        id="j"
+        id="_ambl_Ruby__j"
       >
         <stop stopColor="#8C0C01" offset="0%" />
         <stop stopColor="#8C0C01" offset="0%" />
@@ -150,7 +150,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="62.7538068%"
         x2="23.088288%"
         y2="17.8876818%"
-        id="k"
+        id="_ambl_Ruby__k"
       >
         <stop stopColor="#7E110B" offset="0%" />
         <stop stopColor="#7E110B" offset="0%" />
@@ -162,7 +162,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="74.1223655%"
         x2="59.8414537%"
         y2="39.7039965%"
-        id="l"
+        id="_ambl_Ruby__l"
       >
         <stop stopColor="#79130D" offset="0%" />
         <stop stopColor="#79130D" offset="0%" />
@@ -175,7 +175,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         fx="32.0008013%"
         fy="40.2100469%"
         r="69.5729556%"
-        id="m"
+        id="_ambl_Ruby__m"
       >
         <stop stopColor="#A80D00" offset="0%" />
         <stop stopColor="#A80D00" offset="0%" />
@@ -188,7 +188,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         fx="13.5493795%"
         fy="40.859922%"
         r="88.3861936%"
-        id="n"
+        id="_ambl_Ruby__n"
       >
         <stop stopColor="#A30C00" offset="0%" />
         <stop stopColor="#A30C00" offset="0%" />
@@ -200,7 +200,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="101.716594%"
         x2="3.10480737%"
         y2="11.9932603%"
-        id="o"
+        id="_ambl_Ruby__o"
       >
         <stop stopColor="#8B2114" offset="0%" />
         <stop stopColor="#8B2114" offset="0%" />
@@ -213,7 +213,7 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
         y1="35.5989756%"
         x2="92.4707626%"
         y2="100.693616%"
-        id="p"
+        id="_ambl_Ruby__p"
       >
         <stop stopColor="#B31000" offset="0%" />
         <stop stopColor="#B31000" offset="0%" />
@@ -225,35 +225,35 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M197.467337,167.763618 L51.9461307,254.173266 L240.368563,241.387417 L254.880804,51.3929648 L197.467337,167.763618 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Ruby__a)"
       />
       <path
         d="M240.677307,241.257487 L224.482412,129.479397 L180.369367,187.729045 L240.677307,241.257487 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Ruby__b)"
       />
       <path
         d="M240.896,241.257487 L122.249648,231.943719 L52.5764824,253.930131 L240.896,241.257487 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Ruby__c)"
       />
       <path
         d="M52.7437186,253.954573 L82.3831156,156.854673 L17.161005,170.800884 L52.7437186,253.954573 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_Ruby__d)"
       />
       <path
         d="M180.357789,188.050653 L153.085427,81.2253266 L75.0375879,154.384724 L180.357789,188.050653 Z"
-        fill="url(#e)"
+        fill="url(#_ambl_Ruby__e)"
       />
       <path
         d="M248.693065,82.7304523 L174.916181,22.4739698 L154.371859,88.8924623 L248.693065,82.7304523 Z"
-        fill="url(#f)"
+        fill="url(#_ambl_Ruby__f)"
       />
       <path
         d="M214.190955,0.990552764 L170.799598,24.9696482 L143.424322,0.668944724 L214.190955,0.990552764 Z"
-        fill="url(#g)"
+        fill="url(#_ambl_Ruby__g)"
       />
       <path
         d="M0,203.37206 L18.1772864,170.220704 L3.47336683,130.727236 L0,203.37206 Z"
-        fill="url(#h)"
+        fill="url(#_ambl_Ruby__h)"
       />
       <path
         d="M2.49567839,129.479397 L17.2896482,171.442814 L81.5726633,157.020623 L154.963618,88.8139899 L175.675176,23.0271357 L143.062834,0 L87.617608,20.7501508 C70.1491457,36.9977889 36.2516583,69.1457286 35.0295477,69.7503518 C33.8203015,70.3678392 12.6456281,110.388744 2.49567839,129.479397 L2.49567839,129.479397 Z"
@@ -261,19 +261,19 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M54.441809,54.0944724 C92.3015075,16.5563819 141.108744,-5.62170854 159.839196,13.2759799 C178.55807,32.1736683 158.707136,78.0992965 120.847437,115.624523 C82.9877387,153.149749 34.7851256,176.54995 16.0675377,157.652261 C-2.66291457,138.767437 16.5821106,91.6196985 54.441809,54.0944724 L54.441809,54.0944724 Z"
-        fill="url(#i)"
+        fill="url(#_ambl_Ruby__i)"
       />
       <path
         d="M52.7437186,253.91598 L82.1515578,156.507337 L179.817487,187.883417 C144.504925,220.996181 105.230151,248.988945 52.7437186,253.91598 L52.7437186,253.91598 Z"
-        fill="url(#j)"
+        fill="url(#_ambl_Ruby__j)"
       />
       <path
         d="M155.092261,88.6223116 L180.164824,187.934874 C209.662714,156.918995 236.137487,123.574673 249.103437,82.3316583 L155.092261,88.6223116 L155.092261,88.6223116 Z"
-        fill="url(#k)"
+        fill="url(#_ambl_Ruby__k)"
       />
       <path
         d="M248.847437,82.8333668 C258.881608,52.5507538 261.197186,9.1079397 213.880925,1.04201005 L175.056402,22.4868342 L248.847437,82.8333668 L248.847437,82.8333668 Z"
-        fill="url(#l)"
+        fill="url(#_ambl_Ruby__l)"
       />
       <path
         d="M0,202.934673 C1.38934673,252.913849 37.4480402,253.658693 52.8080402,254.097367 L17.3282412,171.236985 L0,202.934673 L0,202.934673 Z"
@@ -281,19 +281,19 @@ const Ruby = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M155.232482,88.7766834 C177.899417,102.708744 223.58191,130.688643 224.508141,131.203216 C225.947658,132.013668 244.203417,100.418894 248.345729,82.5632161 L155.232482,88.7766834 L155.232482,88.7766834 Z"
-        fill="url(#m)"
+        fill="url(#_ambl_Ruby__m)"
       />
       <path
         d="M82.1129648,156.507337 L121.426332,232.355377 C144.672161,219.748342 162.875176,204.388342 179.547337,187.934874 L82.1129648,156.507337 L82.1129648,156.507337 Z"
-        fill="url(#n)"
+        fill="url(#_ambl_Ruby__n)"
       />
       <path
         d="M17.1738693,171.339899 L11.6036181,237.668342 C22.1137688,252.024925 36.5732663,253.272764 51.7403015,252.153568 C40.7670352,224.842613 18.8462312,170.233568 17.1738693,171.339899 L17.1738693,171.339899 Z"
-        fill="url(#o)"
+        fill="url(#_ambl_Ruby__o)"
       />
       <path
         d="M174.826131,22.6540704 L252.925427,33.6144724 C248.757387,15.9517588 235.957387,4.55396985 214.139497,0.990552764 L174.826131,22.6540704 L174.826131,22.6540704 Z"
-        fill="url(#p)"
+        fill="url(#_ambl_Ruby__p)"
       />
     </g>
   </svg>

@@ -9,7 +9,13 @@ const Sap = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="50%" y1="0%" x2="50%" y2="100.002222%" id="a">
+      <linearGradient
+        x1="50%"
+        y1="0%"
+        x2="50%"
+        y2="100.002222%"
+        id="_ambl_Sap__a"
+      >
         <stop stopColor="#00AEEF" offset="0%" />
         <stop stopColor="#0097DC" offset="21.2%" />
         <stop stopColor="#007CC5" offset="51.9%" />
@@ -19,7 +25,7 @@ const Sap = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polyline
-        fill="url(#a)"
+        fill="url(#_ambl_Sap__a)"
         points="0 253.281446 258.763582 253.281446 512 0 6.39883703e-14 0 6.39883703e-14 253.281446"
       />
       <path

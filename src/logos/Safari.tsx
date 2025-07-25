@@ -9,7 +9,13 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="50%" y1="100%" x2="50%" y2="3.55271367e-13%" id="a">
+      <linearGradient
+        x1="50%"
+        y1="100%"
+        x2="50%"
+        y2="3.55271367e-13%"
+        id="_ambl_Safari__a"
+      >
         <stop stopColor="#DBDBDA" offset="25%" />
         <stop stopColor="#FFFFFF" offset="100%" />
       </linearGradient>
@@ -19,7 +25,7 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
         width="200%"
         height="200%"
         filterUnits="objectBoundingBox"
-        id="b"
+        id="_ambl_Safari__b"
       >
         <feOffset dx={0} dy={2} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -44,7 +50,7 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
         fx="57.0254209%"
         fy="39.0167405%"
         r="61.0315689%"
-        id="c"
+        id="_ambl_Safari__c"
       >
         <stop stopColor="#2ABCE1" offset="0%" />
         <stop stopColor="#2ABBE1" offset="11.3629426%" />
@@ -55,7 +61,7 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
         y1="35.7034487%"
         x2="25.7128956%"
         y2="77.5718894%"
-        id="d"
+        id="_ambl_Safari__d"
       >
         <stop stopColor="#000000" stopOpacity={0} offset="0%" />
         <stop stopColor="#000000" offset="100%" />
@@ -66,7 +72,7 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
         width="200%"
         height="200%"
         filterUnits="objectBoundingBox"
-        id="e"
+        id="_ambl_Safari__e"
       >
         <feOffset dx={0} dy={1} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -88,8 +94,14 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <g transform="translate(4.000000, 2.000000)">
-        <circle fill="url(#a)" filter="url(#b)" cx={124} cy={124} r={124} />
-        <circle fill="url(#c)" cx={124} cy={124} r={114.7} />
+        <circle
+          fill="url(#_ambl_Safari__a)"
+          filter="url(#_ambl_Safari__b)"
+          cx={124}
+          cy={124}
+          r={124}
+        />
+        <circle fill="url(#_ambl_Safari__c)" cx={124} cy={124} r={114.7} />
         <g transform="translate(9.687500, 8.718750)">
           <path
             d="M114.50625,28.48125 C113.73125,28.48125 113.053125,27.9 113.053125,27.125 L113.053125,6.878125 C113.053125,6.103125 113.73125,5.521875 114.50625,5.521875 C115.28125,5.521875 115.959375,6.103125 115.959375,6.878125 L115.959375,27.125 C115.8625,27.9 115.28125,28.48125 114.50625,28.48125 L114.50625,28.48125 Z"
@@ -605,7 +617,7 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
           />
           <circle
             fillOpacity={0.200000003}
-            fill="url(#d)"
+            fill="url(#_ambl_Safari__d)"
             cx={114.990625}
             cy={115.184375}
             r={114.7}
@@ -615,7 +627,7 @@ const Safari = (props: SVGProps<SVGSVGElement>) => (
           d="M204.115625,51.15 L111.6,110.4375 L111.503125,110.4375 L111.503125,110.534375 L111.40625,110.63125 L53.66875,205.859375 L138.53125,137.5625 L138.628125,137.465625 L138.628125,137.36875 L204.115625,51.15 Z"
           fill="black"
           fillOpacity={0.05}
-          filter="url(#e)"
+          filter="url(#_ambl_Safari__e)"
         />
         <path
           d="M202.371875,45.628125 L110.921875,110.63125 L138.046875,137.5625 L202.371875,45.628125"

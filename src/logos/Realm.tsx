@@ -9,14 +9,14 @@ const Realm = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <circle id="a" cx={128} cy={128} r={128} />
+      <circle id="_ambl_Realm__a" cx={128} cy={128} r={128} />
     </defs>
     <g>
-      <mask id="b" fill="white">
-        <use href="#a" />
+      <mask id="_ambl_Realm__b" fill="white">
+        <use href="#_ambl_Realm__a" />
       </mask>
-      <use fill="#FFFFFF" href="#a" />
-      <g mask="url(#b)" fillRule="nonzero">
+      <use fill="#FFFFFF" href="#_ambl_Realm__a" />
+      <g mask="url(#_ambl_Realm__b)" fillRule="nonzero">
         <g transform="translate(-2.000000, -1.000000)">
           <path
             d="M185.588388,12.4807473 C168.751889,4.47811859 149.91586,0 130.033911,0 C95.3500698,0 63.8492188,13.6279973 40.5939705,35.8213782 C15.8698025,59.4166058 229.34929,33.2809293 185.588388,12.4807473 Z"

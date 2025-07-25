@@ -14,7 +14,7 @@ const PluralsightIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="1.57575758%"
         x2="49.9986825%"
         y2="100.442688%"
-        id="a"
+        id="_ambl_PluralsightIcon__a"
       >
         <stop stopColor="#DF5430" offset="0%" />
         <stop stopColor="#D7197E" offset="100%" />
@@ -23,7 +23,7 @@ const PluralsightIcon = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M256,128 C256,198.695125 198.68989,256 127.996627,256 C57.3033649,256 0,198.695125 0,128 C0,57.3048748 57.3033649,0 127.996627,0 C198.68989,0 256,57.3048748 256,128"
-        fill="url(#a)"
+        fill="url(#_ambl_PluralsightIcon__a)"
       />
       <path
         d="M95.0918816,61.4788543 L95.0918816,194.507655 L210.298964,127.996627 L95.0918816,61.4788543 Z M106.12084,80.5822244 L188.241048,127.996627 L106.12084,175.41103 L106.12084,80.5822244 L106.12084,80.5822244 Z"

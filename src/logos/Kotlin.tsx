@@ -14,7 +14,7 @@ const Kotlin = (props: SVGProps<SVGSVGElement>) => (
         y1="0.0292854617%"
         x2="0.00995772309%"
         y2="99.9702373%"
-        id="a"
+        id="_ambl_Kotlin__a"
       >
         <stop stopColor="#E44857" offset="0.3435144%" />
         <stop stopColor="#C711E1" offset="46.89%" />
@@ -23,7 +23,7 @@ const Kotlin = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Kotlin__a)"
         points="105.092357 109.339787 0 109.339787 0 4.28948395 105.092357 4.28948395 52.5461784 56.7936085"
       />
       <path

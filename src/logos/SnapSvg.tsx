@@ -14,7 +14,7 @@ const SnapSvg = (props: SVGProps<SVGSVGElement>) => (
         y1="-352.925786%"
         x2="50%"
         y2="96.7175267%"
-        id="a"
+        id="_ambl_SnapSvg__a"
       >
         <stop stopColor="#002E3B" offset="0%" />
         <stop stopColor="#002639" offset="100%" />
@@ -24,7 +24,7 @@ const SnapSvg = (props: SVGProps<SVGSVGElement>) => (
         y1="-2.80786187%"
         x2="50%"
         y2="428.758892%"
-        id="b"
+        id="_ambl_SnapSvg__b"
       >
         <stop stopColor="#002E3B" offset="0%" />
         <stop stopColor="#002639" offset="100%" />
@@ -35,7 +35,7 @@ const SnapSvg = (props: SVGProps<SVGSVGElement>) => (
         fx="16.4234038%"
         fy="142.999709%"
         r="295.57111%"
-        id="c"
+        id="_ambl_SnapSvg__c"
       >
         <stop stopColor="#00BC85" offset="0%" />
         <stop stopColor="#149D91" offset="100%" />
@@ -46,7 +46,7 @@ const SnapSvg = (props: SVGProps<SVGSVGElement>) => (
         fx="16.423338%"
         fy="-42.999755%"
         r="357.003966%"
-        id="d"
+        id="_ambl_SnapSvg__d"
       >
         <stop stopColor="#00BC85" offset="0%" />
         <stop stopColor="#149D91" offset="100%" />
@@ -57,7 +57,7 @@ const SnapSvg = (props: SVGProps<SVGSVGElement>) => (
         fx="11.4670327%"
         fy="-40.4580495%"
         r="343.189366%"
-        id="e"
+        id="_ambl_SnapSvg__e"
       >
         <stop stopColor="#004473" offset="0%" />
         <stop stopColor="#00345F" offset="100%" />
@@ -66,23 +66,23 @@ const SnapSvg = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M65.6992339,330.300644 L0.107733463,362.384436 L127.400289,424.384842 L255.039336,362.18981 L189.28052,329.651265 L127.352045,360.40471 L65.6992339,330.300644 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_SnapSvg__a)"
       />
       <path
         d="M57.6019991,98.1748765 L57.6019991,98.1541795 L127.531267,64.0476413 L197.46571,98.1541795 L255.003891,62.1986373 L127.484698,0 L0,62.1796642 L0,62.2348584 L57.5537042,98.1990237 L57.6019991,98.1748765 L57.6019991,98.1748765 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_SnapSvg__b)"
       />
       <path
         d="M0.15618046,298.428426 L63.071162,267.624645 L127.784793,299.667263 L0.15618046,362.461971 L0.15618046,298.428426 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_SnapSvg__c)"
       />
       <path
         d="M196.677541,99.4103235 C196.67754,132.999495 196.677539,200.177839 196.677539,200.177839 L126.336262,234.601641 L191.022434,266.940614 L254.000917,236.143726 L254.00091,62.1907831 L196.677541,98.1665853 L196.677541,99.4103235 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_SnapSvg__d)"
       />
       <path
         d="M255.003891,298.216498 L57.5889764,199.96591 L57.5889774,98.1815418 L1.42108547e-14,62.2302408 L1.42108547e-14,63.1375243 L1.42108547e-14,235.931797 L255.003891,362.253488 L255.003891,298.216498 Z"
-        fill="url(#e)"
+        fill="url(#_ambl_SnapSvg__e)"
       />
     </g>
   </svg>

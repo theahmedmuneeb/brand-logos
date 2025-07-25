@@ -11,19 +11,25 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
     <defs>
       <path
         d="M53.4829517,15.7295112 L45.838174,15.7295112 C42.597311,6.560134 33.8657117,0 23.5942668,0 C10.5698308,0 0,10.5698308 0,23.5942668 C0,36.6187028 10.5698308,47.1907116 23.5942668,47.1907116 L53.4829517,47.1907116 C62.169477,47.1871051 69.2100591,40.1455481 69.2124629,31.4590224 C69.2088571,22.7733472 62.1686268,15.733117 53.4829517,15.7295112 Z"
-        id="a"
+        id="_ambl_Lighthouse__a"
       />
-      <linearGradient x1="49.994%" y1="0.226%" x2="49.994%" y2="99.725%" id="c">
+      <linearGradient
+        x1="49.994%"
+        y1="0.226%"
+        x2="49.994%"
+        y2="99.725%"
+        id="_ambl_Lighthouse__c"
+      >
         <stop stopColor="#212121" stopOpacity={0.04} offset="0%" />
         <stop stopColor="#212121" stopOpacity={0} offset="66%" />
       </linearGradient>
       <path
         d="M29.8865069,-1.74705197e-15 L0,-1.74705197e-15 L0,31.4590224 L29.8865069,31.4590224 C38.572182,31.4554166 45.6124123,24.4151864 45.6160181,15.7295112 C45.6124123,7.04383604 38.572182,0.00360576058 29.8865069,-1.74705197e-15 Z"
-        id="d"
+        id="_ambl_Lighthouse__d"
       />
       <path
         d="M0.71972456,0.71972456 L13.4762667,41.0040003 C17.7364334,36.7242316 24.3139914,30.8262094 24.3139914,24.3139914 C24.3139914,11.2895553 13.7441606,0.71972456 0.71972456,0.71972456 Z"
-        id="g"
+        id="_ambl_Lighthouse__g"
       />
       <filter
         x="-29.7%"
@@ -31,7 +37,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         width="159.3%"
         height="134.8%"
         filterUnits="objectBoundingBox"
-        id="f"
+        id="_ambl_Lighthouse__f"
       >
         <feOffset dx={0} dy={2} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -52,7 +58,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         fy="14.269%"
         r="144.565193%"
         gradientTransform="translate(0.101055,0.142690),scale(0.681824,1.000000),translate(-0.101055,-0.142690)"
-        id="h"
+        id="_ambl_Lighthouse__h"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="100%" />
@@ -62,7 +68,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         y1="20.358%"
         x2="64.01%"
         y2="100.652%"
-        id="i"
+        id="_ambl_Lighthouse__i"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="100%" />
@@ -72,7 +78,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         y1="65.756%"
         x2="31.065%"
         y2="35.799%"
-        id="j"
+        id="_ambl_Lighthouse__j"
       >
         <stop stopColor="#262626" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#262626" stopOpacity={0} offset="100%" />
@@ -82,12 +88,18 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         y1="13.086%"
         x2="24.779%"
         y2="100.996%"
-        id="k"
+        id="_ambl_Lighthouse__k"
       >
         <stop stopColor="#262626" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#262626" stopOpacity={0} offset="100%" />
       </linearGradient>
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="l">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="100%"
+        y2="50%"
+        id="_ambl_Lighthouse__l"
+      >
         <stop stopColor="#262626" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#262626" stopOpacity={0} offset="100%" />
       </linearGradient>
@@ -97,26 +109,32 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         fx="14.489%"
         fy="14.584%"
         r="99.973%"
-        id="m"
+        id="_ambl_Lighthouse__m"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="100%" />
       </radialGradient>
       <path
         d="M61.7092552,18.1492685 L52.8883579,18.1492685 C49.150911,7.56854769 39.0776641,0 27.2249917,0 C12.1967963,0 0,12.1967963 0,27.2249917 C0,42.2531871 12.1967963,54.4499834 27.2249917,54.4499834 L61.7092552,54.4499834 C71.7280521,54.4499834 79.8607016,46.3195119 79.8607016,36.3007149 C79.8607016,26.281918 71.7280521,18.1492685 61.7092552,18.1492685 Z"
-        id="n"
+        id="_ambl_Lighthouse__n"
       />
-      <linearGradient x1="49.994%" y1="0.226%" x2="49.994%" y2="99.725%" id="p">
+      <linearGradient
+        x1="49.994%"
+        y1="0.226%"
+        x2="49.994%"
+        y2="99.725%"
+        id="_ambl_Lighthouse__p"
+      >
         <stop stopColor="#212121" stopOpacity={0.04} offset="0%" />
         <stop stopColor="#212121" stopOpacity={0} offset="66%" />
       </linearGradient>
       <path
         d="M34.4842635,0 L0,0 L0,36.3007149 L34.4842635,36.3007149 C44.5030604,36.3007149 52.6357099,28.1680654 52.6357099,18.1492685 C52.6357099,8.13047152 44.5030604,0 34.4842635,0 Z"
-        id="q"
+        id="_ambl_Lighthouse__q"
       />
       <path
         d="M0.44499834,0.44499834 L15.1639178,46.9278602 C20.0840183,41.9903357 27.66999,35.1840877 27.66999,27.66999 C27.66999,12.6417946 15.4731938,0.44499834 0.44499834,0.44499834 Z"
-        id="t"
+        id="_ambl_Lighthouse__t"
       />
       <filter
         x="-25.7%"
@@ -124,7 +142,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         width="151.4%"
         height="130.1%"
         filterUnits="objectBoundingBox"
-        id="s"
+        id="_ambl_Lighthouse__s"
       >
         <feOffset dx={0} dy={2} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -145,7 +163,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
         fy="14.269%"
         r="144.567702%"
         gradientTransform="translate(0.101055,0.142690),scale(0.681812,1.000000),translate(-0.101055,-0.142690)"
-        id="u"
+        id="_ambl_Lighthouse__u"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="100%" />
@@ -155,11 +173,11 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
       <circle fill="#0535C1" cx={127.776687} cy={127.776687} r={127.776687} />
       <polygon points="155.363227 58.0807083 230.86793 58.0807083 230.86793 133.585411 155.363227 133.585411" />
       <g transform="translate(158.510436, 73.810219)">
-        <mask id="b" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_Lighthouse__b" fill="white">
+          <use href="#_ambl_Lighthouse__a" />
         </mask>
         <g />
-        <g mask="url(#b)">
+        <g mask="url(#_ambl_Lighthouse__b)">
           <path
             d="M53.4829517,15.7295112 L45.838174,15.7295112 C42.597311,6.560134 33.8657117,0 23.5942668,0 C10.5698308,0 0,10.5698308 0,23.5942668 C0,36.6187028 10.5698308,47.1907116 23.5942668,47.1907116 L53.4829517,47.1907116 C62.169477,47.1871051 69.2100591,40.1455481 69.2124629,31.4590224 C69.2088571,22.7733472 62.1686268,15.733117 53.4829517,15.7295112 Z"
             fill="#EAEAEA"
@@ -170,18 +188,23 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
             fill="#FFFFFF"
           />
           <polygon
-            fill="url(#c)"
+            fill="url(#_ambl_Lighthouse__c)"
             points="77.3124424 47.1907116 23.5942668 47.1907116 45.85342 15.7295112"
           />
           <g transform="translate(23.594267, 15.729511)">
-            <mask id="e" fill="white">
-              <use href="#d" />
+            <mask id="_ambl_Lighthouse__e" fill="white">
+              <use href="#_ambl_Lighthouse__d" />
             </mask>
             <g />
-            <g mask="url(#e)">
+            <g mask="url(#_ambl_Lighthouse__e)">
               <g transform="translate(-0.719725, -16.449236)">
-                <use fill="black" fillOpacity={1} filter="url(#f)" href="#g" />
-                <use fill="#E1E1E1" href="#g" />
+                <use
+                  fill="black"
+                  fillOpacity={1}
+                  filter="url(#_ambl_Lighthouse__f)"
+                  href="#_ambl_Lighthouse__g"
+                />
+                <use fill="#E1E1E1" href="#_ambl_Lighthouse__g" />
               </g>
             </g>
           </g>
@@ -205,7 +228,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
       </g>
       <path
         d="M211.993387,89.5397307 L204.34861,89.5397307 C201.107747,80.3703535 192.376147,73.8102195 182.104702,73.8102195 C169.080266,73.8102195 158.510436,84.3800502 158.510436,97.4044863 C158.510436,110.428922 169.080266,121.000931 182.104702,121.000931 L211.993387,121.000931 C220.679913,120.997325 227.720495,113.955768 227.722899,105.269242 C227.719293,96.5835667 220.679062,89.5433364 211.993387,89.5397307 Z"
-        fill="url(#h)"
+        fill="url(#_ambl_Lighthouse__h)"
       />
       <polygon
         fill="#FFF176"
@@ -225,29 +248,34 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M174.128869,129.227235 L190.365854,238.830695 C171.720002,249.4724 150.13385,255.551196 127.127643,255.551196 C104.121436,255.551196 82.5352848,249.4724 63.8872545,238.830695 L80.1264175,129.227235 L69.6959787,129.227235 L69.6959787,105.996694 L81.3112492,105.996694 L81.3112492,59.5312558 L127.776687,30.4919907 L174.239947,59.5312558 L174.239947,105.996694 L185.855217,105.996694 L185.855217,129.227235 L174.131047,129.227235 L174.128869,129.227235 Z"
-        fill="url(#i)"
+        fill="url(#_ambl_Lighthouse__i)"
       />
       <polygon
-        fill="url(#j)"
+        fill="url(#_ambl_Lighthouse__j)"
         points="127.776687 105.996694 81.3112492 105.996694 81.3112492 59.5312558 127.776687 30.4919907"
       />
       <path
         d="M127.776687,255.551238 C105.60223,255.564056 83.8067405,249.801418 64.5362983,238.830695 L79.0962239,129.227235 L127.774509,129.227235 L127.774509,255.551238 L127.776687,255.551238 Z"
-        fill="url(#k)"
+        fill="url(#_ambl_Lighthouse__k)"
       />
       <polygon
-        fill="url(#l)"
+        fill="url(#_ambl_Lighthouse__l)"
         transform="translate(98.736333, 117.613054) scale(-1, 1) translate(-98.736333, -117.613054) "
         points="69.695979 105.996694 127.776687 105.996694 127.776687 129.229413 69.695979 129.229413"
       />
-      <circle fill="url(#m)" cx={127.776687} cy={127.776687} r={127.776687} />
+      <circle
+        fill="url(#_ambl_Lighthouse__m)"
+        cx={127.776687}
+        cy={127.776687}
+        r={127.776687}
+      />
       <polygon points="27.5887176 82.7639747 114.708691 82.7639747 114.708691 169.883948 27.5887176 169.883948" />
       <g transform="translate(31.217264, 100.913243)">
-        <mask id="o" fill="white">
-          <use href="#n" />
+        <mask id="_ambl_Lighthouse__o" fill="white">
+          <use href="#_ambl_Lighthouse__n" />
         </mask>
         <g />
-        <g mask="url(#o)">
+        <g mask="url(#_ambl_Lighthouse__o)">
           <path
             d="M61.7092552,18.1492685 L52.8883579,18.1492685 C49.150911,7.56854769 39.0776641,0 27.2249917,0 C12.1967963,0 0,12.1967963 0,27.2249917 C0,42.2531871 12.1967963,54.4499834 27.2249917,54.4499834 L61.7092552,54.4499834 C71.7280521,54.4499834 79.8607016,46.3195119 79.8607016,36.3007149 C79.8607016,26.281918 71.7280521,18.1492685 61.7092552,18.1492685 Z"
             fill="#FAFAFA"
@@ -258,18 +286,23 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
             fill="#FFFFFF"
           />
           <polygon
-            fill="url(#p)"
+            fill="url(#_ambl_Lighthouse__p)"
             points="89.2064968 54.4499834 27.2249917 54.4499834 52.9079599 18.1492685"
           />
           <g transform="translate(27.224992, 18.149268)">
-            <mask id="r" fill="white">
-              <use href="#q" />
+            <mask id="_ambl_Lighthouse__r" fill="white">
+              <use href="#_ambl_Lighthouse__q" />
             </mask>
             <g />
-            <g mask="url(#r)">
+            <g mask="url(#_ambl_Lighthouse__r)">
               <g transform="translate(-0.444998, -18.594267)">
-                <use fill="black" fillOpacity={1} filter="url(#s)" href="#t" />
-                <use fill="#E1E1E1" href="#t" />
+                <use
+                  fill="black"
+                  fillOpacity={1}
+                  filter="url(#_ambl_Lighthouse__s)"
+                  href="#_ambl_Lighthouse__t"
+                />
+                <use fill="#E1E1E1" href="#_ambl_Lighthouse__t" />
               </g>
             </g>
           </g>
@@ -293,7 +326,7 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
       </g>
       <path
         d="M92.9265196,119.062512 L84.1056223,119.062512 C80.3681755,108.481791 70.2949285,100.913243 58.4422562,100.913243 C43.4140608,100.913243 31.2172645,113.110039 31.2172645,128.138235 C31.2172645,143.16643 43.4140608,155.363227 58.4422562,155.363227 L92.9265196,155.363227 C102.945317,155.363227 111.077966,147.232755 111.077966,137.213958 C111.077966,127.195161 102.945317,119.062512 92.9265196,119.062512 Z"
-        fill="url(#u)"
+        fill="url(#_ambl_Lighthouse__u)"
       />
       <g opacity={0.1}>
         <path
@@ -305,7 +338,12 @@ const Lighthouse = (props: SVGProps<SVGSVGElement>) => (
           fill="#263238"
         />
       </g>
-      <circle fill="url(#m)" cx={127.776687} cy={127.776687} r={127.776687} />
+      <circle
+        fill="url(#_ambl_Lighthouse__m)"
+        cx={127.776687}
+        cy={127.776687}
+        r={127.776687}
+      />
     </g>
   </svg>
 );

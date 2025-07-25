@@ -10,7 +10,7 @@ const Zod = (props: SVGProps<SVGSVGElement>) => (
     <defs>
       <path
         d="M200.420694,0 L53.6308282,0 L0,53.3549074 L121.760272,199.97871 L131.473707,189.079838 L252,53.8556526 L200.420694,0 Z M195.058122,12.5620609 L234.89802,54.1622312 L122.097509,180.72046 L16.9997871,54.1622312 L58.8145625,12.5620609 L195.058122,12.5620609 Z"
-        id="b"
+        id="_ambl_Zod__b"
       />
       <filter
         x="-2.2%"
@@ -18,7 +18,7 @@ const Zod = (props: SVGProps<SVGSVGElement>) => (
         width="105.2%"
         height="106.5%"
         filterUnits="objectBoundingBox"
-        id="a"
+        id="_ambl_Zod__a"
       >
         <feOffset dx={1} dy={1} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -51,8 +51,13 @@ const Zod = (props: SVGProps<SVGSVGElement>) => (
         points="144.596212 12.5642823 33.9304463 76.4571406 16.7194669 54.9715457 90.8141008 12.1929865"
       />
       <g>
-        <use fill="black" fillOpacity={1} filter="url(#a)" href="#b" />
-        <use fill="#3068B7" href="#b" />
+        <use
+          fill="black"
+          fillOpacity={1}
+          filter="url(#_ambl_Zod__a)"
+          href="#_ambl_Zod__b"
+        />
+        <use fill="#3068B7" href="#_ambl_Zod__b" />
       </g>
     </g>
   </svg>

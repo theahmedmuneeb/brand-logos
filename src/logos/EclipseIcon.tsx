@@ -14,7 +14,7 @@ const EclipseIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="1089.3962%"
         x2="49.9996994%"
         y2="-159.499661%"
-        id="a"
+        id="_ambl_EclipseIcon__a"
       >
         <stop stopColor="#473788" offset="30.33%" />
         <stop stopColor="#2C2255" offset="87.2%" />
@@ -24,7 +24,7 @@ const EclipseIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="896.536635%"
         x2="49.9989479%"
         y2="-352.359227%"
-        id="b"
+        id="_ambl_EclipseIcon__b"
       >
         <stop stopColor="#473788" offset="30.33%" />
         <stop stopColor="#2C2255" offset="87.2%" />
@@ -34,7 +34,7 @@ const EclipseIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="215.169856%"
         x2="49.9988435%"
         y2="-166.715419%"
-        id="c"
+        id="_ambl_EclipseIcon__c"
       >
         <stop stopColor="#473788" offset="30.33%" />
         <stop stopColor="#2C2255" offset="86.31%" />
@@ -56,15 +56,15 @@ const EclipseIcon = (props: SVGProps<SVGSVGElement>) => (
       <g transform="translate(63.110477, 99.069153)">
         <path
           d="M156.201359,14.2695764 C155.817025,9.53336127 155.020235,4.91432119 153.829736,0.452295655 L2.65049941,0.452295655 C1.460001,4.91197769 0.660867227,9.53101777 0.276533095,14.2695764 L156.201359,14.2695764 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_EclipseIcon__a)"
         />
         <path
           d="M156.201359,27.1025868 L0.278876596,27.1025868 C0.663210728,31.8388019 1.4576575,36.457842 2.65049941,40.9198675 L153.83208,40.9198675 C155.022578,36.457842 155.817025,31.8388019 156.201359,27.1025868 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_EclipseIcon__b)"
         />
         <path
           d="M78.2401179,98.9355735 C109.635998,98.9355735 136.698745,80.4383216 149.161483,53.7505345 L7.31875301,53.7505345 C19.7814903,80.4383216 46.8442376,98.9355735 78.2401179,98.9355735 Z"
-          fill="url(#c)"
+          fill="url(#_ambl_EclipseIcon__c)"
         />
       </g>
       <path

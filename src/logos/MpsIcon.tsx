@@ -14,7 +14,7 @@ const MpsIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="132.916667%"
         x2="-19.4666667%"
         y2="11.0333333%"
-        id="a"
+        id="_ambl_MpsIcon__a"
       >
         <stop stopColor="#087CFA" offset="6%" />
         <stop stopColor="#21D789" offset="87%" />
@@ -24,7 +24,7 @@ const MpsIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="92.4166667%"
         x2="28.6675778%"
         y2="-29.4666667%"
-        id="b"
+        id="_ambl_MpsIcon__b"
       >
         <stop stopColor="#087CFA" offset="5%" />
         <stop stopColor="#0A84F0" offset="18%" />
@@ -37,7 +37,7 @@ const MpsIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="103.028279%"
         x2="64.8540035%"
         y2="-21.3983523%"
-        id="c"
+        id="_ambl_MpsIcon__c"
       >
         <stop stopColor="#21D789" offset="12%" />
         <stop stopColor="#6AE274" offset="36%" />
@@ -49,12 +49,15 @@ const MpsIcon = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_MpsIcon__a)"
         points="0 256 256 256 127.402667 127.658667 1.5158245e-14 0"
       />
-      <polygon fill="url(#b)" points="256 256 127.402667 127.658667 256 0" />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_MpsIcon__b)"
+        points="256 256 127.402667 127.658667 256 0"
+      />
+      <polygon
+        fill="url(#_ambl_MpsIcon__c)"
         points="191.573333 191.616 127.402667 127.658667 256 0"
       />
     </g>

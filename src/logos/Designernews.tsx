@@ -9,18 +9,18 @@ const Designernews = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <circle id="a" cx={128} cy={128} r={128} />
+      <circle id="_ambl_Designernews__a" cx={128} cy={128} r={128} />
     </defs>
     <g>
       <g>
-        <mask id="b" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_Designernews__b" fill="white">
+          <use href="#_ambl_Designernews__a" />
         </mask>
-        <use fill="#B3BBC6" href="#a" />
+        <use fill="#B3BBC6" href="#_ambl_Designernews__a" />
         <path
           d="M38.714754,176.727132 L146.054592,256.57084 L410.061375,273.175 L207.754106,85.9239334 L207.754109,128.612129 L188.879536,115.09473 L153.75844,85.9239334 L132.850131,120.007331 L103.455284,95.4675808 L51.7688072,92.1887808 L38.714754,176.727132 L38.714754,176.727132 Z"
           fill="#666C76"
-          mask="url(#b)"
+          mask="url(#_ambl_Designernews__b)"
         />
       </g>
       <path

@@ -9,7 +9,13 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="0%" y1="-1.92038577e-14%" x2="50%" y2="50%" id="a">
+      <linearGradient
+        x1="0%"
+        y1="-1.92038577e-14%"
+        x2="50%"
+        y2="50%"
+        id="_ambl_Freedomdefined__a"
+      >
         <stop stopColor="#FF5959" offset="0%" />
         <stop stopColor="#DF0000" offset="100%" />
       </linearGradient>
@@ -18,7 +24,7 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
         y1="99.1933919%"
         x2="50.0399865%"
         y2="50%"
-        id="b"
+        id="_ambl_Freedomdefined__b"
       >
         <stop stopColor="#FFB73D" offset="0%" />
         <stop stopColor="#FFA000" offset="100%" />
@@ -28,7 +34,7 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
         y1="92.8186757%"
         x2="50%"
         y2="50%"
-        id="c"
+        id="_ambl_Freedomdefined__c"
       >
         <stop stopColor="#FFF18D" offset="0%" />
         <stop stopColor="#FFCD01" offset="100%" />
@@ -38,7 +44,7 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
         y1="82.1708514%"
         x2="4.07623108%"
         y2="4.07622973%"
-        id="d"
+        id="_ambl_Freedomdefined__d"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" stopOpacity={0} offset="100%" />
@@ -48,12 +54,18 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
         y1="97.0956486%"
         x2="50%"
         y2="50%"
-        id="e"
+        id="_ambl_Freedomdefined__e"
       >
         <stop stopColor="#00A000" stopOpacity={0.25892857} offset="0%" />
         <stop stopColor="#008000" offset="100%" />
       </linearGradient>
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="f">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="100%"
+        y2="50%"
+        id="_ambl_Freedomdefined__f"
+      >
         <stop stopColor="#263CCE" offset="0%" />
         <stop stopColor="#263CCE" stopOpacity={0} offset="100%" />
       </linearGradient>
@@ -62,7 +74,7 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
         y1="50%"
         x2="-42.7825311%"
         y2="-3.5680259%"
-        id="g"
+        id="_ambl_Freedomdefined__g"
       >
         <stop stopColor="#652F99" offset="0%" />
         <stop stopColor="#502679" stopOpacity={0.65178573} offset="100%" />
@@ -71,32 +83,32 @@ const Freedomdefined = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M255.410135,127.410191 C255.410135,197.77687 198.366671,254.820333 127.999993,254.820333 C57.6333146,254.820333 0.589851134,197.77687 0.589851134,127.410191 C0.589851134,57.0435131 57.6333146,4.95483871e-05 127.999993,4.95483871e-05 L127.999993,127.410191 L255.410135,127.410191 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Freedomdefined__a)"
       />
       <path
         d="M127.999994,236.618916 C67.6856881,236.618916 18.7912824,187.72451 18.7912824,127.410204 C18.7912824,67.0958983 67.6856881,18.2014926 127.999994,18.2014926 C188.3143,18.2014926 237.208706,67.0958983 237.208706,127.410204 L127.999994,127.410204 L127.999994,236.618916 L127.999994,236.618916 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Freedomdefined__b)"
       />
       <path
         d="M219.007588,127.410309 C219.007588,177.672195 178.26228,218.417504 128.000394,218.417504 C77.7385085,218.417504 36.9931998,177.672195 36.9931998,127.410309 C36.9931998,77.1484238 77.7385085,36.4031151 128.000394,36.4031151 L128.000394,127.410309 L219.007588,127.410309 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Freedomdefined__c)"
         transform="translate(128.000394, 127.410309) scale(-1, -1) translate(-128.000394, -127.410309) "
       />
       <path
         d="M127.999785,54.6049463 C168.209274,54.6049463 200.805506,87.2011776 200.805506,127.410667 C200.805506,167.620156 168.209274,200.216387 127.999785,200.216387 C87.7902962,200.216387 55.1940648,167.620156 55.1940648,127.410667 L127.999785,127.410667 L127.999785,54.6049463 L127.999785,54.6049463 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_Freedomdefined__d)"
       />
       <path
         d="M182.604523,127.410156 C182.604523,157.567297 158.15733,182.01449 128.000189,182.01449 C97.8430478,182.01449 73.3958547,157.567297 73.3958547,127.410156 C73.3958547,97.253015 97.8430478,72.8058219 128.000189,72.8058219 L128.000189,127.410156 L182.604523,127.410156 Z"
-        fill="url(#e)"
+        fill="url(#_ambl_Freedomdefined__e)"
       />
       <path
         d="M128.000378,164.540978 C107.895633,164.540978 91.5975173,148.242862 91.5975173,128.138117 C91.5975173,108.033373 107.895633,91.7352571 128.000378,91.7352571 C148.105122,91.7352571 164.403238,108.033373 164.403238,128.138117 L128.000378,128.138117 L128.000378,164.540978 L128.000378,164.540978 Z"
-        fill="url(#f)"
+        fill="url(#_ambl_Freedomdefined__f)"
       />
       <path
         d="M146.201562,127.410445 C146.201562,133.91319 142.732389,139.921974 137.100847,143.173346 C131.469305,146.424719 124.530959,146.424719 118.899417,143.173346 C113.267875,139.921974 109.798702,133.91319 109.798702,127.410445 C109.798702,120.9077 113.267875,114.898916 118.899417,111.647544 C124.530959,108.396171 131.469305,108.396171 137.100847,111.647544 C142.732389,114.898916 146.201562,120.9077 146.201562,127.410445 L146.201562,127.410445 Z"
-        fill="url(#g)"
+        fill="url(#_ambl_Freedomdefined__g)"
         transform="translate(128.000132, 127.410445) scale(-1, -1) translate(-128.000132, -127.410445) "
       />
     </g>

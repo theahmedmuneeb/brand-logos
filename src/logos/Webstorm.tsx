@@ -14,7 +14,7 @@ const Webstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="1.95055805%"
         x2="66.1603983%"
         y2="95.243559%"
-        id="a"
+        id="_ambl_Webstorm__a"
       >
         <stop stopColor="#07C3F2" offset="28%" />
         <stop stopColor="#087CFA" offset="94%" />
@@ -24,7 +24,7 @@ const Webstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="15.0779309%"
         x2="70.3624968%"
         y2="84.6848882%"
-        id="b"
+        id="_ambl_Webstorm__b"
       >
         <stop stopColor="#FCF84A" offset="14%" />
         <stop stopColor="#07C3F2" offset="37%" />
@@ -34,7 +34,7 @@ const Webstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="25.0583139%"
         x2="56.2028807%"
         y2="90.2032656%"
-        id="c"
+        id="_ambl_Webstorm__c"
       >
         <stop stopColor="#07C3F2" offset="28%" />
         <stop stopColor="#087CFA" offset="94%" />
@@ -42,15 +42,15 @@ const Webstorm = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Webstorm__a)"
         points="34.5066667 231.36 0 26.8266667 63.8133333 0.346666667 104.56 24.56 141.893333 4.42666667 219.68 34.2933333 176.053333 256"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Webstorm__b)"
         points="256 86.6933333 222.96 5.09333333 163.013333 0 70.48 88.9066667 95.3866667 203.493333 141.893333 236.106667 256 168.4 228 115.893333"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Webstorm__c)"
         points="204.72 74.5333333 228 115.893333 256 86.6933333 235.44 35.8666667"
       />
       <polygon fill="#000000" points="48 48 208 48 208 208 48 208" />

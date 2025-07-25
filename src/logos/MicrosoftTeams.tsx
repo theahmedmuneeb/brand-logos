@@ -14,7 +14,7 @@ const MicrosoftTeams = (props: SVGProps<SVGSVGElement>) => (
         y1="-6.51032331%"
         x2="82.6280767%"
         y2="106.510437%"
-        id="a"
+        id="_ambl_MicrosoftTeams__a"
       >
         <stop stopColor="#5A62C3" offset="0%" />
         <stop stopColor="#4D55BD" offset="50%" />
@@ -74,7 +74,7 @@ const MicrosoftTeams = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M10.9126884,53.5814034 L120.063922,53.5814034 C126.090883,53.5814034 130.976611,58.4672463 130.976611,64.4940918 L130.976611,173.645326 C130.976611,179.672286 126.090768,184.558014 120.063922,184.558014 L10.9126884,184.558014 C4.88572809,184.558014 0,179.672171 0,173.645326 L0,64.4940918 C0,58.4672463 4.88584295,53.5814034 10.9126884,53.5814034 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_MicrosoftTeams__a)"
       />
       <polygon
         fill="#FFFFFF"

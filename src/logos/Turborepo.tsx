@@ -14,7 +14,7 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
         y1="-3.85716965e-07%"
         x2="123.779228%"
         y2="698.962346%"
-        id="a"
+        id="_ambl_Turborepo__a"
       >
         <stop stopColor="#1E90FF" offset="0%" />
         <stop stopColor="#FF1E56" offset="100%" />
@@ -24,7 +24,7 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
         y1="-2.19377472%"
         x2="11.4859916%"
         y2="512.39779%"
-        id="b"
+        id="_ambl_Turborepo__b"
       >
         <stop stopColor="#1E90FF" offset="0%" />
         <stop stopColor="#FF1E56" offset="100%" />
@@ -34,7 +34,7 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
         y1="-62.2632095%"
         x2="-153.743225%"
         y2="278.479413%"
-        id="c"
+        id="_ambl_Turborepo__c"
       >
         <stop stopColor="#1E90FF" offset="0%" />
         <stop stopColor="#FF1E56" offset="100%" />
@@ -44,7 +44,7 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
         y1="-178.48023%"
         x2="-153.743225%"
         y2="162.263952%"
-        id="d"
+        id="_ambl_Turborepo__d"
       >
         <stop stopColor="#1E90FF" offset="0%" />
         <stop stopColor="#FF1E56" offset="100%" />
@@ -54,7 +54,7 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
         y1="-412.397334%"
         x2="11.4859916%"
         y2="102.193662%"
-        id="e"
+        id="_ambl_Turborepo__e"
       >
         <stop stopColor="#1E90FF" offset="0%" />
         <stop stopColor="#FF1E56" offset="100%" />
@@ -64,7 +64,7 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
         y1="-598.960854%"
         x2="123.779228%"
         y2="99.9997513%"
-        id="f"
+        id="_ambl_Turborepo__f"
       >
         <stop stopColor="#1E90FF" offset="0%" />
         <stop stopColor="#FF1E56" offset="100%" />
@@ -74,27 +74,27 @@ const Turborepo = (props: SVGProps<SVGSVGElement>) => (
       <g transform="translate(419.719229, 0.000000)">
         <path
           d="M37.2763559,0.0340938041 C24.0927286,-0.42049017 10.9106412,3.67076467 0,12.3078654 L7.27324749,16.399071 C15.9109026,10.0349409 26.8200039,7.30743462 37.2763559,7.76201644 L37.2763559,0.0340938041 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_Turborepo__a)"
         />
         <path
           d="M75.9155794,17.3082654 C66.8236351,7.76200104 55.0044154,1.8524066 42.2766173,0.488654987 L42.2766173,8.21658285 C53.1872585,10.0349255 62.7334921,15.0353409 70.4610288,22.763278 L75.9155794,17.3082654 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_Turborepo__b)"
         />
         <path
           d="M92.2807713,54.5841593 C91.826482,42.7649396 87.2805099,30.94572 79.5529731,20.9448892 L74.0968826,26.3999018 C80.4615516,35.0370949 84.0989453,44.5833285 84.5532345,54.5841593 L92.2807713,54.5841593 Z"
-          fill="url(#c)"
+          fill="url(#_ambl_Turborepo__c)"
         />
         <path
           d="M79.5529731,93.6782881 C87.2805099,83.6774573 91.826482,71.8583916 92.2807713,60.0391719 L84.5532345,60.0391719 C84.0989453,70.0400027 80.4615516,79.5862363 74.0968826,88.2232754 L79.5529731,93.6782881 Z"
-          fill="url(#d)"
+          fill="url(#_ambl_Turborepo__d)"
         />
         <path
           d="M42.2766173,114.134701 C54.5501262,112.770909 66.8236351,106.861299 75.9155794,97.3150658 L70.4610288,91.8600532 C62.7334921,100.042495 52.7314293,105.042911 42.2766173,106.406702 L42.2766173,114.134701 Z"
-          fill="url(#e)"
+          fill="url(#_ambl_Turborepo__e)"
         />
         <path
           d="M0,102.315481 C10.9106412,110.95252 24.0927286,115.043741 37.2763559,114.589298 L37.2763559,106.861299 C26.8200039,107.315897 16.3651918,104.588313 7.27324749,98.2242602 L0,102.315481 Z"
-          fill="url(#f)"
+          fill="url(#_ambl_Turborepo__f)"
         />
       </g>
       <path

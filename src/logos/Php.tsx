@@ -10,7 +10,7 @@ const Php = (props: SVGProps<SVGSVGElement>) => (
   >
     <defs>
       <radialGradient
-        id="a"
+        id="_ambl_Php__a"
         cx={0.8366}
         cy={-125.811}
         r={363.0565}
@@ -38,7 +38,13 @@ const Php = (props: SVGProps<SVGSVGElement>) => (
       </radialGradient>
     </defs>
     <g>
-      <ellipse fill="url(#a)" cx={128} cy={67.3} rx={128} ry={67.3} />
+      <ellipse
+        fill="url(#_ambl_Php__a)"
+        cx={128}
+        cy={67.3}
+        rx={128}
+        ry={67.3}
+      />
       <ellipse fill="#6181B6" cx={128} cy={67.3} rx={123} ry={62.3} />
       <g>
         <path

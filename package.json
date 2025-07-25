@@ -1,6 +1,6 @@
 {
   "name": "brand-logos",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of colorful brand logos for React.",
   "main": "dist/index.js",
   "module": "dist/index.js",

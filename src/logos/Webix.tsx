@@ -10,10 +10,16 @@ const Webix = (props: SVGProps<SVGSVGElement>) => (
   >
     <defs>
       <polygon
-        id="a"
+        id="_ambl_Webix__a"
         points="0 108.28075 0 0.527317666 49.4555966 54.5979219 99.1248526 0.527317666 148.132095 54.3176745 197.509968 0.527317666 197.509968 108.529023 148.68728 163.269614 99.1248526 109.268761 49.5624267 163.269614"
       />
-      <linearGradient x1="12.932%" y1="9.052%" x2="71.216%" y2="81.625%" id="b">
+      <linearGradient
+        x1="12.932%"
+        y1="9.052%"
+        x2="71.216%"
+        y2="81.625%"
+        id="_ambl_Webix__b"
+      >
         <stop stopColor="#67337A" offset="0%" />
         <stop stopColor="#723986" offset="100%" />
       </linearGradient>
@@ -22,7 +28,7 @@ const Webix = (props: SVGProps<SVGSVGElement>) => (
         y1="52.448%"
         x2="29.654%"
         y2="52.448%"
-        id="d"
+        id="_ambl_Webix__d"
       >
         <stop stopColor="#623274" stopOpacity={0} offset="0%" />
         <stop stopColor="#542C65" offset="100%" />
@@ -32,16 +38,28 @@ const Webix = (props: SVGProps<SVGSVGElement>) => (
         y1="52.448%"
         x2="29.654%"
         y2="52.448%"
-        id="e"
+        id="_ambl_Webix__e"
       >
         <stop stopColor="#623274" stopOpacity={0} offset="0%" />
         <stop stopColor="#542C65" offset="100%" />
       </linearGradient>
-      <linearGradient x1="91.675%" y1="5.599%" x2="56.225%" y2="79.874%" id="f">
+      <linearGradient
+        x1="91.675%"
+        y1="5.599%"
+        x2="56.225%"
+        y2="79.874%"
+        id="_ambl_Webix__f"
+      >
         <stop stopColor="#8A519F" offset="0%" />
         <stop stopColor="#8A53A0" offset="100%" />
       </linearGradient>
-      <linearGradient x1="63.479%" y1="48.225%" x2="0%" y2="48.225%" id="g">
+      <linearGradient
+        x1="63.479%"
+        y1="48.225%"
+        x2="0%"
+        y2="48.225%"
+        id="_ambl_Webix__g"
+      >
         <stop stopColor="#8A529F" stopOpacity={0.1} offset="0%" />
         <stop stopColor="#542C65" offset="100%" />
       </linearGradient>
@@ -50,24 +68,42 @@ const Webix = (props: SVGProps<SVGSVGElement>) => (
         y1="31.401%"
         x2="80.097%"
         y2="66.964%"
-        id="h"
+        id="_ambl_Webix__h"
       >
         <stop stopColor="#5C2E6D" offset="0%" />
         <stop stopColor="#6D377B" offset="100%" />
       </linearGradient>
-      <linearGradient x1="12.346%" y1="34.458%" x2="81.65%" y2="53.652%" id="i">
+      <linearGradient
+        x1="12.346%"
+        y1="34.458%"
+        x2="81.65%"
+        y2="53.652%"
+        id="_ambl_Webix__i"
+      >
         <stop stopColor="#612E74" offset="0%" />
         <stop stopColor="#7F4395" offset="100%" />
       </linearGradient>
-      <linearGradient x1="100%" y1="0%" x2="100%" y2="69.36%" id="j">
+      <linearGradient
+        x1="100%"
+        y1="0%"
+        x2="100%"
+        y2="69.36%"
+        id="_ambl_Webix__j"
+      >
         <stop stopColor="#582C6A" offset="0%" />
         <stop stopColor="#743983" offset="100%" />
       </linearGradient>
-      <linearGradient x1="50%" y1="74.788%" x2="19.624%" y2="71.707%" id="k">
+      <linearGradient
+        x1="50%"
+        y1="74.788%"
+        x2="19.624%"
+        y2="71.707%"
+        id="_ambl_Webix__k"
+      >
         <stop stopColor="#623274" stopOpacity={0} offset="0%" />
         <stop stopColor="#542C65" offset="100%" />
       </linearGradient>
-      <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="l">
+      <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="_ambl_Webix__l">
         <stop stopColor="#723A85" offset="0%" />
         <stop stopColor="#8C519C" offset="100%" />
       </linearGradient>
@@ -76,93 +112,105 @@ const Webix = (props: SVGProps<SVGSVGElement>) => (
         y1="35.927%"
         x2="62.291%"
         y2="46.718%"
-        id="m"
+        id="_ambl_Webix__m"
       >
         <stop stopColor="#66397A" offset="0%" />
         <stop stopColor="#9F69AB" offset="100%" />
       </linearGradient>
-      <linearGradient x1="72%" y1="48.225%" x2="0%" y2="48.225%" id="n">
+      <linearGradient
+        x1="72%"
+        y1="48.225%"
+        x2="0%"
+        y2="48.225%"
+        id="_ambl_Webix__n"
+      >
         <stop stopColor="#623274" stopOpacity={0} offset="0%" />
         <stop stopColor="#542C65" offset="100%" />
       </linearGradient>
-      <linearGradient x1="50%" y1="21.039%" x2="50%" y2="78.192%" id="o">
+      <linearGradient
+        x1="50%"
+        y1="21.039%"
+        x2="50%"
+        y2="78.192%"
+        id="_ambl_Webix__o"
+      >
         <stop stopColor="#5D306E" offset="0%" />
         <stop stopColor="#9F6AAA" offset="100%" />
       </linearGradient>
     </defs>
     <g>
       <g>
-        <mask id="c" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_Webix__c" fill="white">
+          <use href="#_ambl_Webix__a" />
         </mask>
-        <use fill="#5B2E6E" href="#a" />
+        <use fill="#5B2E6E" href="#_ambl_Webix__a" />
         <path
           d="M24.7827421,81.8984655 C29.9166378,76.2779888 46.4384659,58.1931276 49.5624267,54.7728518 C43.2849471,47.9038317 10.2423103,11.7387866 0,0.527317666 C0.624792108,2.58009321 22.2703235,73.6497445 24.7827421,81.8984655 Z"
-          fill="url(#b)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__b)"
+          mask="url(#_ambl_Webix__c)"
         />
         <polygon
-          fill="url(#d)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__d)"
+          mask="url(#_ambl_Webix__c)"
           transform="translate(15.112586, 42.892028) rotate(-17.000000) translate(-15.112586, -42.892028) "
           points="13.046591 -2.04003876 24.6485424 22.0823392 25.0990447 87.8241441 5.12612651 87.8241441"
         />
         <polygon
-          fill="url(#e)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__e)"
+          mask="url(#_ambl_Webix__c)"
           transform="translate(34.767674, 67.843448) rotate(-125.000000) translate(-34.767674, -67.843448) "
           points="22.9318707 47.1307926 46.6034773 54.9098298 44.4264084 86.4597512 28.6803964 88.5561042"
         />
         <polygon
-          fill="url(#f)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__f)"
+          mask="url(#_ambl_Webix__c)"
           points="147.947542 54.5254884 197.509968 108.529023 197.509968 0.527317666"
         />
         <polygon
-          fill="url(#g)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__g)"
+          mask="url(#_ambl_Webix__c)"
           transform="translate(177.893705, 75.925687) rotate(-46.000000) translate(-177.893705, -75.925687) "
           points="172.477187 39.5455626 187.71998 39.1667476 183.49899 97.7825417 168.06743 112.684627"
         />
         <polygon
-          fill="url(#h)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__h)"
+          mask="url(#_ambl_Webix__c)"
           points="148.68728 163.269614 197.509968 108.529023 130.193836 34.5552525"
         />
         <polygon
-          fill="url(#i)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__i)"
+          mask="url(#_ambl_Webix__c)"
           points="99.1248526 109.268761 148.68728 163.269614 130.193836 34.5552525"
         />
         <polygon
-          fill="url(#j)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__j)"
+          mask="url(#_ambl_Webix__c)"
           points="49.5624267 163.269614 99.1248526 109.268761 99.1248526 0.527317666"
         />
         <polygon
-          fill="url(#k)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__k)"
+          mask="url(#_ambl_Webix__c)"
           points="49.5624267 163.269614 68.9437018 142.152701 99.1248526 32.294596 99.1248526 0.527317666"
         />
         <polygon
-          fill="url(#l)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__l)"
+          mask="url(#_ambl_Webix__c)"
           points="99.1248526 109.268761 130.193836 34.5552525 99.1248526 0.527317666"
         />
         <path
           d="M24.4113444,81.7934244 C26.107999,87.3518133 49.5658177,163.269614 49.5658177,163.269614 L99.1248526,0.527317666 L24.4113444,81.7934244 Z"
-          fill="url(#m)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__m)"
+          mask="url(#_ambl_Webix__c)"
         />
         <polygon
-          fill="url(#n)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__n)"
+          mask="url(#_ambl_Webix__c)"
           transform="translate(43.428120, 114.487396) rotate(-17.000000) translate(-43.428120, -114.487396) "
           points="32.2589576 79.1168799 54.5972816 66.0442458 54.4063572 151.552561 35.0321558 162.930547"
         />
         <polygon
-          fill="url(#o)"
-          mask="url(#c)"
+          fill="url(#_ambl_Webix__o)"
+          mask="url(#_ambl_Webix__c)"
           points="0 108.883717 49.5624267 163.269614 0.00203333831 0.527317666"
         />
       </g>

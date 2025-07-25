@@ -9,14 +9,21 @@ const Trello = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a">
+      <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="_ambl_Trello__a">
         <stop stopColor="#0091E6" offset="0%" />
         <stop stopColor="#0079BF" offset="100%" />
       </linearGradient>
     </defs>
     <g>
       <g>
-        <rect fill="url(#a)" x={0} y={0} width={256} height={256} rx={25} />
+        <rect
+          fill="url(#_ambl_Trello__a)"
+          x={0}
+          y={0}
+          width={256}
+          height={256}
+          rx={25}
+        />
         <rect
           fill="#FFFFFF"
           x={144.64}

@@ -14,7 +14,7 @@ const KtorIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="23.9648148%"
         x2="74.6407407%"
         y2="74.6407407%"
-        id="a"
+        id="_ambl_KtorIcon__a"
       >
         <stop stopColor="#00AFFF" offset="29.6%" />
         <stop stopColor="#5282FF" offset="69.4%" />
@@ -25,7 +25,7 @@ const KtorIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="26.2055556%"
         x2="74.1166667%"
         y2="74.1166667%"
-        id="b"
+        id="_ambl_KtorIcon__b"
       >
         <stop stopColor="#C757BC" offset="10.8%" />
         <stop stopColor="#CD5CA9" offset="17.3%" />
@@ -36,11 +36,11 @@ const KtorIcon = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_KtorIcon__a)"
         points="170.666667 85.3333333 128.176988 42.8436543 85.3333333 0 40.2773333 45.056 0 85.3333333 85.3333333 170.666667"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_KtorIcon__b)"
         points="85.3333333 170.666667 127.823012 213.156346 170.666667 256 215.722667 210.944 256 170.666667 170.666667 85.3333333"
       />
       <polygon

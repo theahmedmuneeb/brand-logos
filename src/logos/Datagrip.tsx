@@ -14,7 +14,7 @@ const Datagrip = (props: SVGProps<SVGSVGElement>) => (
         y1="46.2074978%"
         x2="50.1853681%"
         y2="99.4768963%"
-        id="a"
+        id="_ambl_Datagrip__a"
       >
         <stop stopColor="#21D789" offset="16%" />
         <stop stopColor="#419FBC" offset="54%" />
@@ -25,7 +25,7 @@ const Datagrip = (props: SVGProps<SVGSVGElement>) => (
         y1="64.0206872%"
         x2="53.5259327%"
         y2="50%"
-        id="b"
+        id="_ambl_Datagrip__b"
       >
         <stop stopColor="#6B57FF" offset="0%" />
         <stop stopColor="#21D789" offset="95%" />
@@ -35,7 +35,7 @@ const Datagrip = (props: SVGProps<SVGSVGElement>) => (
         y1="22.7672145%"
         x2="45.5808869%"
         y2="53.8903979%"
-        id="c"
+        id="_ambl_Datagrip__c"
       >
         <stop stopColor="#6B57FF" offset="0%" />
         <stop stopColor="#685CFB" offset="2%" />
@@ -49,12 +49,18 @@ const Datagrip = (props: SVGProps<SVGSVGElement>) => (
         y1="28.101941%"
         x2="124.61964%"
         y2="74.0339727%"
-        id="d"
+        id="_ambl_Datagrip__d"
       >
         <stop stopColor="#21D789" offset="8%" />
         <stop stopColor="#6B57FF" offset="89%" />
       </linearGradient>
-      <linearGradient x1="7.22073876%" y1="50%" x2="101.29061%" y2="50%" id="e">
+      <linearGradient
+        x1="7.22073876%"
+        y1="50%"
+        x2="101.29061%"
+        y2="50%"
+        id="_ambl_Datagrip__e"
+      >
         <stop stopColor="#21D789" offset="31%" />
         <stop stopColor="#59A3B2" offset="49%" />
         <stop stopColor="#B74AF7" offset="77%" />
@@ -63,20 +69,23 @@ const Datagrip = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Datagrip__a)"
         points="239.68 39.7866667 256 144.586667 225.84 162.133333"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Datagrip__b)"
         points="239.68 39.7866667 148.026667 3.55271368e-15 122.453333 21.2266667"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Datagrip__c)"
         points="172.986667 256 30.7733333 142.693333 2.21333333 228.586667"
       />
-      <polygon fill="url(#d)" points="192.8 184.4 0 118.16 172.986667 256" />
       <polygon
-        fill="url(#e)"
+        fill="url(#_ambl_Datagrip__d)"
+        points="192.8 184.4 0 118.16 172.986667 256"
+      />
+      <polygon
+        fill="url(#_ambl_Datagrip__e)"
         points="0 1.81333333 0 118.16 222.16 194.506667 239.68 39.7866667"
       />
       <polygon

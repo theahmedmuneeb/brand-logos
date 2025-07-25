@@ -9,11 +9,11 @@ const Appcode = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="a">
+      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="_ambl_Appcode__a">
         <stop stopColor="#07C3F2" offset="19%" />
         <stop stopColor="#087CFA" offset="90%" />
       </linearGradient>
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="b">
+      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="_ambl_Appcode__b">
         <stop stopColor="#07C3F2" offset="19%" />
         <stop stopColor="#087CFA" offset="90%" />
       </linearGradient>
@@ -22,7 +22,7 @@ const Appcode = (props: SVGProps<SVGSVGElement>) => (
         y1="103.177083%"
         x2="16.2445747%"
         y2="34.03125%"
-        id="c"
+        id="_ambl_Appcode__c"
       >
         <stop stopColor="#21D789" offset="9%" />
         <stop stopColor="#07C3F2" offset="48%" />
@@ -35,15 +35,15 @@ const Appcode = (props: SVGProps<SVGSVGElement>) => (
         points="195.626667 256 256 96.3733333 208 85.4933333"
       />
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Appcode__a)"
         points="255.253333 205.333333 195.626667 256 110.533333 234.08"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Appcode__b)"
         points="31.8666667 117.28 4.66666667 39.4666667 140.48 -7.10542736e-15"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Appcode__c)"
         points="223.36 148.213333 185.253333 83.1733333 185.973333 82.72 140.48 0 0 151.706667 0 256 255.253333 205.333333"
       />
       <polygon fill="#000000" points="48 48 208 48 208 208 48 208" />

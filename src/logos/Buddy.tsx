@@ -11,15 +11,15 @@ const Buddy = (props: SVGProps<SVGSVGElement>) => (
     <defs>
       <path
         d="M116.612,3.643 C92.293,17.641 35.707,50.383 11.389,64.38 C4.389,68.414 0,76.006 0,84.073 L0,205.549 C0,213.615 4.389,221.208 11.389,225.241 C35.589,239.239 92.293,271.98 116.612,285.979 C123.729,290.011 132.389,290.011 139.388,285.979 C163.589,271.98 220.293,239.239 244.611,225.241 C251.61,221.208 256,213.615 256,205.549 L256,84.073 C256,75.888 251.61,68.414 244.611,64.38 C220.411,50.383 163.707,17.641 139.388,3.643 C135.829,1.626 131.885,0.618 127.955,0.618 C124.026,0.618 120.111,1.626 116.612,3.643 Z"
-        id="a"
+        id="_ambl_Buddy__a"
       />
     </defs>
     <g>
-      <mask id="b" fill="white">
-        <use href="#a" />
+      <mask id="_ambl_Buddy__b" fill="white">
+        <use href="#_ambl_Buddy__a" />
       </mask>
-      <use fill="#00C9FF" fillRule="nonzero" href="#a" />
-      <g mask="url(#b)" fillRule="nonzero">
+      <use fill="#00C9FF" fillRule="nonzero" href="#_ambl_Buddy__a" />
+      <g mask="url(#_ambl_Buddy__b)" fillRule="nonzero">
         <g transform="translate(0.000000, -3.000000)">
           <polygon
             fill="#1A67FD"

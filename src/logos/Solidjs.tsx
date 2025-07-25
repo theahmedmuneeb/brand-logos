@@ -10,7 +10,7 @@ const Solidjs = (props: SVGProps<SVGSVGElement>) => (
   >
     <defs>
       <linearGradient
-        id="a"
+        id="_ambl_Solidjs__a"
         gradientUnits="userSpaceOnUse"
         x1={27.5}
         y1={3}
@@ -23,7 +23,7 @@ const Solidjs = (props: SVGProps<SVGSVGElement>) => (
         <stop offset={1} stopColor="#76b3e1" />
       </linearGradient>
       <linearGradient
-        id="b"
+        id="_ambl_Solidjs__b"
         gradientUnits="userSpaceOnUse"
         x1={95.8}
         y1={32.6}
@@ -36,7 +36,7 @@ const Solidjs = (props: SVGProps<SVGSVGElement>) => (
         <stop offset={1} stopColor="#1f3b77" />
       </linearGradient>
       <linearGradient
-        id="c"
+        id="_ambl_Solidjs__c"
         gradientUnits="userSpaceOnUse"
         x1={18.4}
         y1={64.2}
@@ -49,7 +49,7 @@ const Solidjs = (props: SVGProps<SVGSVGElement>) => (
         <stop offset={1} stopColor="#315aa9" />
       </linearGradient>
       <linearGradient
-        id="d"
+        id="_ambl_Solidjs__d"
         gradientUnits="userSpaceOnUse"
         x1={75.2}
         y1={74.5}
@@ -74,7 +74,7 @@ const Solidjs = (props: SVGProps<SVGSVGElement>) => (
       <path
         d="M 192.1 37.874 C 192.1 37.874 128.067 -9.244 78.531 1.629 L 74.907 2.837 C 67.658 5.254 61.617 8.878 57.992 13.711 L 55.576 17.335 L 37.453 48.748 L 68.866 54.789 C 82.156 63.246 99.07 66.871 114.777 63.246 L 170.353 74.12 L 192.1 37.874 Z"
         opacity={0.3}
-        fill="url(#a)"
+        fill="url(#_ambl_Solidjs__a)"
       />
       <path
         d="M 57.992 37.874 L 53.16 39.083 C 32.621 45.123 26.58 64.454 37.453 81.369 C 49.535 97.075 74.907 105.532 95.446 99.491 L 170.353 74.12 C 170.353 74.12 106.319 27.001 57.992 37.874 Z"
@@ -83,15 +83,15 @@ const Solidjs = (props: SVGProps<SVGSVGElement>) => (
       <path
         d="M 57.992 37.874 L 53.16 39.083 C 32.621 45.123 26.58 64.454 37.453 81.369 C 49.535 97.075 74.907 105.532 95.446 99.491 L 170.353 74.12 C 170.353 74.12 106.319 27.001 57.992 37.874 Z"
         opacity={0.3}
-        fill="url(#b)"
+        fill="url(#_ambl_Solidjs__b)"
       />
       <path
         d="M 157.063 92.242 C 143.226 74.956 120.288 67.788 99.07 74.12 L 24.164 98.283 L 0 140.569 L 135.316 163.525 L 159.479 120.03 C 164.312 111.573 163.104 101.908 157.063 92.242 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Solidjs__c)"
       />
       <path
         d="M 132.899 134.528 C 119.062 117.242 96.125 110.074 74.907 116.406 L 0 140.569 C 0 140.569 64.033 188.896 113.569 176.815 L 117.193 175.606 C 137.732 169.566 144.981 150.235 132.899 134.528 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_Solidjs__d)"
       />
     </g>
   </svg>

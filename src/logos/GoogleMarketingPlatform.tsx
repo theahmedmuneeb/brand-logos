@@ -9,7 +9,13 @@ const GoogleMarketingPlatform = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="0%" y1="50%" x2="99.999319%" y2="50%" id="a">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="99.999319%"
+        y2="50%"
+        id="_ambl_GoogleMarketingPlatform__a"
+      >
         <stop stopColor="#246FDB" offset="0%" />
         <stop stopColor="#2973DF" offset="5.52%" />
         <stop stopColor="#377DEB" offset="27.81%" />
@@ -24,7 +30,7 @@ const GoogleMarketingPlatform = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M218.4,37.5 C168.4,-12.5 87.5,-12.5 37.5,37.5 C-12.5,87.5 -12.5,168.5 37.5,218.5 L82.8,173.3 C57.8,148.3 57.8,107.8 82.8,82.8 C107.8,57.8 148.3,57.8 173.3,82.8 C185.8,95.3 206.1,95.3 218.6,82.8 C230.9,70.3 230.9,50 218.4,37.5 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_GoogleMarketingPlatform__a)"
       />
       <path
         d="M218.4,218.5 L173.1,173.3 C148.1,198.3 107.6,198.3 82.6,173.3 L37.3,218.5 C87.5,268.5 168.4,268.5 218.4,218.5 Z"

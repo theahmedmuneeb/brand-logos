@@ -1,7 +1,6 @@
 import type { SVGProps } from "react";
 const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
   <svg
-    className="bye"
     width={24}
     height={24}
     viewBox="0.1 31.4 256 244.5"
@@ -87,12 +86,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="a" x={42.5} y={75} width={169.5} height={59.2} />
+        <rect
+          id="_ambl_EmberTomster__a"
+          x={42.5}
+          y={75}
+          width={169.5}
+          height={59.2}
+        />
       </defs>
-      <clipPath id="b">
-        <use overflow="visible" href="#a" />
+      <clipPath id="_ambl_EmberTomster__b">
+        <use overflow="visible" href="#_ambl_EmberTomster__a" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#b)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__b)">
         <g transform="translate(443.9775,368.7813)">
           <path
             fill="#FFFFFF"
@@ -103,12 +108,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="c" x={45} y={70.7} width={33.4} height={16.2} />
+        <rect
+          id="_ambl_EmberTomster__c"
+          x={45}
+          y={70.7}
+          width={33.4}
+          height={16.2}
+        />
       </defs>
-      <clipPath id="d">
-        <use overflow="visible" href="#c" />
+      <clipPath id="_ambl_EmberTomster__d">
+        <use overflow="visible" href="#_ambl_EmberTomster__c" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#d)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__d)">
         <g transform="translate(285.2881,440.1162)">
           <path
             fill="#FFFFFF"
@@ -119,12 +130,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="e" x={181} y={79.3} width={25.4} height={17.2} />
+        <rect
+          id="_ambl_EmberTomster__e"
+          x={181}
+          y={79.3}
+          width={25.4}
+          height={17.2}
+        />
       </defs>
-      <clipPath id="f">
-        <use overflow="visible" href="#e" />
+      <clipPath id="_ambl_EmberTomster__f">
+        <use overflow="visible" href="#_ambl_EmberTomster__e" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#f)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__f)">
         <g transform="translate(484.2881,425.6104)">
           <path
             fill="#FFFFFF"
@@ -164,12 +181,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="g" x={193.5} y={196.5} width={23.5} height={27.3} />
+        <rect
+          id="_ambl_EmberTomster__g"
+          x={193.5}
+          y={196.5}
+          width={23.5}
+          height={27.3}
+        />
       </defs>
-      <clipPath id="h">
-        <use overflow="visible" href="#g" />
+      <clipPath id="_ambl_EmberTomster__h">
+        <use overflow="visible" href="#_ambl_EmberTomster__g" />
       </clipPath>
-      <g opacity={0.15} clipPath="url(#h)">
+      <g opacity={0.15} clipPath="url(#_ambl_EmberTomster__h)">
         <g transform="translate(485.335,236)">
           <path
             fill="#E3AB5E"
@@ -191,12 +214,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="i" x={203.2} y={182.8} width={7.8} height={6.4} />
+        <rect
+          id="_ambl_EmberTomster__i"
+          x={203.2}
+          y={182.8}
+          width={7.8}
+          height={6.4}
+        />
       </defs>
-      <clipPath id="j">
-        <use overflow="visible" href="#i" />
+      <clipPath id="_ambl_EmberTomster__j">
+        <use overflow="visible" href="#_ambl_EmberTomster__i" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#j)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__j)">
         <g transform="translate(498.9385,288.042)">
           <path
             fill="#FCD4C3"
@@ -207,12 +236,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="k" x={215.9} y={181.2} width={7.7} height={7.2} />
+        <rect
+          id="_ambl_EmberTomster__k"
+          x={215.9}
+          y={181.2}
+          width={7.7}
+          height={7.2}
+        />
       </defs>
-      <clipPath id="l">
-        <use overflow="visible" href="#k" />
+      <clipPath id="_ambl_EmberTomster__l">
+        <use overflow="visible" href="#_ambl_EmberTomster__k" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#l)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__l)">
         <g transform="translate(518.459,298.042)">
           <path
             fill="#FCD4C3"
@@ -223,12 +258,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="m" x={204.5} y={193} width={15.8} height={8.6} />
+        <rect
+          id="_ambl_EmberTomster__m"
+          x={204.5}
+          y={193}
+          width={15.8}
+          height={8.6}
+        />
       </defs>
-      <clipPath id="n">
-        <use overflow="visible" href="#m" />
+      <clipPath id="_ambl_EmberTomster__n">
+        <use overflow="visible" href="#_ambl_EmberTomster__m" />
       </clipPath>
-      <g opacity={0.25} clipPath="url(#n)">
+      <g opacity={0.25} clipPath="url(#_ambl_EmberTomster__n)">
         <g transform="translate(500.876,276.958)">
           <path
             fill="#FCD4C3"
@@ -239,12 +280,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="o" x={223} y={190.9} width={5.7} height={5} />
+        <rect
+          id="_ambl_EmberTomster__o"
+          x={223}
+          y={190.9}
+          width={5.7}
+          height={5}
+        />
       </defs>
-      <clipPath id="p">
-        <use overflow="visible" href="#o" />
+      <clipPath id="_ambl_EmberTomster__p">
+        <use overflow="visible" href="#_ambl_EmberTomster__o" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#p)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__p)">
         <g transform="translate(530.751,283.3955)">
           <path
             fill="#FCD4C3"
@@ -255,12 +302,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="q" x={66.1} y={182.6} width={128.9} height={36.5} />
+        <rect
+          id="_ambl_EmberTomster__q"
+          x={66.1}
+          y={182.6}
+          width={128.9}
+          height={36.5}
+        />
       </defs>
-      <clipPath id="r">
-        <use overflow="visible" href="#q" />
+      <clipPath id="_ambl_EmberTomster__r">
+        <use overflow="visible" href="#_ambl_EmberTomster__q" />
       </clipPath>
-      <g opacity={0.15} clipPath="url(#r)">
+      <g opacity={0.15} clipPath="url(#_ambl_EmberTomster__r)">
         <g transform="translate(296.834,257.166)">
           <path
             fill="#E3AB5E"
@@ -319,12 +372,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="s" x={180.5} y={44.8} width={18} height={44.6} />
+        <rect
+          id="_ambl_EmberTomster__s"
+          x={180.5}
+          y={44.8}
+          width={18}
+          height={44.6}
+        />
       </defs>
-      <clipPath id="t">
-        <use overflow="visible" href="#s" />
+      <clipPath id="_ambl_EmberTomster__t">
+        <use overflow="visible" href="#_ambl_EmberTomster__s" />
       </clipPath>
-      <g clipPath="url(#t)">
+      <g clipPath="url(#_ambl_EmberTomster__t)">
         <g transform="translate(491.167,503.5005)">
           <path
             fill="#FCD4C3"
@@ -335,12 +394,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="u" x={38.6} y={51.5} width={44.2} height={31.6} />
+        <rect
+          id="_ambl_EmberTomster__u"
+          x={38.6}
+          y={51.5}
+          width={44.2}
+          height={31.6}
+        />
       </defs>
-      <clipPath id="v">
-        <use overflow="visible" href="#u" />
+      <clipPath id="_ambl_EmberTomster__v">
+        <use overflow="visible" href="#_ambl_EmberTomster__u" />
       </clipPath>
-      <g clipPath="url(#v)">
+      <g clipPath="url(#_ambl_EmberTomster__v)">
         <g transform="translate(250.833,484.5005)">
           <path
             fill="#FCD4C3"
@@ -351,12 +416,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="w" x={181.1} y={42.2} width={26.2} height={44.2} />
+        <rect
+          id="_ambl_EmberTomster__w"
+          x={181.1}
+          y={42.2}
+          width={26.2}
+          height={44.2}
+        />
       </defs>
-      <clipPath id="x">
-        <use overflow="visible" href="#w" />
+      <clipPath id="_ambl_EmberTomster__x">
+        <use overflow="visible" href="#_ambl_EmberTomster__w" />
       </clipPath>
-      <g opacity={0.25} clipPath="url(#x)">
+      <g opacity={0.25} clipPath="url(#_ambl_EmberTomster__x)">
         <g transform="translate(496,507.375)">
           <path
             fill="#FCD4C3"
@@ -387,12 +458,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="y" x={61.7} y={64.6} width={117.3} height={111.9} />
+        <rect
+          id="_ambl_EmberTomster__y"
+          x={61.7}
+          y={64.6}
+          width={117.3}
+          height={111.9}
+        />
       </defs>
-      <clipPath id="z">
-        <use overflow="visible" href="#y" />
+      <clipPath id="_ambl_EmberTomster__z">
+        <use overflow="visible" href="#_ambl_EmberTomster__y" />
       </clipPath>
-      <g opacity={0.15} clipPath="url(#z)">
+      <g opacity={0.15} clipPath="url(#_ambl_EmberTomster__z)">
         <g transform="translate(307.168,461.833)">
           <path
             fill="#E3AB5E"
@@ -403,12 +480,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="A" x={118.5} y={119.2} width={13.1} height={5.5} />
+        <rect
+          id="_ambl_EmberTomster__A"
+          x={118.5}
+          y={119.2}
+          width={13.1}
+          height={5.5}
+        />
       </defs>
-      <clipPath id="B">
-        <use overflow="visible" href="#A" />
+      <clipPath id="_ambl_EmberTomster__B">
+        <use overflow="visible" href="#_ambl_EmberTomster__A" />
       </clipPath>
-      <g opacity={0.25} clipPath="url(#B)">
+      <g opacity={0.25} clipPath="url(#_ambl_EmberTomster__B)">
         <g transform="translate(391,387.166)">
           <path
             fill="#E3AB5E"
@@ -423,12 +506,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="C" x={117.9} y={113.2} width={14.5} height={9.9} />
+        <rect
+          id="_ambl_EmberTomster__C"
+          x={117.9}
+          y={113.2}
+          width={14.5}
+          height={9.9}
+        />
       </defs>
-      <clipPath id="D">
-        <use overflow="visible" href="#C" />
+      <clipPath id="_ambl_EmberTomster__D">
+        <use overflow="visible" href="#_ambl_EmberTomster__C" />
       </clipPath>
-      <g clipPath="url(#D)">
+      <g clipPath="url(#_ambl_EmberTomster__D)">
         <g transform="translate(380.2207,400.4053)">
           <path
             fill="#F8A38F"
@@ -439,12 +528,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="E" x={74.1} y={124.9} width={112.9} height={64.1} />
+        <rect
+          id="_ambl_EmberTomster__E"
+          x={74.1}
+          y={124.9}
+          width={112.9}
+          height={64.1}
+        />
       </defs>
-      <clipPath id="F">
-        <use overflow="visible" href="#E" />
+      <clipPath id="_ambl_EmberTomster__F">
+        <use overflow="visible" href="#_ambl_EmberTomster__E" />
       </clipPath>
-      <g opacity={0.25} clipPath="url(#F)">
+      <g opacity={0.25} clipPath="url(#_ambl_EmberTomster__F)">
         <g transform="translate(474.0986,359.9502)">
           <path
             fill="#F7E8D0"
@@ -455,12 +550,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="G" x={80} y={125.9} width={93.6} height={47.5} />
+        <rect
+          id="_ambl_EmberTomster__G"
+          x={80}
+          y={125.9}
+          width={93.6}
+          height={47.5}
+        />
       </defs>
-      <clipPath id="H">
-        <use overflow="visible" href="#G" />
+      <clipPath id="_ambl_EmberTomster__H">
+        <use overflow="visible" href="#_ambl_EmberTomster__G" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#H)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__H)">
         <g transform="translate(347.2148,315.9766)">
           <path
             fill="#D8CAB2"
@@ -471,12 +572,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="I" x={81} y={126.9} width={91.6} height={46.5} />
+        <rect
+          id="_ambl_EmberTomster__I"
+          x={81}
+          y={126.9}
+          width={91.6}
+          height={46.5}
+        />
       </defs>
-      <clipPath id="J">
-        <use overflow="visible" href="#I" />
+      <clipPath id="_ambl_EmberTomster__J">
+        <use overflow="visible" href="#_ambl_EmberTomster__I" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#J)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__J)">
         <g transform="translate(347.2324,315.9883)">
           <path
             fill="#D8CAB2"
@@ -491,12 +598,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="K" x={82} y={127.9} width={89.6} height={45.4} />
+        <rect
+          id="_ambl_EmberTomster__K"
+          x={82}
+          y={127.9}
+          width={89.6}
+          height={45.4}
+        />
       </defs>
-      <clipPath id="L">
-        <use overflow="visible" href="#K" />
+      <clipPath id="_ambl_EmberTomster__L">
+        <use overflow="visible" href="#_ambl_EmberTomster__K" />
       </clipPath>
-      <g clipPath="url(#L)">
+      <g clipPath="url(#_ambl_EmberTomster__L)">
         <g transform="translate(451.25,378.25)">
           <path
             fill="#333333"
@@ -515,12 +628,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="M" x={103.1} y={149.4} width={50.2} height={20.7} />
+        <rect
+          id="_ambl_EmberTomster__M"
+          x={103.1}
+          y={149.4}
+          width={50.2}
+          height={20.7}
+        />
       </defs>
-      <clipPath id="N">
-        <use overflow="visible" href="#M" />
+      <clipPath id="_ambl_EmberTomster__N">
+        <use overflow="visible" href="#_ambl_EmberTomster__M" />
       </clipPath>
-      <g clipPath="url(#N)">
+      <g clipPath="url(#_ambl_EmberTomster__N)">
         <g transform="translate(348.084,315.917)">
           <path
             fill="#FCD4C3"
@@ -535,12 +654,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="O" x={109.8} y={137.9} width={30.1} height={23.2} />
+        <rect
+          id="_ambl_EmberTomster__O"
+          x={109.8}
+          y={137.9}
+          width={30.1}
+          height={23.2}
+        />
       </defs>
-      <clipPath id="P">
-        <use overflow="visible" href="#O" />
+      <clipPath id="_ambl_EmberTomster__P">
+        <use overflow="visible" href="#_ambl_EmberTomster__O" />
       </clipPath>
-      <g clipPath="url(#P)">
+      <g clipPath="url(#_ambl_EmberTomster__P)">
         <g transform="translate(402.75,363.25)">
           <path
             fill="#FFDC99"
@@ -551,12 +676,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="Q" x={109.9} y={137.5} width={29.7} height={10.3} />
+        <rect
+          id="_ambl_EmberTomster__Q"
+          x={109.9}
+          y={137.5}
+          width={29.7}
+          height={10.3}
+        />
       </defs>
-      <clipPath id="R">
-        <use overflow="visible" href="#Q" />
+      <clipPath id="_ambl_EmberTomster__R">
+        <use overflow="visible" href="#_ambl_EmberTomster__Q" />
       </clipPath>
-      <g clipPath="url(#R)">
+      <g clipPath="url(#_ambl_EmberTomster__R)">
         <g transform="translate(361.751,348.25)">
           <path
             fill="#EADCBE"
@@ -567,12 +698,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="S" x={124} y={143.8} width={5.5} height={14.7} />
+        <rect
+          id="_ambl_EmberTomster__S"
+          x={124}
+          y={143.8}
+          width={5.5}
+          height={14.7}
+        />
       </defs>
-      <clipPath id="T">
-        <use overflow="visible" href="#S" />
+      <clipPath id="_ambl_EmberTomster__T">
+        <use overflow="visible" href="#_ambl_EmberTomster__S" />
       </clipPath>
-      <g clipPath="url(#T)">
+      <g clipPath="url(#_ambl_EmberTomster__T)">
         <g transform="translate(380.458,354.3682)">
           <path
             fill="#FFDC99"
@@ -583,12 +720,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="U" x={39.1} y={51.5} width={39.4} height={35.7} />
+        <rect
+          id="_ambl_EmberTomster__U"
+          x={39.1}
+          y={51.5}
+          width={39.4}
+          height={35.7}
+        />
       </defs>
-      <clipPath id="V">
-        <use overflow="visible" href="#U" />
+      <clipPath id="_ambl_EmberTomster__V">
+        <use overflow="visible" href="#_ambl_EmberTomster__U" />
       </clipPath>
-      <g opacity={0.4} clipPath="url(#V)">
+      <g opacity={0.4} clipPath="url(#_ambl_EmberTomster__V)">
         <g transform="translate(253.584,481.9165)">
           <path
             fill="#FCD4C3"
@@ -599,12 +742,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="W" x={59.9} y={88.7} width={133.7} height={42.5} />
+        <rect
+          id="_ambl_EmberTomster__W"
+          x={59.9}
+          y={88.7}
+          width={133.7}
+          height={42.5}
+        />
       </defs>
-      <clipPath id="X">
-        <use overflow="visible" href="#W" />
+      <clipPath id="_ambl_EmberTomster__X">
+        <use overflow="visible" href="#_ambl_EmberTomster__W" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#X)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__X)">
         <g transform="translate(308.667,381.333)">
           <path
             fill="#E3AB5E"
@@ -619,12 +768,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="Y" x={49.1} y={76.1} width={157.3} height={53.1} />
+        <rect
+          id="_ambl_EmberTomster__Y"
+          x={49.1}
+          y={76.1}
+          width={157.3}
+          height={53.1}
+        />
       </defs>
-      <clipPath id="Z">
-        <use overflow="visible" href="#Y" />
+      <clipPath id="_ambl_EmberTomster__Z">
+        <use overflow="visible" href="#_ambl_EmberTomster__Y" />
       </clipPath>
-      <g clipPath="url(#Z)">
+      <g clipPath="url(#_ambl_EmberTomster__Z)">
         <g transform="translate(326.0381,456.2231)">
           <path
             fill="#1A1A1A"
@@ -635,12 +790,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="aa" x={64.4} y={83.4} width={50.5} height={34.2} />
+        <rect
+          id="_ambl_EmberTomster__aa"
+          x={64.4}
+          y={83.4}
+          width={50.5}
+          height={34.2}
+        />
       </defs>
-      <clipPath id="ab">
-        <use overflow="visible" href="#aa" />
+      <clipPath id="_ambl_EmberTomster__ab">
+        <use overflow="visible" href="#_ambl_EmberTomster__aa" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#ab)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__ab)">
         <g transform="translate(292.5,434.75)">
           <path
             fill="none"
@@ -658,12 +819,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     />
     <g>
       <defs>
-        <rect id="ac" x={139.8} y={88.1} width={50.1} height={35} />
+        <rect
+          id="_ambl_EmberTomster__ac"
+          x={139.8}
+          y={88.1}
+          width={50.1}
+          height={35}
+        />
       </defs>
-      <clipPath id="ad">
-        <use overflow="visible" href="#ac" />
+      <clipPath id="_ambl_EmberTomster__ad">
+        <use overflow="visible" href="#_ambl_EmberTomster__ac" />
       </clipPath>
-      <g opacity={0.5} clipPath="url(#ad)">
+      <g opacity={0.5} clipPath="url(#_ambl_EmberTomster__ad)">
         <g transform="translate(476.5938,423.063)">
           <path
             fill="none"
@@ -683,12 +850,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     <path d="M169.6,105.6c0.4,3.9-0.8,7.2-2.6,7.4c-1.9,0.2-3.7-2.8-4.1-6.7c-0.4-3.9,0.8-7.2,2.6-7.4C167.3,98.8,169.1,101.8,169.6,105.6" />
     <g>
       <defs>
-        <rect id="ae" x={49.1} y={81.6} width={156.3} height={46} />
+        <rect
+          id="_ambl_EmberTomster__ae"
+          x={49.1}
+          y={81.6}
+          width={156.3}
+          height={46}
+        />
       </defs>
-      <clipPath id="af">
-        <use overflow="visible" href="#ae" />
+      <clipPath id="_ambl_EmberTomster__af">
+        <use overflow="visible" href="#_ambl_EmberTomster__ae" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#af)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__af)">
         <g transform="translate(270.375,446.25)">
           <path
             fill="#333333"
@@ -699,12 +872,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="ag" x={51.6} y={77.2} width={20.2} height={3} />
+        <rect
+          id="_ambl_EmberTomster__ag"
+          x={51.6}
+          y={77.2}
+          width={20.2}
+          height={3}
+        />
       </defs>
-      <clipPath id="ah">
-        <use overflow="visible" href="#ag" />
+      <clipPath id="_ambl_EmberTomster__ah">
+        <use overflow="visible" href="#_ambl_EmberTomster__ag" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#ah)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__ah)">
         <g transform="translate(270.75,454.25)">
           <path
             fill="#333333"
@@ -715,12 +894,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="ai" x={116.6} y={82.1} width={21.7} height={5.3} />
+        <rect
+          id="_ambl_EmberTomster__ai"
+          x={116.6}
+          y={82.1}
+          width={21.7}
+          height={5.3}
+        />
       </defs>
-      <clipPath id="aj">
-        <use overflow="visible" href="#ai" />
+      <clipPath id="_ambl_EmberTomster__aj">
+        <use overflow="visible" href="#_ambl_EmberTomster__ai" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#aj)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__aj)">
         <g transform="translate(368.5,447.25)">
           <path
             fill="#333333"
@@ -731,12 +916,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="ak" x={187.4} y={86} width={12.3} height={3.9} />
+        <rect
+          id="_ambl_EmberTomster__ak"
+          x={187.4}
+          y={86}
+          width={12.3}
+          height={3.9}
+        />
       </defs>
-      <clipPath id="al">
-        <use overflow="visible" href="#ak" />
+      <clipPath id="_ambl_EmberTomster__al">
+        <use overflow="visible" href="#_ambl_EmberTomster__ak" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#al)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__al)">
         <g transform="translate(475.375,441.375)">
           <path
             fill="#333333"
@@ -747,12 +938,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="am" x={62.3} y={82.8} width={28.9} height={28.6} />
+        <rect
+          id="_ambl_EmberTomster__am"
+          x={62.3}
+          y={82.8}
+          width={28.9}
+          height={28.6}
+        />
       </defs>
-      <clipPath id="an">
-        <use overflow="visible" href="#am" />
+      <clipPath id="_ambl_EmberTomster__an">
+        <use overflow="visible" href="#_ambl_EmberTomster__am" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#an)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__an)">
         <g transform="translate(287.75,438.625)">
           <path
             fill="#333333"
@@ -763,12 +960,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="ao" x={165.1} y={87.8} width={27.8} height={30.5} />
+        <rect
+          id="_ambl_EmberTomster__ao"
+          x={165.1}
+          y={87.8}
+          width={27.8}
+          height={30.5}
+        />
       </defs>
-      <clipPath id="ap">
-        <use overflow="visible" href="#ao" />
+      <clipPath id="_ambl_EmberTomster__ap">
+        <use overflow="visible" href="#_ambl_EmberTomster__ao" />
       </clipPath>
-      <g opacity={0.3} clipPath="url(#ap)">
+      <g opacity={0.3} clipPath="url(#_ambl_EmberTomster__ap)">
         <g transform="translate(482.6602,426.7979)">
           <path
             fill="#333333"
@@ -779,12 +982,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="aq" x={65.8} y={84.8} width={47.8} height={27.5} />
+        <rect
+          id="_ambl_EmberTomster__aq"
+          x={65.8}
+          y={84.8}
+          width={47.8}
+          height={27.5}
+        />
       </defs>
-      <clipPath id="ar">
-        <use overflow="visible" href="#aq" />
+      <clipPath id="_ambl_EmberTomster__ar">
+        <use overflow="visible" href="#_ambl_EmberTomster__aq" />
       </clipPath>
-      <g clipPath="url(#ar)">
+      <g clipPath="url(#_ambl_EmberTomster__ar)">
         <g transform="translate(292.8125,416.375)">
           <path
             fill="#D0DDDC"
@@ -795,12 +1004,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="as" x={66.8} y={103} width={35.2} height={13.9} />
+        <rect
+          id="_ambl_EmberTomster__as"
+          x={66.8}
+          y={103}
+          width={35.2}
+          height={13.9}
+        />
       </defs>
-      <clipPath id="at">
-        <use overflow="visible" href="#as" />
+      <clipPath id="_ambl_EmberTomster__at">
+        <use overflow="visible" href="#_ambl_EmberTomster__as" />
       </clipPath>
-      <g clipPath="url(#at)">
+      <g clipPath="url(#_ambl_EmberTomster__at)">
         <g transform="translate(293.584,415.5)">
           <path
             fill="#D0DDDC"
@@ -811,12 +1026,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="au" x={141.2} y={89.5} width={47.7} height={25.5} />
+        <rect
+          id="_ambl_EmberTomster__au"
+          x={141.2}
+          y={89.5}
+          width={47.7}
+          height={25.5}
+        />
       </defs>
-      <clipPath id="av">
-        <use overflow="visible" href="#au" />
+      <clipPath id="_ambl_EmberTomster__av">
+        <use overflow="visible" href="#_ambl_EmberTomster__au" />
       </clipPath>
-      <g clipPath="url(#av)">
+      <g clipPath="url(#_ambl_EmberTomster__av)">
         <g transform="translate(474.457,405.0869)">
           <path
             fill="#D0DDDC"
@@ -827,12 +1048,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="aw" x={150.2} y={110.4} width={36.3} height={11.7} />
+        <rect
+          id="_ambl_EmberTomster__aw"
+          x={150.2}
+          y={110.4}
+          width={36.3}
+          height={11.7}
+        />
       </defs>
-      <clipPath id="ax">
-        <use overflow="visible" href="#aw" />
+      <clipPath id="_ambl_EmberTomster__ax">
+        <use overflow="visible" href="#_ambl_EmberTomster__aw" />
       </clipPath>
-      <g clipPath="url(#ax)">
+      <g clipPath="url(#_ambl_EmberTomster__ax)">
         <g transform="translate(473.583,404.3135)">
           <path
             fill="#D0DDDC"
@@ -843,12 +1070,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="ay" x={87.3} y={95.2} width={2} height={2} />
+        <rect
+          id="_ambl_EmberTomster__ay"
+          x={87.3}
+          y={95.2}
+          width={2}
+          height={2}
+        />
       </defs>
-      <clipPath id="az">
-        <use overflow="visible" href="#ay" />
+      <clipPath id="_ambl_EmberTomster__az">
+        <use overflow="visible" href="#_ambl_EmberTomster__ay" />
       </clipPath>
-      <g opacity={0.25} clipPath="url(#az)">
+      <g opacity={0.25} clipPath="url(#_ambl_EmberTomster__az)">
         <g transform="translate(327.375,426)">
           <path
             fill="#FFFFFF"
@@ -859,12 +1092,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="aA" x={166.3} y={99.9} width={2} height={2} />
+        <rect
+          id="_ambl_EmberTomster__aA"
+          x={166.3}
+          y={99.9}
+          width={2}
+          height={2}
+        />
       </defs>
-      <clipPath id="aB">
-        <use overflow="visible" href="#aA" />
+      <clipPath id="_ambl_EmberTomster__aB">
+        <use overflow="visible" href="#_ambl_EmberTomster__aA" />
       </clipPath>
-      <g opacity={0.25} clipPath="url(#aB)">
+      <g opacity={0.25} clipPath="url(#_ambl_EmberTomster__aB)">
         <g transform="translate(446.375,419)">
           <path
             fill="#FFFFFF"
@@ -875,12 +1114,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="aC" x={52} y={79.1} width={64.8} height={9.5} />
+        <rect
+          id="_ambl_EmberTomster__aC"
+          x={52}
+          y={79.1}
+          width={64.8}
+          height={9.5}
+        />
       </defs>
-      <clipPath id="aD">
-        <use overflow="visible" href="#aC" />
+      <clipPath id="_ambl_EmberTomster__aD">
+        <use overflow="visible" href="#_ambl_EmberTomster__aC" />
       </clipPath>
-      <g opacity={0.1} clipPath="url(#aD)">
+      <g opacity={0.1} clipPath="url(#_ambl_EmberTomster__aD)">
         <g transform="translate(271.125,447.875)">
           <path
             fill="#D0DDDC"
@@ -891,12 +1136,18 @@ const EmberTomster = (props: SVGProps<SVGSVGElement>) => (
     </g>
     <g>
       <defs>
-        <rect id="aE" x={137.7} y={82.3} width={47.9} height={9.2} />
+        <rect
+          id="_ambl_EmberTomster__aE"
+          x={137.7}
+          y={82.3}
+          width={47.9}
+          height={9.2}
+        />
       </defs>
-      <clipPath id="aF">
-        <use overflow="visible" href="#aE" />
+      <clipPath id="_ambl_EmberTomster__aF">
+        <use overflow="visible" href="#_ambl_EmberTomster__aE" />
       </clipPath>
-      <g opacity={0.1} clipPath="url(#aF)">
+      <g opacity={0.1} clipPath="url(#_ambl_EmberTomster__aF)">
         <g transform="translate(400.625,441.875)">
           <path
             fill="#D0DDDC"

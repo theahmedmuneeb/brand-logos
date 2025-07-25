@@ -14,7 +14,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-702.200592%"
         x2="49.9788405%"
         y2="97.9686839%"
-        id="a"
+        id="_ambl_HcaptchaIcon__a"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -24,7 +24,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-602.242912%"
         x2="50%"
         y2="197.926365%"
-        id="b"
+        id="_ambl_HcaptchaIcon__b"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -34,7 +34,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-602.242912%"
         x2="49.9788405%"
         y2="197.926365%"
-        id="c"
+        id="_ambl_HcaptchaIcon__c"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -44,7 +44,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-502.497883%"
         x2="50.0211595%"
         y2="298.010161%"
-        id="d"
+        id="_ambl_HcaptchaIcon__d"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -54,7 +54,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-502.497883%"
         x2="50%"
         y2="298.010161%"
-        id="e"
+        id="_ambl_HcaptchaIcon__e"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -64,7 +64,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-502.497883%"
         x2="49.9788405%"
         y2="298.010161%"
-        id="f"
+        id="_ambl_HcaptchaIcon__f"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -74,7 +74,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-402.285231%"
         x2="50.0211595%"
         y2="397.884046%"
-        id="g"
+        id="_ambl_HcaptchaIcon__g"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -84,7 +84,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-402.285231%"
         x2="50%"
         y2="397.884046%"
-        id="h"
+        id="_ambl_HcaptchaIcon__h"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -94,7 +94,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-402.285231%"
         x2="49.9788405%"
         y2="397.884046%"
-        id="i"
+        id="_ambl_HcaptchaIcon__i"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -104,7 +104,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-302.32755%"
         x2="50.0211595%"
         y2="497.841727%"
-        id="j"
+        id="_ambl_HcaptchaIcon__j"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -114,7 +114,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-302.32755%"
         x2="50%"
         y2="497.841727%"
-        id="k"
+        id="_ambl_HcaptchaIcon__k"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -124,7 +124,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-302.32755%"
         x2="49.9788405%"
         y2="497.841727%"
-        id="l"
+        id="_ambl_HcaptchaIcon__l"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -134,7 +134,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-202.32755%"
         x2="50.0211595%"
         y2="597.841727%"
-        id="m"
+        id="_ambl_HcaptchaIcon__m"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -144,7 +144,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-202.32755%"
         x2="50%"
         y2="597.841727%"
-        id="n"
+        id="_ambl_HcaptchaIcon__n"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -154,7 +154,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-202.32755%"
         x2="49.9788405%"
         y2="597.841727%"
-        id="o"
+        id="_ambl_HcaptchaIcon__o"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -164,7 +164,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-102.369869%"
         x2="50%"
         y2="697.799408%"
-        id="p"
+        id="_ambl_HcaptchaIcon__p"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -174,7 +174,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-102.369869%"
         x2="49.9788405%"
         y2="697.799408%"
-        id="q"
+        id="_ambl_HcaptchaIcon__q"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -184,7 +184,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="-2.36986881%"
         x2="49.9788405%"
         y2="797.799408%"
-        id="r"
+        id="_ambl_HcaptchaIcon__r"
       >
         <stop stopColor="#00D4BF" offset="0%" />
         <stop stopColor="#0074BF" offset="100%" />
@@ -192,7 +192,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <rect
-        fill="url(#a)"
+        fill="url(#_ambl_HcaptchaIcon__a)"
         opacity={0.5}
         x={160.006772}
         y={223.993228}
@@ -200,7 +200,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#a)"
+        fill="url(#_ambl_HcaptchaIcon__a)"
         opacity={0.7}
         x={128}
         y={223.993228}
@@ -208,7 +208,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#a)"
+        fill="url(#_ambl_HcaptchaIcon__a)"
         opacity={0.7}
         x={96.0067725}
         y={223.993228}
@@ -216,7 +216,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#a)"
+        fill="url(#_ambl_HcaptchaIcon__a)"
         opacity={0.5}
         x={64}
         y={223.993228}
@@ -224,7 +224,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#b)"
+        fill="url(#_ambl_HcaptchaIcon__b)"
         opacity={0.7}
         x={192}
         y={192}
@@ -232,7 +232,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#c)"
+        fill="url(#_ambl_HcaptchaIcon__c)"
         opacity={0.8}
         x={160.006772}
         y={192}
@@ -240,21 +240,21 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#c)"
+        fill="url(#_ambl_HcaptchaIcon__c)"
         x={128}
         y={192}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#c)"
+        fill="url(#_ambl_HcaptchaIcon__c)"
         x={96.0067725}
         y={192}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#c)"
+        fill="url(#_ambl_HcaptchaIcon__c)"
         opacity={0.8}
         x={64}
         y={192}
@@ -262,7 +262,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#c)"
+        fill="url(#_ambl_HcaptchaIcon__c)"
         opacity={0.7}
         x={32.0067725}
         y={192}
@@ -270,7 +270,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#d)"
+        fill="url(#_ambl_HcaptchaIcon__d)"
         opacity={0.5}
         x={223.993228}
         y={160.006772}
@@ -278,7 +278,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={31.9932275}
       />
       <rect
-        fill="url(#e)"
+        fill="url(#_ambl_HcaptchaIcon__e)"
         opacity={0.8}
         x={192}
         y={160.006772}
@@ -286,35 +286,35 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={31.9932275}
       />
       <rect
-        fill="url(#f)"
+        fill="url(#_ambl_HcaptchaIcon__f)"
         x={160.006772}
         y={160.006772}
         width={32.0067725}
         height={31.9932275}
       />
       <rect
-        fill="url(#f)"
+        fill="url(#_ambl_HcaptchaIcon__f)"
         x={128}
         y={160.006772}
         width={32.0067725}
         height={31.9932275}
       />
       <rect
-        fill="url(#f)"
+        fill="url(#_ambl_HcaptchaIcon__f)"
         x={96.0067725}
         y={160.006772}
         width={32.0067725}
         height={31.9932275}
       />
       <rect
-        fill="url(#f)"
+        fill="url(#_ambl_HcaptchaIcon__f)"
         x={64}
         y={160.006772}
         width={32.0067725}
         height={31.9932275}
       />
       <rect
-        fill="url(#f)"
+        fill="url(#_ambl_HcaptchaIcon__f)"
         opacity={0.8}
         x={32.0067725}
         y={160.006772}
@@ -322,7 +322,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={31.9932275}
       />
       <rect
-        fill="url(#f)"
+        fill="url(#_ambl_HcaptchaIcon__f)"
         opacity={0.5}
         x={0}
         y={160.006772}
@@ -330,7 +330,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={31.9932275}
       />
       <rect
-        fill="url(#g)"
+        fill="url(#_ambl_HcaptchaIcon__g)"
         opacity={0.7}
         x={223.993228}
         y={128}
@@ -338,49 +338,49 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#h)"
+        fill="url(#_ambl_HcaptchaIcon__h)"
         x={192}
         y={128}
         width={31.9932275}
         height={32.0067725}
       />
       <rect
-        fill="url(#i)"
+        fill="url(#_ambl_HcaptchaIcon__i)"
         x={160.006772}
         y={128}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#i)"
+        fill="url(#_ambl_HcaptchaIcon__i)"
         x={128}
         y={128}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#i)"
+        fill="url(#_ambl_HcaptchaIcon__i)"
         x={96.0067725}
         y={128}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#i)"
+        fill="url(#_ambl_HcaptchaIcon__i)"
         x={64}
         y={128}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#i)"
+        fill="url(#_ambl_HcaptchaIcon__i)"
         x={32.0067725}
         y={128}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#i)"
+        fill="url(#_ambl_HcaptchaIcon__i)"
         opacity={0.7}
         x={0}
         y={128}
@@ -388,7 +388,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#j)"
+        fill="url(#_ambl_HcaptchaIcon__j)"
         opacity={0.7}
         x={223.993228}
         y={96.0067725}
@@ -396,49 +396,49 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#k)"
+        fill="url(#_ambl_HcaptchaIcon__k)"
         x={192}
         y={96.0067725}
         width={31.9932275}
         height={32.0067725}
       />
       <rect
-        fill="url(#l)"
+        fill="url(#_ambl_HcaptchaIcon__l)"
         x={160.006772}
         y={96.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#l)"
+        fill="url(#_ambl_HcaptchaIcon__l)"
         x={128}
         y={96.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#l)"
+        fill="url(#_ambl_HcaptchaIcon__l)"
         x={96.0067725}
         y={96.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#l)"
+        fill="url(#_ambl_HcaptchaIcon__l)"
         x={64}
         y={96.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#l)"
+        fill="url(#_ambl_HcaptchaIcon__l)"
         x={32.0067725}
         y={96.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#l)"
+        fill="url(#_ambl_HcaptchaIcon__l)"
         opacity={0.7}
         x={0}
         y={96.0067725}
@@ -446,7 +446,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#m)"
+        fill="url(#_ambl_HcaptchaIcon__m)"
         opacity={0.5}
         x={223.993228}
         y={64}
@@ -454,7 +454,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#n)"
+        fill="url(#_ambl_HcaptchaIcon__n)"
         opacity={0.8}
         x={192}
         y={64}
@@ -462,35 +462,35 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#o)"
+        fill="url(#_ambl_HcaptchaIcon__o)"
         x={160.006772}
         y={64}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#o)"
+        fill="url(#_ambl_HcaptchaIcon__o)"
         x={128}
         y={64}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#o)"
+        fill="url(#_ambl_HcaptchaIcon__o)"
         x={96.0067725}
         y={64}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#o)"
+        fill="url(#_ambl_HcaptchaIcon__o)"
         x={64}
         y={64}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#o)"
+        fill="url(#_ambl_HcaptchaIcon__o)"
         opacity={0.8}
         x={32.0067725}
         y={64}
@@ -498,7 +498,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#o)"
+        fill="url(#_ambl_HcaptchaIcon__o)"
         opacity={0.5}
         x={0}
         y={64}
@@ -506,7 +506,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#p)"
+        fill="url(#_ambl_HcaptchaIcon__p)"
         opacity={0.7}
         x={192}
         y={32.0067725}
@@ -514,7 +514,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#q)"
+        fill="url(#_ambl_HcaptchaIcon__q)"
         opacity={0.8}
         x={160.006772}
         y={32.0067725}
@@ -522,21 +522,21 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#q)"
+        fill="url(#_ambl_HcaptchaIcon__q)"
         x={128}
         y={32.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#q)"
+        fill="url(#_ambl_HcaptchaIcon__q)"
         x={96.0067725}
         y={32.0067725}
         width={32.0067725}
         height={32.0067725}
       />
       <rect
-        fill="url(#q)"
+        fill="url(#_ambl_HcaptchaIcon__q)"
         opacity={0.8}
         x={64}
         y={32.0067725}
@@ -544,7 +544,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#q)"
+        fill="url(#_ambl_HcaptchaIcon__q)"
         opacity={0.7}
         x={32.0067725}
         y={32.0067725}
@@ -552,7 +552,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#r)"
+        fill="url(#_ambl_HcaptchaIcon__r)"
         opacity={0.5}
         x={160.006772}
         y={0}
@@ -560,7 +560,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#r)"
+        fill="url(#_ambl_HcaptchaIcon__r)"
         opacity={0.7}
         x={128}
         y={0}
@@ -568,7 +568,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#r)"
+        fill="url(#_ambl_HcaptchaIcon__r)"
         opacity={0.7}
         x={96.0067725}
         y={0}
@@ -576,7 +576,7 @@ const HcaptchaIcon = (props: SVGProps<SVGSVGElement>) => (
         height={32.0067725}
       />
       <rect
-        fill="url(#r)"
+        fill="url(#_ambl_HcaptchaIcon__r)"
         opacity={0.5}
         x={64}
         y={0}

@@ -14,7 +14,7 @@ const LuceneDotNet = (props: SVGProps<SVGSVGElement>) => (
         y1="95.1748288%"
         x2="49.9574815%"
         y2="36.6269229%"
-        id="a"
+        id="_ambl_LuceneDotNet__a"
       >
         <stop stopColor="#02364F" offset="0%" />
         <stop stopColor="#0664A8" offset="100%" />
@@ -24,7 +24,7 @@ const LuceneDotNet = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9566634%"
         x2="99.9760304%"
         y2="49.9566634%"
-        id="b"
+        id="_ambl_LuceneDotNet__b"
       >
         <stop stopColor="#02364F" offset="0%" />
         <stop stopColor="#0664A8" offset="100%" />
@@ -34,7 +34,7 @@ const LuceneDotNet = (props: SVGProps<SVGSVGElement>) => (
         y1="-14.2587157%"
         x2="65.5094659%"
         y2="34.5274179%"
-        id="c"
+        id="_ambl_LuceneDotNet__c"
       >
         <stop stopColor="#02364F" offset="0%" />
         <stop stopColor="#0664A8" offset="100%" />
@@ -48,15 +48,15 @@ const LuceneDotNet = (props: SVGProps<SVGSVGElement>) => (
       <g transform="translate(5.000000, 20.000000)">
         <path
           d="M35.1,88.6 C37,88 38.9,87.3 40.7,86.6 C39,86.7 37.3,86.5 35.6,86 C19.9,85.7 23.9,62.4 38.2,60.7 C47.3,59.6 57.8,62.6 69.1,67.7 C47.1,53.8 26.4,43.6 10.8,48.2 C6.8,51.2 3.7,54.4 1.4,57.8 C-3.3,72.5 9.5,97.1 35.1,88.6 L35.1,88.6 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_LuceneDotNet__a)"
         />
         <path
           d="M152.1,116.7 C155.7,118.5 159.2,120 162.6,121.2 C220,141.9 274.7,86 242.4,46.6 C230.2,95.4 189.4,127.7 152.1,116.7 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_LuceneDotNet__b)"
         />
         <path
           d="M193.2,0 C197,1.8 200.5,4.8 203.4,9.1 C211.6,21.4 196.7,36.3 176,34.8 C156.5,33.4 145.6,26.5 132.7,21.2 C126.1,26.4 120,31.8 114.8,36.7 C124.9,41 134.9,45.7 144.7,49.9 C171.4,61.5 213,64.9 227.3,36.1 C230.5,17.9 213.8,3.8 193.2,0 L193.2,0 Z"
-          fill="url(#c)"
+          fill="url(#_ambl_LuceneDotNet__c)"
         />
       </g>
     </g>

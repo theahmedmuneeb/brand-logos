@@ -10,7 +10,7 @@ const SolidjsIcon = (props: SVGProps<SVGSVGElement>) => (
   >
     <defs>
       <linearGradient
-        id="a"
+        id="_ambl_SolidjsIcon__a"
         gradientUnits="userSpaceOnUse"
         x1={27.5}
         y1={3}
@@ -23,7 +23,7 @@ const SolidjsIcon = (props: SVGProps<SVGSVGElement>) => (
         <stop offset={1} stopColor="#76b3e1" />
       </linearGradient>
       <linearGradient
-        id="b"
+        id="_ambl_SolidjsIcon__b"
         gradientUnits="userSpaceOnUse"
         x1={95.8}
         y1={32.6}
@@ -36,7 +36,7 @@ const SolidjsIcon = (props: SVGProps<SVGSVGElement>) => (
         <stop offset={1} stopColor="#1f3b77" />
       </linearGradient>
       <linearGradient
-        id="c"
+        id="_ambl_SolidjsIcon__c"
         gradientUnits="userSpaceOnUse"
         x1={18.4}
         y1={64.2}
@@ -49,7 +49,7 @@ const SolidjsIcon = (props: SVGProps<SVGSVGElement>) => (
         <stop offset={1} stopColor="#315aa9" />
       </linearGradient>
       <linearGradient
-        id="d"
+        id="_ambl_SolidjsIcon__d"
         gradientUnits="userSpaceOnUse"
         x1={75.2}
         y1={74.5}
@@ -70,7 +70,7 @@ const SolidjsIcon = (props: SVGProps<SVGSVGElement>) => (
       <path
         d="M 512 289.472 C 512 289.472 426.667 226.681 360.653 241.171 L 355.824 242.781 C 346.164 246.002 338.113 250.831 333.282 257.272 L 330.063 262.101 L 305.911 303.963 L 347.774 312.014 C 365.484 323.284 388.025 328.115 408.956 323.284 L 483.019 337.775 L 512 289.472 Z"
         opacity={0.3}
-        fill="url(#a)"
+        fill="url(#_ambl_SolidjsIcon__a)"
       />
       <path
         d="M 333.282 289.472 L 326.843 291.083 C 299.472 299.133 291.422 324.894 305.911 347.435 C 322.012 368.366 355.824 379.636 383.195 371.586 L 483.019 337.775 C 483.019 337.775 397.685 274.983 333.282 289.472 Z"
@@ -79,15 +79,15 @@ const SolidjsIcon = (props: SVGProps<SVGSVGElement>) => (
       <path
         d="M 333.282 289.472 L 326.843 291.083 C 299.472 299.133 291.422 324.894 305.911 347.435 C 322.012 368.366 355.824 379.636 383.195 371.586 L 483.019 337.775 C 483.019 337.775 397.685 274.983 333.282 289.472 Z"
         opacity={0.3}
-        fill="url(#b)"
+        fill="url(#_ambl_SolidjsIcon__b)"
       />
       <path
         d="M 465.308 361.925 C 446.869 338.889 416.3 329.337 388.025 337.775 L 288.202 369.976 L 256 426.328 L 436.327 456.92 L 468.528 398.957 C 474.969 387.686 473.359 374.807 465.308 361.925 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_SolidjsIcon__c)"
       />
       <path
         d="M 433.106 418.277 C 414.667 395.241 384.1 385.689 355.824 394.127 L 256 426.328 C 256 426.328 341.333 490.73 407.346 474.631 L 412.176 473.019 C 439.547 464.97 449.207 439.209 433.106 418.277 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_SolidjsIcon__d)"
       />
     </g>
   </svg>

@@ -14,7 +14,7 @@ const Meilisearch = (props: SVGProps<SVGSVGElement>) => (
         y1="-7.63826138%"
         x2="19.1721041%"
         y2="89.2387581%"
-        id="a"
+        id="_ambl_Meilisearch__a"
       >
         <stop stopColor="#FF5CAA" offset="0%" />
         <stop stopColor="#FF4E62" offset="100%" />
@@ -24,7 +24,7 @@ const Meilisearch = (props: SVGProps<SVGSVGElement>) => (
         y1="-7.63849731%"
         x2="-17.3229972%"
         y2="89.2384892%"
-        id="b"
+        id="_ambl_Meilisearch__b"
       >
         <stop stopColor="#FF5CAA" offset="0%" />
         <stop stopColor="#FF4E62" offset="100%" />
@@ -34,7 +34,7 @@ const Meilisearch = (props: SVGProps<SVGSVGElement>) => (
         y1="-7.63849731%"
         x2="-53.8207274%"
         y2="89.2384892%"
-        id="c"
+        id="_ambl_Meilisearch__c"
       >
         <stop stopColor="#FF5CAA" offset="0%" />
         <stop stopColor="#FF4E62" offset="100%" />
@@ -43,15 +43,15 @@ const Meilisearch = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M0,149.288164 L47.2969003,28.2765777 C53.9619323,11.2236595 70.3991566,0 88.708206,0 L117.222863,0 L69.9260625,121.01158 C63.2610305,138.064539 46.8238061,149.288164 28.5145533,149.288164 L0,149.288164 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Meilisearch__a)"
       />
       <path
         d="M69.3864299,149.288571 L116.68323,28.2769847 C123.348262,11.2240054 139.785487,0.000356092382 158.09474,0.000356092382 L186.609193,0.000356092382 L139.312393,121.011987 C132.647361,138.064946 116.210136,149.288571 97.9008835,149.288571 L69.3864299,149.288571 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Meilisearch__b)"
       />
       <path
         d="M138.77683,149.288571 L186.07363,28.2769847 C192.738662,11.2240054 209.174869,0.000356092382 227.484122,0.000356092382 L256,0.000356092382 L208.702792,121.011987 C202.036743,138.064946 185.600536,149.288571 167.291283,149.288571 L138.77683,149.288571 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Meilisearch__c)"
       />
     </g>
   </svg>

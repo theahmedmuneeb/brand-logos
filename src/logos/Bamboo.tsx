@@ -14,7 +14,7 @@ const Bamboo = (props: SVGProps<SVGSVGElement>) => (
         y1="-98.2986767%"
         x2="50.015868%"
         y2="38.2167612%"
-        id="a"
+        id="_ambl_Bamboo__a"
       >
         <stop stopColor="#0052CC" offset="0%" />
         <stop stopColor="#2684FF" offset="100%" />
@@ -24,7 +24,7 @@ const Bamboo = (props: SVGProps<SVGSVGElement>) => (
         y1="0.763358779%"
         x2="50.0157183%"
         y2="138.581425%"
-        id="b"
+        id="_ambl_Bamboo__b"
       >
         <stop stopColor="#0052CC" offset="0%" />
         <stop stopColor="#2684FF" offset="100%" />
@@ -41,11 +41,11 @@ const Bamboo = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M1.20470588,184.480627 C9.65441843,247.916976 63.7423708,295.31045 127.73898,295.353725 L127.73898,218.212392 C99.9303626,218.212471 77.3683826,195.704382 77.3019608,167.895843 L1.20470588,184.480627 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Bamboo__a)"
       />
       <path
         d="M0,166.691137 L0,167.895843 L77.3019608,167.895843 C77.3683826,140.087305 99.9303626,117.579215 127.73898,117.579294 L111.154196,41.6426667 C48.1449965,49.8531147 0.766538803,103.15388 0,166.691137"
-        fill="url(#b)"
+        fill="url(#_ambl_Bamboo__b)"
       />
     </g>
   </svg>

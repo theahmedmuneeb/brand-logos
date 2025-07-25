@@ -14,7 +14,7 @@ const Flutter = (props: SVGProps<SVGSVGElement>) => (
         y1="26.9930287%"
         x2="75.8970734%"
         y2="52.9192657%"
-        id="a"
+        id="_ambl_Flutter__a"
       >
         <stop stopColor="#000000" offset="0%" />
         <stop stopColor="#000000" stopOpacity={0} offset="100%" />
@@ -39,7 +39,7 @@ const Flutter = (props: SVGProps<SVGSVGElement>) => (
       />
       <polygon
         fillOpacity={0.8}
-        fill="url(#a)"
+        fill="url(#_ambl_Flutter__a)"
         points="121.132827 279.531454 161.692896 266.072227 165.721875 234.941308"
       />
     </g>

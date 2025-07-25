@@ -9,7 +9,13 @@ const Brackets = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a">
+      <linearGradient
+        x1="50%"
+        y1="0%"
+        x2="50%"
+        y2="100%"
+        id="_ambl_Brackets__a"
+      >
         <stop stopColor="#29ABE2" offset="0%" />
         <stop stopColor="#28A9E1" offset="47.57%" />
         <stop stopColor="#23A2DC" offset="66.39%" />
@@ -23,7 +29,7 @@ const Brackets = (props: SVGProps<SVGSVGElement>) => (
         width="200%"
         height="200%"
         filterUnits="objectBoundingBox"
-        id="b"
+        id="_ambl_Brackets__b"
       >
         <feOffset dx={0} dy={2} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -48,7 +54,7 @@ const Brackets = (props: SVGProps<SVGSVGElement>) => (
         width="200%"
         height="200%"
         filterUnits="objectBoundingBox"
-        id="c"
+        id="_ambl_Brackets__c"
       >
         <feOffset dx={0} dy={2} in="SourceAlpha" result="shadowOffsetOuter1" />
         <feGaussianBlur
@@ -79,16 +85,16 @@ const Brackets = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M204.8,28.16 C217.50528,28.16 227.84,38.49472 227.84,51.2 L227.84,179.2 C227.84,191.90528 217.50528,202.24 204.8,202.24 L51.2,202.24 C38.49472,202.24 28.16,191.90528 28.16,179.2 L28.16,51.2 C28.16,38.49472 38.49472,28.16 51.2,28.16 L204.8,28.16 L204.8,28.16 Z M204.8,0 L51.2,0 C23.04,0 0,23.04 0,51.2 L0,179.2 C0,207.36 23.04,230.4 51.2,230.4 L204.8,230.4 C232.96,230.4 256,207.36 256,179.2 L256,51.2 C256,23.04 232.96,0 204.8,0 L204.8,0 L204.8,0 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Brackets__a)"
       />
       <g transform="translate(56.320000, 53.760000)" fill="#4D4D4D">
         <path
           d="M143.36,0 L143.36,122.88 L79.36,122.88 L79.36,92.16 L115.2,92.16 L115.2,28.16 L79.36,28.16 L79.36,0 L143.36,0 L143.36,0 Z"
-          filter="url(#b)"
+          filter="url(#_ambl_Brackets__b)"
         />
         <path
           d="M64,0 L64,28.16 L28.16,28.16 L28.16,92.16 L64,92.16 L64,122.88 L0,122.88 L0,0 L64,0 L64,0 Z"
-          filter="url(#c)"
+          filter="url(#_ambl_Brackets__c)"
         />
       </g>
     </g>

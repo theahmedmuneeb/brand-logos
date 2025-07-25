@@ -14,7 +14,7 @@ const Bitbucket = (props: SVGProps<SVGSVGElement>) => (
         y1="13.818022%"
         x2="46.9265964%"
         y2="78.7761408%"
-        id="a"
+        id="_ambl_Bitbucket__a"
       >
         <stop stopColor="#0052CC" offset="18%" />
         <stop stopColor="#2684FF" offset="100%" />
@@ -28,7 +28,7 @@ const Bitbucket = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M244.610824,77.2417255 L167.693776,77.2417255 L154.78548,152.601582 L101.513151,152.601582 L38.6108235,227.264801 C40.6045494,228.988786 43.1464609,229.94745 45.7820986,229.969396 L212.729383,229.969396 C216.789495,230.021652 220.275791,227.093164 220.925126,223.084972 L244.610824,77.2417255 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Bitbucket__a)"
       />
     </g>
   </svg>

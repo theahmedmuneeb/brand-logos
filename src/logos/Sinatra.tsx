@@ -10,7 +10,7 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
   >
     <g>
       <radialGradient
-        id="shadow_1_"
+        id="_ambl_Sinatra__shadow_1_"
         cx={125.9704}
         cy={125.7092}
         r={129.9059}
@@ -32,12 +32,12 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        id="shadow_4_"
-        className="st0"
+        id="_ambl_Sinatra__shadow_4_"
+        className="_ambl_Sinatra__st0"
         d="M5,123c0-27.8,56.2-50.3,125.5-50.3C199.8,72.7,256,95.2,256,123c0,27.8-56.2,50.3-125.5,50.3 C61.2,173.4,5,150.8,5,123z"
       />
       <radialGradient
-        id="brim_1_"
+        id="_ambl_Sinatra__brim_1_"
         cx={178.6103}
         cy={90.8516}
         r={177.3905}
@@ -76,17 +76,17 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        id="brim_4_"
-        className="st1"
+        id="_ambl_Sinatra__brim_4_"
+        className="_ambl_Sinatra__st1"
         d="M2.9,127.8c0,0-20.6-40,47.4-62.4C82.1,54.9,119.4,48,152.7,46.8c38-1.3,71.7,5.3,86.4,27.7 c10.6,16.2,4.2,36-16.3,51.4c-12.3,9.2-39.3,18.4-57.3,23.6c-18,5.1-53.3,12-82.2,10.4S18.5,154.1,2.9,127.8z"
       />
       <path
-        id="brim_hl"
-        className="st2"
+        id="_ambl_Sinatra__brim_hl"
+        className="_ambl_Sinatra__st2"
         d="M2.9,127.8c0,0-20.6-40,47.4-62.4C82.1,54.9,119.4,48,152.7,46.8c38-1.3,71.7,5.3,86.4,27.7 c10.6,16.2,4.2,36-16.3,51.4c-12.3,9.2-39.3,18.4-57.3,23.6c-18,5.1-53.3,12-82.2,10.4S18.5,154.1,2.9,127.8z M83.9,158.7 c28.2,1.6,62.6-5.2,80.1-10.2c17.5-5,44.2-13.6,56.2-22.6c20-15,28.1-33.7,16.9-50.9c-14.2-22-48.7-28.8-85.7-27.5 c-32.4,1.1-68.8,8.8-99.8,19c-66.3,21.9-46.2,60.9-46.2,60.9C20.7,153,55.7,157.1,83.9,158.7z"
       />
       <linearGradient
-        id="crown_1_"
+        id="_ambl_Sinatra__crown_1_"
         gradientUnits="userSpaceOnUse"
         x1={53.662}
         y1={47.5795}
@@ -149,12 +149,12 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        id="crown_4_"
-        className="st3"
+        id="_ambl_Sinatra__crown_4_"
+        className="_ambl_Sinatra__st3"
         d="M57.3,95.9c-5.9-4.3-14.2-25.4-11-30c3.2-4.6,8-14.2,10.7-23.6C59.7,33,63.5,13.2,71,6.2 c7.5-7,18.7-7,33.5-5.4c14.7,1.6,57.8,9.4,68.3,13.1c10.4,3.7,24,10.7,23.2,27c-0.8,16.3,0.7,24.4-1.2,33.5 c-1.9,9.1-21.7,26.8-46.6,28.1C123.2,104,63.2,100.2,57.3,95.9z"
       />
       <radialGradient
-        id="side-dent_1_"
+        id="_ambl_Sinatra__side-dent_1_"
         cx={110.123}
         cy={23.7713}
         r={53.7674}
@@ -193,12 +193,12 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        id="side-dent_2_"
-        className="st4"
+        id="_ambl_Sinatra__side-dent_2_"
+        className="_ambl_Sinatra__st4"
         d="M127.8,75.8c0,0,25.7-3.4,41.2-17.9c15.5-14.5,1.8-24.9-2.4-27.5 c-4.2-2.6-18.3-9.4-40.6-8.4c-22.3,1-44.3,1.2-42.8,17.7C84.7,56.1,102.7,75.8,127.8,75.8z"
       />
       <linearGradient
-        id="gutter-dent_1_"
+        id="_ambl_Sinatra__gutter-dent_1_"
         gradientUnits="userSpaceOnUse"
         x1={69.277}
         y1={15.553}
@@ -237,12 +237,12 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        id="gutter-dent_2_"
-        className="st5"
+        id="_ambl_Sinatra__gutter-dent_2_"
+        className="_ambl_Sinatra__st5"
         d="M71,26.2c-2.8-1.8-3.2-11.6,7.2-18.3c10.4-6.6,37.2-2.6,54.6,1.6 c17.5,4.2,45.7,10.1,44.2,11.7c-1.5,1.5-43.5-3.6-62.7-2.6C88.2,20,75.4,29,71,26.2z"
       />
       <linearGradient
-        id="ribbon_1_"
+        id="_ambl_Sinatra__ribbon_1_"
         gradientUnits="userSpaceOnUse"
         x1={42.4698}
         y1={94.5299}
@@ -293,8 +293,8 @@ const Sinatra = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        id="ribbon_5_"
-        className="st6"
+        id="_ambl_Sinatra__ribbon_5_"
+        className="_ambl_Sinatra__st6"
         d="M195.6,71.7c-0.3,0-0.4,0.9-0.8,1.4c-3.3,5.4-13.1,14.6-35.4,14.6c-19.8,0-51.1,0-60.6,0 c-38.2,0-49.3-10.3-52.1-17.7c-0.2-0.7-0.5-1.6-0.8-1.6c-0.3,0-0.5,1.6-0.5,1.6l-2.9,27.7c0,12.7,32.9,23,75.2,23 c42.3,0,78.6-6,78.6-23c0,0,0.2-16.9,0.1-24.4C196.4,72.5,196.3,71.7,195.6,71.7z"
       />
     </g>

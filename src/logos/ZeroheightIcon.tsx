@@ -14,7 +14,7 @@ const ZeroheightIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="100%"
         x2="84.2492209%"
         y2="0%"
-        id="a"
+        id="_ambl_ZeroheightIcon__a"
       >
         <stop stopColor="#EC407A" offset="0%" />
         <stop stopColor="#FFA000" offset="100%" />
@@ -23,7 +23,7 @@ const ZeroheightIcon = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M22.6268266,0 L45.2676118,48.2407852 L0,48.2407852 L22.6268266,0 Z M0,55.8621592 L45.2676118,55.8621592 L45.2676118,271.703381 L0,271.703381 L0,55.8621592 Z M0,279.324755 L45.2676118,279.324755 L45.2676118,305.566848 L0,305.566848 L0,279.324755 Z M80.5408942,48.1151581 L111.891821,16.7921483 L256,161.011996 L111.165976,309.321701 L79.8708833,279.589967 L193.633152,161.221374 L80.5408942,48.1291167 L80.5408942,48.1151581 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_ZeroheightIcon__a)"
       />
     </g>
   </svg>

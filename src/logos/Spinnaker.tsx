@@ -14,7 +14,7 @@ const Spinnaker = (props: SVGProps<SVGSVGElement>) => (
         y1="6.03160989%"
         x2="34.6134572%"
         y2="106.134929%"
-        id="a"
+        id="_ambl_Spinnaker__a"
       >
         <stop stopColor="#2B3990" offset="0%" />
         <stop stopColor="#1E62A7" offset="16%" />
@@ -24,7 +24,13 @@ const Spinnaker = (props: SVGProps<SVGSVGElement>) => (
         <stop stopColor="#01C0DE" offset="83%" />
         <stop stopColor="#00C4E0" offset="100%" />
       </linearGradient>
-      <linearGradient x1="-31668%" y1="78954%" x2="-19806%" y2="78954%" id="b">
+      <linearGradient
+        x1="-31668%"
+        y1="78954%"
+        x2="-19806%"
+        y2="78954%"
+        id="_ambl_Spinnaker__b"
+      >
         <stop stopColor="#2B3990" offset="0%" />
         <stop stopColor="#1E62A7" offset="16%" />
         <stop stopColor="#1485BC" offset="32%" />
@@ -37,14 +43,14 @@ const Spinnaker = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M21.9428571,218.332687 C120.803435,228.132251 200.18436,169.657483 219.985989,144.600709 C239.787621,119.543935 209.763198,0 209.763198,0 C177.216616,79.9558442 118.039793,201.139761 21.9428571,218.373014 L21.9428571,218.332687 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Spinnaker__a)"
         style={{
           mixBlendMode: "multiply",
         }}
       />
       <path
         d="M67.6571429,186.423921 C125.97178,188.570697 170.358711,151.901065 181.058769,136.699201 C191.758826,121.497337 175.376482,53.0285714 175.376482,53.0285714 C159.170438,100.458924 114.078306,169.571722 67.6571429,186.423921 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Spinnaker__b)"
         style={{
           mixBlendMode: "multiply",
         }}

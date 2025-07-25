@@ -16,7 +16,7 @@ const ReactSpring = (props: SVGProps<SVGSVGElement>) => (
         fy="32.3892028%"
         r="64.0150274%"
         gradientTransform="translate(0.334344,0.323892),scale(1.000000,0.998082),rotate(54.654716),translate(-0.334344,-0.323892)"
-        id="a"
+        id="_ambl_ReactSpring__a"
       >
         <stop stopColor="#FFFFFF" stopOpacity={0.904382} offset="0%" />
         <stop stopColor="#FF6D6D" offset="100%" />
@@ -30,7 +30,7 @@ const ReactSpring = (props: SVGProps<SVGSVGElement>) => (
         transform="translate(125.112908, 125.216966) scale(-1, 1) rotate(-140.000000) translate(-125.112908, -125.216966) "
       />
       <ellipse
-        fill="url(#a)"
+        fill="url(#_ambl_ReactSpring__a)"
         cx={127.877321}
         cy={127.957171}
         rx={41.5508462}

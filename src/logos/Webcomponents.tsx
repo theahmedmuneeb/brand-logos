@@ -9,19 +9,43 @@ const Webcomponents = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="a">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="100%"
+        y2="50%"
+        id="_ambl_Webcomponents__a"
+      >
         <stop stopColor="#2A3B8F" offset="0%" />
         <stop stopColor="#29ABE2" offset="100%" />
       </linearGradient>
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="b">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="100%"
+        y2="50%"
+        id="_ambl_Webcomponents__b"
+      >
         <stop stopColor="#2A3B8F" offset="0%" />
         <stop stopColor="#29ABE2" offset="100%" />
       </linearGradient>
-      <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="c">
+      <linearGradient
+        x1="100%"
+        y1="50%"
+        x2="0%"
+        y2="50%"
+        id="_ambl_Webcomponents__c"
+      >
         <stop stopColor="#B4D44E" offset="0%" />
         <stop stopColor="#E7F716" offset="100%" />
       </linearGradient>
-      <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="d">
+      <linearGradient
+        x1="100%"
+        y1="50%"
+        x2="0%"
+        y2="50%"
+        id="_ambl_Webcomponents__d"
+      >
         <stop stopColor="#B4D44E" offset="0%" />
         <stop stopColor="#E7F716" offset="100%" />
       </linearGradient>
@@ -40,17 +64,17 @@ const Webcomponents = (props: SVGProps<SVGSVGElement>) => (
         points="224.676163 48.8982261 182.809054 99.7140297 157.401153 57.2077286 196.871289 0.159798124"
       />
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Webcomponents__a)"
         opacity={0.95}
         points="96.9974616 48.8982261 224.676163 48.8982261 196.551693 0.159798124 125.121931 0.159798124"
       />
       <polyline
-        fill="url(#b)"
+        fill="url(#_ambl_Webcomponents__b)"
         opacity={0.95}
         points="182.809054 99.8738278 253.439825 99.8738278 228.031924 57.0479304 157.241354 57.0479304"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Webcomponents__c)"
         opacity={0.95}
         points="225.155557 158.999134 96.8376634 158.999134 124.962133 207.737562 196.871289 207.737562"
       />
@@ -59,7 +83,7 @@ const Webcomponents = (props: SVGProps<SVGSVGElement>) => (
         points="124.962133 207.737562 64.8780385 103.868781 125.761124 0 59.9242967 0 0 103.868781 59.9242967 207.737562"
       />
       <polyline
-        fill="url(#d)"
+        fill="url(#_ambl_Webcomponents__d)"
         opacity={0.95}
         points="182.809054 108.023532 253.439825 108.023532 228.031924 150.849429 157.241354 150.849429"
       />

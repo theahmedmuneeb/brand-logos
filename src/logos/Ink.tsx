@@ -14,7 +14,7 @@ const Ink = (props: SVGProps<SVGSVGElement>) => (
         y1="9.70187867%"
         x2="58.0044403%"
         y2="40.2055933%"
-        id="a"
+        id="_ambl_Ink__a"
       >
         <stop stopColor="#DB221A" offset="0%" />
         <stop stopColor="#9E020B" offset="100%" />
@@ -24,7 +24,7 @@ const Ink = (props: SVGProps<SVGSVGElement>) => (
         y1="58.3732219%"
         x2="59.1268243%"
         y2="44.5515751%"
-        id="b"
+        id="_ambl_Ink__b"
       >
         <stop stopColor="#87D152" offset="0%" />
         <stop stopColor="#5CA82C" offset="100%" />
@@ -34,7 +34,7 @@ const Ink = (props: SVGProps<SVGSVGElement>) => (
         y1="94.2054964%"
         x2="47.7658214%"
         y2="50%"
-        id="c"
+        id="_ambl_Ink__c"
       >
         <stop stopColor="#39BE90" offset="0%" />
         <stop stopColor="#2C8A72" offset="100%" />
@@ -43,7 +43,7 @@ const Ink = (props: SVGProps<SVGSVGElement>) => (
     <g>
       <path
         d="M25.549,25.331 L26.672,29.788 L68.217,71.558 L110.66,28.89 L111.004,25.331 L25.549,25.331"
-        fill="url(#a)"
+        fill="url(#_ambl_Ink__a)"
       />
       <path
         d="M68.131,67.84 L67.468,70.435 L90.674,167.223 L130.198,127.7 L70.912,68.189 L68.131,67.84"
@@ -63,7 +63,7 @@ const Ink = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M25.913,145.433 L25.913,230.305 L30.939,229.204 L72.259,187.287 L28.918,146.339 L25.913,145.433"
-        fill="url(#b)"
+        fill="url(#_ambl_Ink__b)"
       />
       <path
         d="M25.913,230.305 L68.349,187.287 L72.259,185.301 L164.556,162.395 L187.942,187.505 L186.901,189.905 L149.51,228.643 L146.006,230.079 L120.976,255.49 L25.913,230.305"
@@ -79,7 +79,7 @@ const Ink = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M146.088,230.16 L187.942,187.505 L230.596,230.16 L146.088,230.16"
-        fill="url(#c)"
+        fill="url(#_ambl_Ink__c)"
       />
       <path
         d="M0,120.248 L68.349,187.287 L71.585,185.526 L92.358,167.448 L91.569,164.213 L68.131,67.84 L25.549,25.331 L0,120.248"

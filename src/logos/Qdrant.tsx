@@ -14,7 +14,7 @@ const Qdrant = (props: SVGProps<SVGSVGElement>) => (
         y1="44.8421053%"
         x2="-18.0857143%"
         y2="44.8421053%"
-        id="a"
+        id="_ambl_Qdrant__a"
       >
         <stop stopColor="#FF3364" offset="0%" />
         <stop stopColor="#C91540" stopOpacity={0} offset="100%" />
@@ -60,7 +60,7 @@ const Qdrant = (props: SVGProps<SVGSVGElement>) => (
         />
       </g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Qdrant__a)"
         points="74.7890836 143.342269 74.7890836 113.978067 50.9931339 100.282931 50.9931339 129.598408"
       />
     </g>

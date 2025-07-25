@@ -14,7 +14,7 @@ const Goland = (props: SVGProps<SVGSVGElement>) => (
         y1="29.811449%"
         x2="28.8742684%"
         y2="83.7098692%"
-        id="a"
+        id="_ambl_Goland__a"
       >
         <stop stopColor="#087CFA" offset="0%" />
         <stop stopColor="#0D7BFA" offset="2%" />
@@ -28,7 +28,7 @@ const Goland = (props: SVGProps<SVGSVGElement>) => (
         y1="38.4645211%"
         x2="74.8721245%"
         y2="4.95023911%"
-        id="b"
+        id="_ambl_Goland__b"
       >
         <stop stopColor="#087CFA" offset="0%" />
         <stop stopColor="#0D7BFA" offset="2%" />
@@ -42,7 +42,7 @@ const Goland = (props: SVGProps<SVGSVGElement>) => (
         y1="71.0629926%"
         x2="86.03125%"
         y2="34.5494293%"
-        id="c"
+        id="_ambl_Goland__c"
       >
         <stop stopColor="#087CFA" offset="0%" />
         <stop stopColor="#1598D3" offset="10%" />
@@ -55,7 +55,7 @@ const Goland = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Goland__a)"
         points="225.493333 99.0133333 256 166.666667 203.786667 256 171.626667 177.92"
       />
       <polygon
@@ -63,11 +63,11 @@ const Goland = (props: SVGProps<SVGSVGElement>) => (
         points="171.626667 177.92 203.786667 256 122.88 228.186667"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Goland__b)"
         points="180.346667 72.2933333 163.76 0 71.7866667 0 2.36847579e-15 109.813333 20.7733333 160.266667 0 206.32 148.666667 79.84"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Goland__c)"
         points="256 54.3466667 148.666667 79.84 0 206.32 95.8933333 256 171.626667 177.92"
       />
       <polygon fill="#000000" points="48 48 208 48 208 208 48 208" />

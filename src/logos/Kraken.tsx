@@ -14,7 +14,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="50.0225181%"
         x2="157.868335%"
         y2="50.0225181%"
-        id="a"
+        id="_ambl_Kraken__a"
       >
         <stop stopColor="#000000" offset="0%" />
         <stop stopColor="#2E3192" offset="28%" />
@@ -27,7 +27,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9675978%"
         x2="198.910641%"
         y2="49.9675978%"
-        id="b"
+        id="_ambl_Kraken__b"
       >
         <stop stopColor="#000000" offset="0%" />
         <stop stopColor="#2E3192" offset="23%" />
@@ -40,7 +40,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="104.92211%"
         x2="192.565635%"
         y2="-14.6784239%"
-        id="c"
+        id="_ambl_Kraken__c"
       >
         <stop stopColor="#F58220" offset="0%" />
         <stop stopColor="#ED1C24" offset="47%" />
@@ -51,7 +51,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="95.5496482%"
         x2="73.5909474%"
         y2="2.57918126%"
-        id="d"
+        id="_ambl_Kraken__d"
       >
         <stop stopColor="#F58220" offset="0%" />
         <stop stopColor="#ED1C24" offset="38%" />
@@ -62,7 +62,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="17.4503069%"
         x2="142.413209%"
         y2="97.6840441%"
-        id="e"
+        id="_ambl_Kraken__e"
       >
         <stop stopColor="#F58220" offset="0%" />
         <stop stopColor="#FFCB05" offset="50%" />
@@ -73,7 +73,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="-13.8545035%"
         x2="63.0765263%"
         y2="118.707644%"
-        id="f"
+        id="_ambl_Kraken__f"
       >
         <stop stopColor="#FFF200" offset="0%" />
         <stop stopColor="#F99D1C" offset="100%" />
@@ -83,7 +83,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="77.2655263%"
         x2="86.9628794%"
         y2="36.7439474%"
-        id="g"
+        id="_ambl_Kraken__g"
       >
         <stop stopColor="#F26522" offset="0%" />
         <stop stopColor="#C61D23" offset="100%" />
@@ -93,7 +93,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="59.8838596%"
         x2="67.7493779%"
         y2="-81.3819298%"
-        id="h"
+        id="_ambl_Kraken__h"
       >
         <stop stopColor="#2E3192" offset="0%" />
         <stop stopColor="#61A2D8" offset="100%" />
@@ -103,7 +103,7 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
         y1="40.117193%"
         x2="67.7153346%"
         y2="181.377544%"
-        id="i"
+        id="_ambl_Kraken__i"
       >
         <stop stopColor="#2E3192" offset="0%" />
         <stop stopColor="#61A2D8" offset="100%" />
@@ -112,39 +112,39 @@ const Kraken = (props: SVGProps<SVGSVGElement>) => (
     <g transform="translate(-1.000000, 0.000000)">
       <path
         d="M192.9,3.5 L128.9,114.3 L192.9,225.1 C196.5,223 199.5,220 201.7,216.1 L253.5,126.3 C257.9,118.6 257.9,109.8 253.5,102.1 L201.7,12.3 C199.5,8.6 196.5,5.6 192.9,3.5 L192.9,3.5 L192.9,3.5 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Kraken__a)"
       />
       <path
         d="M128.9,114.4 L170.3,186 C170.7,185.5 171.1,184.9 171.4,184.3 L207,122.7 C210,117.4 210,111.3 207,106.1 L171.4,44.5 C171,43.9 170.7,43.4 170.3,42.8 L128.9,114.4 L128.9,114.4 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Kraken__b)"
       />
       <path
         d="M128.9,114.4 L96,57.4 L191,2.6 C191.7,2.9 192.3,3.2 192.9,3.6 L128.9,114.4 L128.9,114.4 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Kraken__c)"
       />
       <path
         d="M56.1,216.3 C38.8,186.4 21.5,156.4 4.3,126.5 C2.5,123.3 1.4,119.9 1.1,116.5 L96.1,171.3 L64.9,225.2 C61.4,223.1 58.3,220.1 56.1,216.3 L56.1,216.3 L56.1,216.3 Z"
-        fill="url(#d)"
+        fill="url(#_ambl_Kraken__d)"
       />
       <path
         d="M96,171.4 L191,226.2 C191.7,225.9 192.3,225.6 192.9,225.2 L128.9,114.4 L96,171.4 L96,171.4 Z"
-        fill="url(#e)"
+        fill="url(#_ambl_Kraken__e)"
       />
       <path
         d="M56.2,12.4 L4.3,102.3 C2.5,105.5 1.4,108.8 1.1,112.2 L96.1,57.4 L64.9,3.5 C61.4,5.6 58.4,8.5 56.2,12.4 L56.2,12.4 L56.2,12.4 Z"
-        fill="url(#f)"
+        fill="url(#_ambl_Kraken__f)"
       />
       <path
         d="M96,57.3 L128.9,114.3 L96,171.3 L1,116.5 C0.9,115.1 0.9,113.6 1,112.2 L96,57.3 L96,57.3 Z"
-        fill="url(#g)"
+        fill="url(#_ambl_Kraken__g)"
       />
       <path
         d="M96,57.3 L191,2.5 C187.9,1.1 184.4,0.3 180.8,0.3 L77.1,0.3 C72.7,0.3 68.5,1.4 65,3.5 L96,57.3 L96,57.3 Z"
-        fill="url(#h)"
+        fill="url(#_ambl_Kraken__h)"
       />
       <path
         d="M64.9,225.2 L96,171.4 L191,226.2 C187.9,227.6 184.4,228.4 180.8,228.4 L77.1,228.4 C72.6,228.4 68.5,227.3 64.9,225.2 L64.9,225.2 L64.9,225.2 Z"
-        fill="url(#i)"
+        fill="url(#_ambl_Kraken__i)"
       />
     </g>
   </svg>

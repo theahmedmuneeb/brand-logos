@@ -14,7 +14,7 @@ const JetbrainsSpace = (props: SVGProps<SVGSVGElement>) => (
         y1="-1.34304614%"
         x2="55.5220482%"
         y2="97.6099761%"
-        id="a"
+        id="_ambl_JetbrainsSpace__a"
       >
         <stop stopColor="#FCF84A" offset="0%" />
         <stop stopColor="#ABE682" offset="32%" />
@@ -26,7 +26,7 @@ const JetbrainsSpace = (props: SVGProps<SVGSVGElement>) => (
         y1="38.9923346%"
         x2="100.445236%"
         y2="62.1053821%"
-        id="b"
+        id="_ambl_JetbrainsSpace__b"
       >
         <stop stopColor="#3BEA62" offset="0%" />
         <stop stopColor="#087CFA" offset="100%" />
@@ -36,7 +36,7 @@ const JetbrainsSpace = (props: SVGProps<SVGSVGElement>) => (
         y1="71.8068763%"
         x2="111.745094%"
         y2="15.4620075%"
-        id="c"
+        id="_ambl_JetbrainsSpace__c"
       >
         <stop stopColor="#009AE5" offset="0%" />
         <stop stopColor="#0490DD" offset="18%" />
@@ -53,15 +53,15 @@ const JetbrainsSpace = (props: SVGProps<SVGSVGElement>) => (
       <g>
         <path
           d="M25.5407911,141.029935 C75.7152527,136.634666 119.737292,105.814939 141.034899,60.1727773 C114.656706,22.477003 71.5492703,0.0179026927 25.5407911,8.4893736e-06 C21.4415212,8.4893736e-06 17.3234474,0.181780395 13.1865695,0.545324207 C-8.08551798,46.2183997 -3.37614579,99.7704844 25.5407911,141.029935 L25.5407911,141.029935 Z"
-          fill="url(#a)"
+          fill="url(#_ambl_JetbrainsSpace__a)"
         />
         <path
           d="M13.3370015,0.564128197 C43.3574743,12.7670901 69.1508873,33.4881035 87.537547,60.1727773 L141.034899,60.1727773 C114.735557,22.4556909 71.6532166,-0.0159455399 25.6724191,0 C21.5731492,0 17.4613433,0.188048392 13.3370015,0.564128197 L13.3370015,0.564128197 Z"
-          fill="url(#b)"
+          fill="url(#_ambl_JetbrainsSpace__b)"
         />
         <path
           d="M87.537547,60.1727773 C81.0877783,102.801423 25.4843792,141.029935 25.4843792,141.029935 C76.0483089,136.253722 120.369314,105.979298 141.034899,60.1727773 L87.537547,60.1727773 Z"
-          fill="url(#c)"
+          fill="url(#_ambl_JetbrainsSpace__c)"
         />
       </g>
     </g>

@@ -9,7 +9,13 @@ const Neat = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.22044605e-14%" id="a">
+      <linearGradient
+        x1="50%"
+        y1="100%"
+        x2="50%"
+        y2="-2.22044605e-14%"
+        id="_ambl_Neat__a"
+      >
         <stop stopColor="#21E9F4" offset="0%" />
         <stop stopColor="#00D4FF" offset="100%" />
       </linearGradient>
@@ -21,7 +27,7 @@ const Neat = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M9.376,246.286451 L128,127.824809 L246.624,246.286451 C240.832,252.070524 232.832,255.649618 224,255.649618 L32,255.649618 C23.168,255.649618 15.168,252.070524 9.376,246.286451 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Neat__a)"
       />
     </g>
   </svg>

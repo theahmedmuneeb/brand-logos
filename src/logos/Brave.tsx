@@ -14,7 +14,7 @@ const Brave = (props: SVGProps<SVGSVGElement>) => (
         y1="50.017894%"
         x2="100.096998%"
         y2="50.017894%"
-        id="a"
+        id="_ambl_Brave__a"
       >
         <stop stopColor="#FFFFFF" offset="0%" />
         <stop stopColor="#FFFFFF" stopOpacity={0.9576} offset="14.13%" />
@@ -25,7 +25,7 @@ const Brave = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9824538%"
         x2="100%"
         y2="49.9824538%"
-        id="b"
+        id="_ambl_Brave__b"
       >
         <stop stopColor="#F1F1F2" offset="0%" />
         <stop stopColor="#E4E5E6" offset="9.191442%" />
@@ -41,7 +41,7 @@ const Brave = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M34.5,227.7 L0,99.5 L10.1,74.4 L3.1,55.8 L19.8,38.8 C25.3,33.9 36.1,32.2 41.1,35.1 L67.2,50.1 L101.2,58 L127.7,47 L129.9,274.7 C129.5,307.5 131.6,304 107.5,288.5 L48,248.6 C41.6,242.5 36.7,235.6 34.5,227.7 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_Brave__a)"
         opacity={0.15}
         style={{
           mixBlendMode: "lighten",
@@ -49,7 +49,7 @@ const Brave = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M202.2,252.245742 L151.6,286.845742 C137.5,294.545742 130.7,302.145742 129.6,298.445742 C128.7,295.545742 129.4,287.045742 129.1,273.845742 L128.5,51.1457423 C128.6,48.9457423 130.1,45.2457423 132.7,45.6457423 L158.5,53.4457423 L195.7,47.6457423 L220.3,29.5457423 C222.9,27.5457423 226.7,27.7457423 229.1,30.0457423 L251.1,51.0457423 C253.1,53.1457423 253.2,57.2457423 252,59.8457423 L245.9,71.1457423 L256,97.2457423 L221.2,226.645742 C215.8,242.745742 208.2,246.945742 202.2,252.245742 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Brave__b)"
         opacity={0.4}
         style={{
           mixBlendMode: "darken",

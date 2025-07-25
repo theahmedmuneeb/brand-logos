@@ -14,7 +14,7 @@ const Frontapp = (props: SVGProps<SVGSVGElement>) => (
         y1="85.2128611%"
         x2="88.2282959%"
         y2="10.0225497%"
-        id="a"
+        id="_ambl_Frontapp__a"
       >
         <stop stopColor="#FF0057" stopOpacity={0.16} offset="0%" />
         <stop stopColor="#FF0057" offset="86.1354%" />
@@ -26,14 +26,14 @@ const Frontapp = (props: SVGProps<SVGSVGElement>) => (
         fill="#001B38"
       />
       <circle
-        fill="url(#a)"
+        fill="url(#_ambl_Frontapp__a)"
         transform="translate(147.013244, 147.014675) rotate(90.000000) translate(-147.013244, -147.014675) "
         cx={147.013244}
         cy={147.014675}
         r={78.9933938}
       />
       <circle
-        fill="url(#a)"
+        fill="url(#_ambl_Frontapp__a)"
         opacity={0.5}
         transform="translate(147.013244, 147.014675) rotate(90.000000) translate(-147.013244, -147.014675) "
         cx={147.013244}

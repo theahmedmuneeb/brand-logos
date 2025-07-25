@@ -9,13 +9,13 @@ const LateralIcon = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <circle id="a" cx={128} cy={128} r={128} />
+      <circle id="_ambl_LateralIcon__a" cx={128} cy={128} r={128} />
       <linearGradient
         x1="1.38181042e-06%"
         y1="73.25%"
         x2="37.75%"
         y2="36.5833333%"
-        id="c"
+        id="_ambl_LateralIcon__c"
       >
         <stop stopColor="#0060FF" offset="0%" />
         <stop stopColor="#1F66D6" offset="100%" />
@@ -25,37 +25,40 @@ const LateralIcon = (props: SVGProps<SVGSVGElement>) => (
         y1="1.11882917e-06%"
         x2="92.0138889%"
         y2="90.75%"
-        id="d"
+        id="_ambl_LateralIcon__d"
       >
         <stop stopColor="#1F6AE2" offset="0%" />
         <stop stopColor="#2E7BED" offset="100%" />
       </linearGradient>
-      <polygon id="e" points="234.666667 256 234.666667 0 0 0 192 256" />
+      <polygon
+        id="_ambl_LateralIcon__e"
+        points="234.666667 256 234.666667 0 0 0 192 256"
+      />
       <linearGradient
         x1="76.5%"
         y1="48.2653125%"
         x2="8.64720833e-07%"
         y2="54.8185764%"
-        id="g"
+        id="_ambl_LateralIcon__g"
       >
         <stop stopColor="#0D57D9" offset="0%" />
         <stop stopColor="#0D57D9" offset="100%" />
       </linearGradient>
       <polygon
-        id="h"
+        id="_ambl_LateralIcon__h"
         points="186.453333 0 0 52.6933333 0 91.0933333 256 91.0933333 256 73.6"
       />
     </defs>
     <g>
       <g>
-        <mask id="b" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_LateralIcon__b" fill="white">
+          <use href="#_ambl_LateralIcon__a" />
         </mask>
-        <g mask="url(#b)">
+        <g mask="url(#_ambl_LateralIcon__b)">
           <g transform="translate(-122.168533, -69.990430)">
             <polygon
               stroke="none"
-              fill="url(#c)"
+              fill="url(#_ambl_LateralIcon__c)"
               points="378.168533 325.99043 378.168533 69.99043 122.168533 69.99043 122.168533 325.777097"
             />
             <polygon
@@ -186,14 +189,14 @@ const LateralIcon = (props: SVGProps<SVGSVGElement>) => (
             />
             <polygon
               stroke="none"
-              fill="url(#d)"
+              fill="url(#_ambl_LateralIcon__d)"
               points="378.168533 325.99043 378.168533 69.99043 143.501867 69.99043 335.501867 325.99043"
             />
             <g transform="translate(143.501867, 69.990430)">
-              <mask id="f" fill="white">
-                <use href="#e" />
+              <mask id="_ambl_LateralIcon__f" fill="white">
+                <use href="#_ambl_LateralIcon__e" />
               </mask>
-              <g mask="url(#f)" fill="#3582F7">
+              <g mask="url(#_ambl_LateralIcon__f)" fill="#3582F7">
                 <g transform="translate(-62.626933, -150.601630)">
                   <polygon
                     transform="translate(100.616830, 100.918217) rotate(-45.000000) translate(-100.616830, -100.918217) "
@@ -321,14 +324,14 @@ const LateralIcon = (props: SVGProps<SVGSVGElement>) => (
             <polygon
               stroke="#0D57D9"
               strokeWidth={1}
-              fill="url(#g)"
+              fill="url(#_ambl_LateralIcon__g)"
               points="308.621867 234.897097 122.168533 287.59043 122.168533 325.99043 378.168533 325.99043 378.168533 308.497097"
             />
             <g transform="translate(122.168533, 234.897097)">
-              <mask id="i" fill="white">
-                <use href="#h" />
+              <mask id="_ambl_LateralIcon__i" fill="white">
+                <use href="#_ambl_LateralIcon__h" />
               </mask>
-              <g mask="url(#i)" fill="#1362DD">
+              <g mask="url(#_ambl_LateralIcon__i)" fill="#1362DD">
                 <g transform="translate(-92.725333, -86.468946)">
                   <polygon
                     transform="translate(245.821392, 88.616040) rotate(-16.500000) translate(-245.821392, -88.616040) "

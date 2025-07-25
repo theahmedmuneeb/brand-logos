@@ -10,7 +10,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
   >
     <g>
       <linearGradient
-        id="a"
+        id="_ambl_Tastejs__a"
         gradientUnits="userSpaceOnUse"
         x1={-385.7729}
         y1={802.0126}
@@ -33,14 +33,14 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <ellipse
         opacity={0.39}
-        fill="url(#a)"
+        fill="url(#_ambl_Tastejs__a)"
         cx={126.1}
         cy={375.1}
         rx={90}
         ry={12.8}
       />
       <linearGradient
-        id="b"
+        id="_ambl_Tastejs__b"
         gradientUnits="userSpaceOnUse"
         x1={-385.702}
         y1={808.0942}
@@ -63,11 +63,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.46}
-        fill="url(#b)"
+        fill="url(#_ambl_Tastejs__b)"
         d="M158.6,368.1 c-12.5,0-23.8,0.7-32.5,1.8c-8.7-1.1-20.1-1.8-32.5-1.8c-27.4,0-49.6,3.2-49.6,7.1c0,3.9,22.2,7.1,49.6,7.1 c12.5,0,23.8-0.6,32.5-1.8c8.7,1.1,20.1,1.8,32.5,1.8c27.4,0,49.6-3.2,49.6-7.1C208.1,371.3,186,368.1,158.6,368.1L158.6,368.1 L158.6,368.1z"
       />
       <radialGradient
-        id="c"
+        id="_ambl_Tastejs__c"
         cx={-383.1929}
         cy={798.0082}
         r={0.2189}
@@ -87,9 +87,15 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           }}
         />
       </radialGradient>
-      <ellipse fill="url(#c)" cx={223.4} cy={112.5} rx={12.9} ry={10} />
+      <ellipse
+        fill="url(#_ambl_Tastejs__c)"
+        cx={223.4}
+        cy={112.5}
+        rx={12.9}
+        ry={10}
+      />
       <linearGradient
-        id="d"
+        id="_ambl_Tastejs__d"
         gradientUnits="userSpaceOnUse"
         x1={225.4983}
         y1={110.5025}
@@ -118,7 +124,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#d)"
+        fill="url(#_ambl_Tastejs__d)"
         d="M234.8,109.9c0,0-7.3-6.5-13.5-0.5c0,0,5,1.3,4.5,4.4c-0.5,3.1-4.7,4.2-4.7,4.2 S235.6,122.1,234.8,109.9L234.8,109.9L234.8,109.9z"
       />
       <path
@@ -126,7 +132,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M225.8,113.8c0.5-3.1-4.5-4.4-4.5-4.4c6.3-6,13.5,0.5,13.5,0.5l0.1,0.6 c-2.7-0.7-9.5-1.6-8.4,8.1c-2.9,0.1-5.5-0.7-5.5-0.7S225.3,116.8,225.8,113.8L225.8,113.8L225.8,113.8z"
       />
       <radialGradient
-        id="e"
+        id="_ambl_Tastejs__e"
         cx={-379.687}
         cy={798.0023}
         r={0.2147}
@@ -146,9 +152,15 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           }}
         />
       </radialGradient>
-      <ellipse fill="url(#e)" cx={28.5} cy={112.5} rx={12.9} ry={10} />
+      <ellipse
+        fill="url(#_ambl_Tastejs__e)"
+        cx={28.5}
+        cy={112.5}
+        rx={12.9}
+        ry={10}
+      />
       <linearGradient
-        id="f"
+        id="_ambl_Tastejs__f"
         gradientUnits="userSpaceOnUse"
         x1={23.8934}
         y1={110.7868}
@@ -177,7 +189,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#f)"
+        fill="url(#_ambl_Tastejs__f)"
         d="M17,109.9c0,0,7.3-6.5,13.5-0.5c0,0-5,1.3-4.5,4.4c0.5,3.1,4.7,4.2,4.7,4.2 S16.2,122.1,17,109.9L17,109.9L17,109.9z"
       />
       <path
@@ -185,7 +197,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M26,113.8c-0.5-3.1,4.5-4.4,4.5-4.4c-6.3-6-13.5,0.5-13.5,0.5l-0.1,0.6 c2.7-0.7,9.5-1.6,8.4,8.1c2.9,0.1,5.5-0.7,5.5-0.7S26.6,116.8,26,113.8L26,113.8L26,113.8z"
       />
       <radialGradient
-        id="g"
+        id="_ambl_Tastejs__g"
         cx={-386.0009}
         cy={795.2947}
         r={0.2584}
@@ -206,11 +218,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#g)"
+        fill="url(#_ambl_Tastejs__g)"
         d="M124.7,13.2c0,0-69.2-6.6-87.1,89.6s-57.2,120.9-25.9,164c0,0,0,56,47.1,103.6 c0,0,18.1,14.7,30.8-3.6c12.8-18.4,30.1-28.8,44.8-25s28.3,22.4,33.9,28.5c5.6,6.1,29,25.2,58.6-55.3c0,0,55.5-30.6,13.5-117.1 c0,0-16.1-36.9-24.5-89.6C207.4,55.8,181,14,124.7,13.2L124.7,13.2L124.7,13.2z"
       />
       <linearGradient
-        id="h"
+        id="_ambl_Tastejs__h"
         gradientUnits="userSpaceOnUse"
         x1={127.9845}
         y1={785.1328}
@@ -234,7 +246,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.7}
-        fill="url(#h)"
+        fill="url(#_ambl_Tastejs__h)"
         d="M240.3,198c0,0-16.1-36.9-24.5-89.6 c-6.6-41.2-24.2-75.7-58.5-89.2C170.9,29.5,168.9,44,168.9,44c-31-2.9-39.7,31.3-39.7,31.3s3.5-28.9,2.4-28.6 c-1.2,0.3-4.7,24.3-4.7,24.3l-1.5-11.4l-0.6,11.4L119.6,49l3.8,27.8c-6.2-39-45.3-32.1-45.3-32.1c-1.6-11.5,8.6-20.6,18.2-26.5 c-21.3,8.1-48.4,29.5-58.7,84.7c-17.8,96.2-57.3,120.8-26,163.9c0,0,0,56,47.1,103.6c0,0,18.1,14.7,30.8-3.6 c12.8-18.4,30.1-28.8,44.8-25s28.3,22.4,33.9,28.5c5.6,6.1,29,25.2,58.6-55.3C226.8,315.1,282.3,284.5,240.3,198L240.3,198 L240.3,198z"
       />
       <path
@@ -246,7 +258,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M119.8,84.7l-0.5,0.7c0,0,0.5-30.6-27.8-32c-28.3-1.5-32.7,28.3-32.7,28.3 s0.8,7.7,27.8,9.2c16.9,0.9,25.4-1.5,29.4-3.4c2.6-0.8,2.6,1.1,2.6,1.1c-8.4,8.1-27.5,10.6-27.5,10.6c15.8,0.8,25.1-4.8,25.1-4.8 C111,103.5,96.5,107,96.5,107c20.4-0.2,25.6-18.2,25.6-18.2L119.8,84.7L119.8,84.7z"
       />
       <linearGradient
-        id="i"
+        id="_ambl_Tastejs__i"
         gradientUnits="userSpaceOnUse"
         x1={-383.9757}
         y1={796.1348}
@@ -268,11 +280,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#i)"
+        fill="url(#_ambl_Tastejs__i)"
         d="M59.6,81.8c0,0,6-29.3,32.4-27.5c26.4,1.8,26.9,31.1,26.9,31.1s-9.4,5.5-32.8,3.6 C62.5,86.9,59.6,81.8,59.6,81.8L59.6,81.8L59.6,81.8z"
       />
       <radialGradient
-        id="j"
+        id="_ambl_Tastejs__j"
         cx={-383.4181}
         cy={796.3013}
         r={0.239}
@@ -311,7 +323,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#j)"
+        fill="url(#_ambl_Tastejs__j)"
         d="M109.5,62c-3.5-1.8-7.4-2.7-11.5-2.7c-14.1,0-25.5,11.4-25.5,25.5 c0,0.8,0.1,1.6,0.1,2.4c3.5,0.7,7.8,1.3,13.2,1.8c23.5,2,32.8-3.6,32.8-3.6S118.4,71.1,109.5,62L109.5,62L109.5,62z"
       />
       <path
@@ -323,7 +335,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M134.1,83.5l0.5,0.6c0,0-0.5-29.7,27-31.1s31.7,27.5,31.7,27.5s-0.8,7.5-27,8.9 c-16.4,0.9-24.6-1.4-28.6-3.3c-2.5-0.8-2.6,1.1-2.6,1.1c8.1,7.8,26.7,10.3,26.7,10.3c-15.3,0.8-24.4-4.7-24.4-4.7 c5.2,8.9,19.2,12.4,19.2,12.4c-19.8-0.2-24.8-17.7-24.8-17.7L134.1,83.5L134.1,83.5z"
       />
       <linearGradient
-        id="k"
+        id="_ambl_Tastejs__k"
         gradientUnits="userSpaceOnUse"
         x1={-384.5492}
         y1={796.2324}
@@ -345,11 +357,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#k)"
+        fill="url(#_ambl_Tastejs__k)"
         d="M192.6,80.7c0,0-5.8-28.4-31.4-26.7c-25.6,1.7-26.1,30.2-26.1,30.2 s9.1,5.3,31.9,3.5C189.8,85.7,192.6,80.7,192.6,80.7L192.6,80.7L192.6,80.7z"
       />
       <radialGradient
-        id="l"
+        id="_ambl_Tastejs__l"
         cx={-383.8433}
         cy={796.3267}
         r={0.2075}
@@ -388,11 +400,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#l)"
+        fill="url(#_ambl_Tastejs__l)"
         d="M144.1,61.5c3.4-1.7,7.1-2.7,11.1-2.7c13.6,0,24.8,11.1,24.8,24.8 c0,0.8-0.1,1.5-0.1,2.3c-3.4,0.7-7.6,1.3-12.8,1.7c-22.8,1.9-31.9-3.5-31.9-3.5S135.4,70.4,144.1,61.5L144.1,61.5L144.1,61.5z"
       />
       <linearGradient
-        id="m"
+        id="_ambl_Tastejs__m"
         gradientUnits="userSpaceOnUse"
         x1={-385.6572}
         y1={795.8278}
@@ -415,11 +427,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#m)"
+        fill="url(#_ambl_Tastejs__m)"
         d="M66.6,111.5c0,0,57.8,9.3,113.6-6.8s3.2,99.6-45,101c-48.3,1.4-73.7-33.6-84.5-72 C50.6,133.7,41.8,106.5,66.6,111.5L66.6,111.5L66.6,111.5z"
       />
       <radialGradient
-        id="n"
+        id="_ambl_Tastejs__n"
         cx={-385.6651}
         cy={795.7128}
         r={0.5201}
@@ -440,11 +452,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#n)"
+        fill="url(#_ambl_Tastejs__n)"
         d="M66.6,111c0,0,57.8,8.8,113.6-6.4c55.8-15.1,3.2,94.3-45,95.6 c-48.3,1.3-73.8-31.8-84.6-68.2C50.6,132,41.8,106.4,66.6,111L66.6,111L66.6,111z"
       />
       <radialGradient
-        id="o"
+        id="_ambl_Tastejs__o"
         cx={-385.5668}
         cy={795.814}
         r={0.2159}
@@ -465,7 +477,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#o)"
+        fill="url(#_ambl_Tastejs__o)"
         d="M71.9,119.2c0,0,61.6,12.7,107-6.9c0,0,13.7-6.9,18,1.1c4.3,8-19.3,72.5-65.6,75 c-46.3,2.6-63.7-37.5-72-56.2c0,0-3.6-8.7,0.7-12.2C63.1,117.4,64.6,117.7,71.9,119.2L71.9,119.2L71.9,119.2z"
       />
       <path
@@ -478,7 +490,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M110.8,138.9c11.8-3.7,25.7-5.8,41.1-4.3 c3.2-7,2.3-12.5,1.7-14.6c-6.2,1.2-12.4,2.1-18.6,2.6c1.5,3.7-1.1,7.3-6.7,6.8c-5.3-0.5-4.9-4.1-4.1-6.2 c-6.3,0.2-12.3,0.2-17.9-0.1C103.2,133,108.5,137.5,110.8,138.9L110.8,138.9L110.8,138.9z"
       />
       <linearGradient
-        id="p"
+        id="_ambl_Tastejs__p"
         gradientUnits="userSpaceOnUse"
         x1={-379.7827}
         y1={799.929}
@@ -566,11 +578,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#p)"
+        fill="url(#_ambl_Tastejs__p)"
         d="M94.9,122.3c-11.2-1-19.3-2.4-22-2.9c-0.1,2.9,0.7,12.2,11,13.3 C92.3,133.6,94.4,126.7,94.9,122.3L94.9,122.3L94.9,122.3z"
       />
       <linearGradient
-        id="q"
+        id="_ambl_Tastejs__q"
         gradientUnits="userSpaceOnUse"
         x1={-381.8981}
         y1={798.58}
@@ -658,7 +670,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#q)"
+        fill="url(#_ambl_Tastejs__q)"
         d="M178.8,112.4c-4.9,2.1-10,3.9-15.2,5.3c0.8,3.3,3.8,9.7,9.7,9.6 c7.5-0.2,12.5-9.2,12.6-17.2C182.1,110.8,178.8,112.4,178.8,112.4L178.8,112.4L178.8,112.4z"
       />
       <g transform="translate(97.808967, 207.594542)">
@@ -773,7 +785,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M141,22.9c0,2.9-7.3,5.1-16.2,5.1s-16.2-2.3-16.2-5.1c0-2.9,7.3-5.1,16.2-5.1 S141,20.1,141,22.9L141,22.9L141,22.9z"
       />
       <linearGradient
-        id="r"
+        id="_ambl_Tastejs__r"
         gradientUnits="userSpaceOnUse"
         x1={-1663.7563}
         y1={795.2643}
@@ -801,11 +813,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#r)"
+        fill="url(#_ambl_Tastejs__r)"
         d="M124.9,0c-7.6,0-13.8,11.6-14.6,22.5c0,0,1.5,3.9,15.1,3.9 c12.1,0,14.1-3.9,14.1-3.9C138.7,11.6,132.4,0,124.9,0L124.9,0L124.9,0z"
       />
       <linearGradient
-        id="s"
+        id="_ambl_Tastejs__s"
         gradientUnits="userSpaceOnUse"
         x1={-1660.3477}
         y1={795.2609}
@@ -828,11 +840,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#s)"
+        fill="url(#_ambl_Tastejs__s)"
         d="M133.5,13.8c0,4.7-3.9,8.5-8.6,8.5c-4.8,0-8.6-3.8-8.6-8.5s3.9-11.7,8.6-11.7 C129.6,2.1,133.5,9.1,133.5,13.8L133.5,13.8L133.5,13.8z"
       />
       <linearGradient
-        id="t"
+        id="_ambl_Tastejs__t"
         gradientUnits="userSpaceOnUse"
         x1={192.143}
         y1={613.3253}
@@ -870,12 +882,12 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.7}
-        fill="url(#t)"
+        fill="url(#_ambl_Tastejs__t)"
         d="M240.3,198c0,0-10.4-24-18.9-60.9 c-2.6,13.6-8,46.8-5.2,66.8c3.5,25.7,13.4,131-32.4,147.1c0,0-13.8,2.2-31.4-17.7c-17.5-19.9-41.3-43.6-41.3-43.6l12-5.3 c0,0,6.2,8.2,18.7,4.4c0,0-8.2,1.5-14-4.7c0,0,8.5,2.9,14-4.1c0,0,3.8,1.2,2.7,3.8c0,0,4.4-3.5,1.2-7.9c0,0,24.5-21.3,14.6-45.6 l-7-9.4c0,0,5.9-5,6.2-6.4c0.3-1.5-1.8-16.1-1.8-16.1s17.6-17.3,29.9-36.3c-13.4,20-33.2,37.4-52.3,37.9 c-43.6,1.2-68.7-25.8-81-57.9H54c0,0,0.1,0.3,0.3,0.9c2.1,6,15.4,40.8,47.6,55.8l-18.7,4.1c0,0,66.8,19.6,69.7,35.1 c2.9,15.5-107.2,40.6-140.7,14.6c-10.6-8.2-10.8-23-9.8-35.5c-4.5,17.6-3.5,32,9.3,49.6c0,0,0,56,47.1,103.6 c0,0,18.1,14.7,30.8-3.6c12.8-18.4,30.1-28.8,44.8-25c14.7,3.8,28.3,22.4,33.9,28.5c5.6,6.1,29,25.2,58.6-55.3 C226.8,315.1,282.3,284.5,240.3,198L240.3,198L240.3,198z"
       />
       <g>
         <linearGradient
-          id="u"
+          id="_ambl_Tastejs__u"
           gradientUnits="userSpaceOnUse"
           x1={-385.4965}
           y1={796.5849}
@@ -906,7 +918,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </linearGradient>
         <path
           opacity={0.6}
-          fill="url(#u)"
+          fill="url(#_ambl_Tastejs__u)"
           d="M95.4,284.5 c58.4-8.8,71.5-38.3,64.8-54c-6.7-15.8-77.1-27.5-77.1-27.5s72.6,14.3,74.7,34.2c2.9,27.5-80.9,58.2-146.1,29.6c0,0,0,2.4,0.4,6.5 C24.8,279.8,53.4,290.8,95.4,284.5L95.4,284.5L95.4,284.5z"
         />
       </g>
@@ -915,7 +927,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M113.5,87.2c0.2-0.9,0.3-1.7,0.3-2.6c0-8-6.5-14.4-14.4-14.4S85,76.8,85,84.7 c0,1.5,0.2,2.8,0.6,4.2c0.2,0,0.4,0.1,0.5,0.1C99.6,89.9,108.5,88.6,113.5,87.2L113.5,87.2L113.5,87.2z"
       />
       <linearGradient
-        id="v"
+        id="_ambl_Tastejs__v"
         gradientUnits="userSpaceOnUse"
         x1={-385.9982}
         y1={795.654}
@@ -937,7 +949,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#v)"
+        fill="url(#_ambl_Tastejs__v)"
         d="M250.2,222.7c1.4,19.6,0.9,53.3-17.1,66.4c0,0,2.4-47.6-12.6-75.6 c0,0,26.3,64.2-19,136.9c0,0-12.8,32.1-41.7,2.7c-28.9-29.5-67.5-14-67.5-14l14.9,2.1c0,0-14.9,3.8-20.8,16.1 c-5.8,12.1-34.4,11.7-68-53.2c6.2,19.4,17.9,43.8,40.2,66.3c0,0,18.1,14.7,30.8-3.6c12.8-18.4,30.1-28.8,44.8-25 s28.3,22.4,33.9,28.5c5.6,6.1,29,25.2,58.6-55.3C226.8,315.1,271.5,290.5,250.2,222.7L250.2,222.7L250.2,222.7z"
       />
       <path
@@ -955,7 +967,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </g>
       <linearGradient
-        id="w"
+        id="_ambl_Tastejs__w"
         gradientUnits="userSpaceOnUse"
         x1={89.102}
         y1={46.1762}
@@ -1014,7 +1026,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.6}
-        fill="url(#w)"
+        fill="url(#_ambl_Tastejs__w)"
         d="M91.9,54.3c-26.4-1.8-32.4,27.5-32.4,27.5 s2.9,5.2,26.4,7.1s32.8-3.6,32.8-3.6S118.2,56,91.9,54.3L91.9,54.3L91.9,54.3z M86.1,87.7c-21.9-1.8-24.6-6.6-24.6-6.6 s5.6-27.4,30.2-25.7s25.1,29,25.1,29S108.1,89.5,86.1,87.7L86.1,87.7L86.1,87.7z"
       />
       <path
@@ -1022,7 +1034,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M140.2,86c-0.1-0.8-0.2-1.7-0.2-2.5c0-7.8,6.3-14,14-14s14,6.3,14,14c0,1.4-0.2,2.8-0.6,4 c-0.2,0-0.4,0.1-0.5,0.1C153.7,88.7,145.1,87.3,140.2,86L140.2,86L140.2,86z"
       />
       <linearGradient
-        id="x"
+        id="_ambl_Tastejs__x"
         gradientUnits="userSpaceOnUse"
         x1={163.9294}
         y1={45.9284}
@@ -1081,11 +1093,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.6}
-        fill="url(#x)"
+        fill="url(#_ambl_Tastejs__x)"
         d="M161.3,54c25.6-1.7,31.4,26.7,31.4,26.7s-2.8,5-25.6,6.9 c-22.8,1.9-31.9-3.5-31.9-3.5S135.7,55.7,161.3,54L161.3,54L161.3,54z M166.8,86.5c21.3-1.8,24-6.4,24-6.4s-5.4-26.6-29.4-25 S137,83.3,137,83.3S145.5,88.3,166.8,86.5L166.8,86.5L166.8,86.5z"
       />
       <linearGradient
-        id="y"
+        id="_ambl_Tastejs__y"
         gradientUnits="userSpaceOnUse"
         x1={-375.1322}
         y1={796.8036}
@@ -1108,7 +1120,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#y)"
+        fill="url(#_ambl_Tastejs__y)"
         d="M120.8,74.6l3.7,6l-0.6-7.1l2.2,4.7l-0.2-9.9l1.6,8.3l1.6-11.6l0.2,14.7l3.2-7.7 c0,0-4.4,13.9-4.4,19.5L127,81v9l-1.6-7.3l0.2,6.5L120.8,74.6L120.8,74.6z"
       />
       <path
@@ -1157,7 +1169,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M52.8,130.9c0,0-7.5-20.4,9.3-18.7 s63,5.3,96.9-1.7c34.1-6.9,36.2-7.7,42.3,0.4c0,0-6.4-7.1-18.1-3.3c-11.8,3.9-59.4,16-120.9,6.9C62.3,114.6,50.3,112.7,52.8,130.9 L52.8,130.9L52.8,130.9z"
       />
       <radialGradient
-        id="z"
+        id="_ambl_Tastejs__z"
         cx={-385.6026}
         cy={795.8958}
         r={0.2145}
@@ -1178,12 +1190,12 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#z)"
+        fill="url(#_ambl_Tastejs__z)"
         d="M129.2,197.1C94,195.8,73.3,175.9,62,158.8c14,24.3,37.3,42.3,73.1,41.3 c32.4-0.8,66.8-50.5,68.9-78.5C197,148,174.3,198.8,129.2,197.1L129.2,197.1L129.2,197.1z"
       />
       <g transform="translate(112.779727, 217.575049)">
         <radialGradient
-          id="A"
+          id="_ambl_Tastejs__A"
           cx={-1400.6006}
           cy={578.239}
           r={0.218}
@@ -1205,12 +1217,12 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.7}
-          fill="url(#A)"
+          fill="url(#_ambl_Tastejs__A)"
           fillOpacity={0.5}
           d="M84.6-100.9 c-0.5,15.4-23.8,69.4-66.1,71.8c-46.4,2.6-63.7-37.6-72.1-56.2c0,0-3.6-8.7,0.7-12.2c1.4-1.2,2.5-1.8,3.8-2l0,0 c0,0-8.7-1.9-6.7,16.6c0.7,6.6,1.7,14.7,4.5,23.4c13.9,24.7,37.4,43.1,73.6,42.1c17-0.5,34.4-14.2,47.6-31.3 C80-65.6,89.3-86.5,84.6-100.9L84.6-100.9L84.6-100.9z"
         />
         <radialGradient
-          id="B"
+          id="_ambl_Tastejs__B"
           cx={-1400.3652}
           cy={581.8604}
           r={0.1893}
@@ -1232,13 +1244,13 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.7}
-          fill="url(#B)"
+          fill="url(#_ambl_Tastejs__B)"
           fillOpacity={0.5}
           d="M66-105.2 c0,0,5.1-2.6,10-2.8c-3.4-0.3-8-0.1-12.7,2.2c-8.1,3.9-57.8,12.6-97.7,8.6C-17.2-94.7,29.6-89.6,66-105.2L66-105.2L66-105.2z"
         />
       </g>
       <radialGradient
-        id="C"
+        id="_ambl_Tastejs__C"
         cx={-385.3781}
         cy={796.381}
         r={0.2081}
@@ -1259,7 +1271,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#C)"
+        fill="url(#_ambl_Tastejs__C)"
         d="M73.2,158.4c11.2,16.3,28.9,31.6,58.1,30c26.9-1.5,46.1-23.9,56.7-43.9 C130.7,117.9,85,149,73.2,158.4L73.2,158.4L73.2,158.4z"
       />
       <path
@@ -1268,7 +1280,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M65,148.7c0,0,18.4,44.5,64.9,41.9 c46.6-2.6,66.7-64.3,66.7-64.3s-16.9,67.5-67.5,68.1C78.4,195,65,148.7,65,148.7L65,148.7L65,148.7z"
       />
       <linearGradient
-        id="D"
+        id="_ambl_Tastejs__D"
         gradientUnits="userSpaceOnUse"
         x1={-385.3779}
         y1={796.3961}
@@ -1292,11 +1304,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.3}
-        fill="url(#D)"
+        fill="url(#_ambl_Tastejs__D)"
         d="M188,144.6 c-5.2-2.4-10.3-4.4-15.2-5.9c0,0.7,0,1.4-0.1,2c-1.5,0.6-3.3-0.1-4.8,0.8c2.8,4-2.5,3.5-5,3.7c-0.4,2.5,1.9,3.3,2.3,5.4 c0.5,2.6-1,5.8-3.4,5.2c-2-0.5-3.5-3.3-5.2-4.4c-3.4-2.4-4.3-1.6-4.9,1.5c-0.5,2.9-0.5,4.9-3.9,3.6c-2-0.8-5.1-5.2-7.6-3.1 c-2.2,1.8,1.2,8.5-1.6,9.9c-2.7,1.3-4-3.6-4.5-5c-1.2-3.7-4.5-4-6.9-0.6c-1.7,2.3-1.1,11.5-6,9.4c-2.3-1-2.8-6-6-3.6 c-2.3,1.7-1.3,8.3-5.4,8.3c-2,0-1.7-0.9-2.3-2.5c-0.3-0.7-0.4-1.7-0.9-2.4c-0.4-0.6-1-0.3-1.3-0.7c-1.7-2.4-0.4-5.3-1.9-7.5 c-2.5-3.5-4.4,0.1-4.7,2.8c-0.3,2.5-0.1,6.9-3.8,5.3c-0.1-1.7,0.7-3.5,0-5.1c-1-2.7-2.9-2-5.2-2.9c-0.5-2.7,2.5-4.5,2.3-6.7 c-0.3-2.4-2.7-0.4-4.1-1.6c-0.1-0.8,0-1.5,0.1-2.2c-7.1,3.9-12.4,7.8-15.4,10.2c11.2,16.3,28.9,31.6,58.1,30 C158.2,187,177.4,164.7,188,144.6L188,144.6L188,144.6z"
       />
       <radialGradient
-        id="E"
+        id="_ambl_Tastejs__E"
         cx={-386.2939}
         cy={794.814}
         r={0.06434251}
@@ -1318,11 +1330,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </radialGradient>
       <path
         opacity={0.6}
-        fill="url(#E)"
+        fill="url(#_ambl_Tastejs__E)"
         d="M73.2,158.4c11.2,16.3,28.9,31.6,58.1,30 c26.9-1.5,46.1-23.9,56.7-43.9C130.7,117.9,85,149,73.2,158.4L73.2,158.4L73.2,158.4z M106.1,168.1c-17.8-16.3,13.2-30,18.2-29.2 c5,0.8,8,27.7,8,27.7l0.4-28.5c0,0,19.4-1.9,26.9,12.9C167.1,165.8,123.9,184.4,106.1,168.1L106.1,168.1L106.1,168.1z"
       />
       <linearGradient
-        id="F"
+        id="_ambl_Tastejs__F"
         gradientUnits="userSpaceOnUse"
         x1={-363.4198}
         y1={797.8744}
@@ -1345,11 +1357,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.4}
-        fill="url(#F)"
+        fill="url(#_ambl_Tastejs__F)"
         d="M130.4,135.1c0,0,2.2,16.1,1.4,28.4 c0,0-1-22.3-5.5-27.2L130.4,135.1L130.4,135.1z"
       />
       <linearGradient
-        id="G"
+        id="_ambl_Tastejs__G"
         gradientUnits="userSpaceOnUse"
         x1={-385.3332}
         y1={799.9542}
@@ -1372,11 +1384,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#G)"
+        fill="url(#_ambl_Tastejs__G)"
         d="M65.4,114.4c0,0,65.3,8.4,113.9-6.5C179.2,107.9,127.1,131.9,65.4,114.4 L65.4,114.4L65.4,114.4z"
       />
       <linearGradient
-        id="H"
+        id="_ambl_Tastejs__H"
         gradientUnits="userSpaceOnUse"
         x1={-385.421}
         y1={796.537}
@@ -1399,11 +1411,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#H)"
+        fill="url(#_ambl_Tastejs__H)"
         d="M68.8,159.2c0,0,22.7,34.8,61.6,32.1c38.9-2.7,58.6-43,58.6-43 s-15.7,49.5-60.5,49.8C83.6,198.4,68.8,159.2,68.8,159.2L68.8,159.2L68.8,159.2z"
       />
       <linearGradient
-        id="I"
+        id="_ambl_Tastejs__I"
         gradientUnits="userSpaceOnUse"
         x1={-385.3227}
         y1={797.1155}
@@ -1427,11 +1439,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#I)"
+        fill="url(#_ambl_Tastejs__I)"
         d="M22.5,189.6c0,0,87.8,13.5,128,43.4C150.6,233,88.9,208.9,22.5,189.6L22.5,189.6 L22.5,189.6z"
       />
       <linearGradient
-        id="J"
+        id="_ambl_Tastejs__J"
         gradientUnits="userSpaceOnUse"
         x1={-381.0015}
         y1={797.4061}
@@ -1456,7 +1468,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.4}
-        fill="url(#J)"
+        fill="url(#_ambl_Tastejs__J)"
         d="M142.5,235.4c-0.2-0.8,0.3-2,0.4-2.8 c0.4-2.6,2.1-3.2,1.8-6.8c-8.1-3-16.1-6-22.1-7.8c0.1,0.1,0.1,0.1,0.1,0.1v0.7c-4.1,2.4,4.3,3.3,1.7,6.5c3.2-0.4,1.6,2.7,1.1,4 c-0.8,2.2-0.8,3.6,0.1,5.6c1,2.2,0.9,3.1,0.9,5.5c0,1,0.4,1.9,0.3,2.8c-0.1,0.9-0.9,1.6-1,2.4c-0.2,2.4,1.7,2,2.9,3.8 c1.3,1.8,0.1,3.4-0.6,5.2c-0.5,1.2-1.9,4.2-0.4,5.4c1.9,1.6,3.1-1,3.3-2.3c0.2-1.2-0.4-2.3-0.4-3.3c0-1.5,0.5-1.8,0.9-3.1 c0.9-2.9-0.6-3.3-1.5-5.8c-0.9-2.6,1-3.7,1-6.2c0-1.6-2.4-4.9-0.3-5.7c0.1-0.5-0.4-1.6-0.2-1.8c0.3-0.9,0.3-0.6,0.8-1.4 c0.6-0.9,1.7-2.3,2.8-1.5c1.1,0.8,0.2,2.6,0.5,3.8c0.3,1.2,1.5,2,0.9,3.8c-0.4,1.1-2.1,1.6-2.3,2.8c-0.2,1.5,1.2,1.8,1.4,3.1 c0.3,1.6-1.1,2.2-1,3.8c0.1,1.4,1.4,2.2,1.2,3.7c1.6,0.7,2.6-0.1,3.3-1.6c1-2.1-0.5-2.3-0.8-4.1c-0.1-1,0.5-1.5,0.6-2.4 c0.1-1.3-0.1-1.1-0.3-2.1c-0.4-1.5-0.7-2.8-0.7-4.5c0-2.7,2.6-7,3.5-2.6c0.4,1.6,0.1,2.5,0.8,4.2c0.6,1.6,0.5,2.5,0.5,4.3 c1.9,1.1,2.7-2,2.3-3.5C143.5,236.6,142.7,236.2,142.5,235.4L142.5,235.4L142.5,235.4z"
       />
       <g transform="translate(357.302144, 325.364522)">
@@ -1466,7 +1478,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-175.6-142.4c-0.7,5.2-1.5,20,9.7,20c11.2,0,9.3-16.1,9.3-16.1 s-0.2-12.6-12.3-23.7C-169.1-161.4-174.6-149.5-175.6-142.4L-175.6-142.4L-175.6-142.4z"
         />
         <linearGradient
-          id="K"
+          id="_ambl_Tastejs__K"
           gradientUnits="userSpaceOnUse"
           x1={-3596.9475}
           y1={472.034}
@@ -1490,11 +1502,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           />
         </linearGradient>
         <path
-          fill="url(#K)"
+          fill="url(#_ambl_Tastejs__K)"
           d="M-168.9-162.1c0,0.7-8.1,12.7-9,19.8c-0.7,5.2-1.3,17.1,9.9,17.1 c11.2,0,9.3-16.1,9.3-16.1S-159.3-150.4-168.9-162.1v-0.2V-162.1L-168.9-162.1z"
         />
         <linearGradient
-          id="L"
+          id="_ambl_Tastejs__L"
           gradientUnits="userSpaceOnUse"
           x1={-3595.3528}
           y1={473.4803}
@@ -1516,12 +1528,12 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           />
         </linearGradient>
         <path
-          fill="url(#L)"
+          fill="url(#_ambl_Tastejs__L)"
           fillOpacity={0.7}
           d="M-168.2-138.2c8.3,0,6.9-9.8,6.9-9.8s-0.5-7-7.6-14.1 c0,0-5.5,9.5-6.6,13.5C-176-145.5-176.4-138.2-168.2-138.2z"
         />
         <linearGradient
-          id="M"
+          id="_ambl_Tastejs__M"
           gradientUnits="userSpaceOnUse"
           x1={-3596.311}
           y1={472.9652}
@@ -1544,7 +1556,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           />
         </linearGradient>
         <path
-          fill="url(#M)"
+          fill="url(#_ambl_Tastejs__M)"
           d="M-160.1-141.6c0,0-0.2-5.4-4.8-12.8c3,6,3.2,10,3.2,10s1.7,14.5-8.4,14.5 c-3.3,0-5.4-1.1-6.8-2.8c1.1,3.1,3.5,5.6,8.4,5.6C-158.4-127-160.1-141.6-160.1-141.6L-160.1-141.6L-160.1-141.6z"
         />
       </g>
@@ -1584,7 +1596,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </g>
       </g>
       <linearGradient
-        id="N"
+        id="_ambl_Tastejs__N"
         gradientUnits="userSpaceOnUse"
         x1={-385.3772}
         y1={796.4901}
@@ -1608,11 +1620,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </linearGradient>
       <path
         opacity={0.2}
-        fill="url(#N)"
+        fill="url(#_ambl_Tastejs__N)"
         d="M131.2,188.4 c26.9-1.5,46.1-23.9,56.7-43.9c-2.4-1.2-4.8-2.2-7.2-3.1c0.1,2-0.3,3.9-1.9,4.5c-2.4,0.8-2.8-1.3-3.7,1.8c-0.8,2.4-1.6,1.1-3.6,1.7 c-1.9,0.5-1.3,2.1-1.2,3.6c0.2,4-0.2,8.4-5,8.4c-1.9,0-3.7-1.2-5.6-1c-0.8,0.1-1,0.1-1.6,0.6c-0.7,0.5-1.1,2-1.8,2.1 c-1.2,0.1-1.8-2.8-3.4-1.3c-1.4,1.3,0.6,4.2-1.9,4.8c-1.8,0.5-2.9-1.8-4.8-1.3c-1.8,0.5-1.2,2.6-1.3,4.3c-0.2,2.6-1,2.7-3.4,1.9 c-1-0.4-1.3-0.5-2.2-0.4c-0.9,0.1-1.8,0.6-2.8,0c-1.2-0.7-1.1-2.1-2.2-3c-0.8-0.7-3.3-2.3-4.2-1.3c-0.8,0.8,0.4,4,0.4,5.2 c-0.1,1.4,0.8,4.8-0.5,5.4c-0.9,0.4-3.8-0.2-4.5-0.8c-1.3-1.1-1.6-3.5-2.9-4.8c-1.2-1.1-3.4-1.5-4.6-0.3c-1.2,1.2,0,3.7-0.8,5.2 c-0.8,1.7-3,2.1-4.6,1.5c-1.8-0.7-1.7-2.4-2.8-3.4c-1.5-1.4-4.3,0.1-5.7-1.2c-1.4-1.3-0.4-3.4-1-5c-0.2-0.4-1-1.8-1.4-1.9 c-1-0.3-1.2,0.6-1.9,0.9c-0.5,0.3-1.6,0.2-2.1,0.7c-0.8,0.7-0.4,1.4-0.6,2.3c-0.6,2.4-2.7,1.9-4.5,1.1c-1.6-0.6-1.7-1.4-1.7-3.1 c0-1.3-0.1-3.5-1-4.5c-1-1.2-2.6-0.4-4-0.9c-0.3-1.6,1.6-2.9,0.4-4.1c-0.7-0.7-1.5-0.3-1.9-1.2c-0.4-0.7,0.2-1.9-0.1-2.7 c-0.7-2.6-2.4-0.4-3.4-1.7c-0.2-0.3-0.2-0.7-0.1-1.2c-3.7,2.4-6.5,4.5-8.4,6C84.3,174.7,102,190.1,131.2,188.4L131.2,188.4 L131.2,188.4z"
       />
       <linearGradient
-        id="O"
+        id="_ambl_Tastejs__O"
         gradientUnits="userSpaceOnUse"
         x1={127.4754}
         y1={104.8421}
@@ -1643,11 +1655,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#O)"
+        fill="url(#_ambl_Tastejs__O)"
         d="M120.5,113.3c4.6-0.2,9.2-0.5,14-0.9c2-1,3.8-2.2,4.7-3.6 c1.8-2.9-0.1-6.2-1.1-7.7c0.9,1.7,0.6,4.8-1.4,5.7c-2.4,1.1-15.5,1.9-19.1-0.3c-3.6-2.1-1.2-5.7-1.2-5.7 C111.7,107.7,116,111.4,120.5,113.3L120.5,113.3L120.5,113.3z"
       />
       <linearGradient
-        id="P"
+        id="_ambl_Tastejs__P"
         gradientUnits="userSpaceOnUse"
         x1={-381.2929}
         y1={800.2346}
@@ -1671,11 +1683,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#P)"
+        fill="url(#_ambl_Tastejs__P)"
         d="M116.3,107.3c2.7,2.9,5.2,4.7,6.9,5.9c3.3-0.2,6.7-0.4,10.2-0.7 c2.1-1.5,6.2-4.8,6.3-8.4c-0.4-1.2-1-2.3-1.5-2.9c0.9,1.7,0.6,4.8-1.4,5.7c-2.4,1.1-15.5,1.9-19.1-0.3c-3.6-2.1-1.2-5.7-1.2-5.7 c-1.1,1.5-1.7,2.9-2,4.1C115,105.7,115.5,106.5,116.3,107.3L116.3,107.3L116.3,107.3z"
       />
       <radialGradient
-        id="Q"
+        id="_ambl_Tastejs__Q"
         cx={-385.3781}
         cy={796.3805}
         r={0.437}
@@ -1697,7 +1709,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       </radialGradient>
       <path
         opacity={0.5}
-        fill="url(#Q)"
+        fill="url(#_ambl_Tastejs__Q)"
         d="M114.3,137.8 c-20.5,5.6-35.2,15.9-41.1,20.7c11.2,16.3,28.9,31.6,58.1,30c26.9-1.5,46.1-23.9,56.7-43.9c-17.7-8.3-34.3-11-49.1-10.5 c7.4,1,28.5,4.8,32.8,15.2c5.3,12.7-24.2,24.6-39.3,26.3c-15.2,1.7-40.6-2-39.8-18.4C92.9,147.8,104.5,141.4,114.3,137.8 L114.3,137.8L114.3,137.8z"
       />
       <path
@@ -1706,7 +1718,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M117.6,100c0,0,8.9-3.6,19.5,0 C137.1,100,127.5,93.3,117.6,100L117.6,100L117.6,100z"
       />
       <radialGradient
-        id="R"
+        id="_ambl_Tastejs__R"
         cx={-382.4863}
         cy={796.5195}
         r={0.4486}
@@ -1728,13 +1740,13 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </radialGradient>
       <path
-        fill="url(#R)"
+        fill="url(#_ambl_Tastejs__R)"
         fillOpacity={0.2}
         d="M141.4,219.2c0,0,7.8-0.1,8.4-6.5c0.6-6.6-3.5-44.4-3.5-44.4 s-0.3-9.3-12.2-9.3c-11.8,0-12.2,9.3-12.2,9.3s-4,37.8-3.7,44.4c0.4,6.5,8.5,6.5,8.5,6.5h7.4L141.4,219.2L141.4,219.2z"
       />
       <g transform="translate(239.532164, 432.155945)">
         <linearGradient
-          id="S"
+          id="_ambl_Tastejs__S"
           gradientUnits="userSpaceOnUse"
           x1={-2537.2703}
           y1={365.5951}
@@ -1756,11 +1768,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           />
         </linearGradient>
         <path
-          fill="url(#S)"
+          fill="url(#_ambl_Tastejs__S)"
           d="M-98.3-197.9c-0.2-0.8,0.3-2,0.4-2.8c0.4-2.6,2-4.6,2.9-7.1 c-8.1-3-17.2-5.8-23.2-7.6c0.1,0.1,0.1,0.1,0.1,0.1v0.7c-4.1,2.4,4.3,3.3,1.7,6.5c3.2-0.4,1.6,2.7,1.1,4c-0.8,2.2-0.8,3.6,0.1,5.6 c1,2.2,0.9,3.1,0.9,5.5c0,1,0.4,1.9,0.3,2.8c-0.1,0.9-0.9,1.6-1,2.4c-0.2,2.4,1.7,2,2.9,3.8c1.3,1.8,0.1,3.4-0.6,5.2 c-0.5,1.2-1.9,4.2-0.4,5.4c1.9,1.6,3.1-1,3.3-2.3c0.2-1.2-0.4-2.3-0.4-3.4c0-1.5,0.5-1.8,0.9-3.1c0.9-2.9-0.6-3.3-1.5-5.8 c-0.9-2.6,1-3.7,1-6.2c0-1.6-2.4-4.9-0.3-5.7c0.1-0.5-0.4-1.6-0.3-1.8c0.3-0.9,0.3-0.6,0.8-1.4c0.6-0.9,1.7-2.3,2.8-1.5 c1.1,0.8,0.2,2.6,0.5,3.8c0.3,1.2,1.5,2,0.9,3.8c-0.4,1.1-2.1,1.6-2.3,2.8c-0.2,1.5,1.2,1.8,1.4,3.1c0.3,1.6-1.1,2.2-1,3.8 c0.1,1.4,1.4,2.2,1.2,3.7c1.6,0.7,2.6-0.1,3.3-1.6c1-2.1-0.5-2.3-0.8-4.1c-0.2-1,0.5-1.5,0.6-2.4c0.1-1.3-0.1-1.1-0.3-2.1 c-0.4-1.5-0.7-2.8-0.7-4.5c0-2.7,2.6-7,3.5-2.6c0.4,1.6,0.1,2.5,0.8,4.2c0.6,1.6,0.5,2.5,0.5,4.3c1.9,1.1,2.7-2,2.3-3.5 C-97.4-196.6-98.1-197-98.3-197.9L-98.3-197.9L-98.3-197.9z"
         />
         <linearGradient
-          id="T"
+          id="_ambl_Tastejs__T"
           gradientUnits="userSpaceOnUse"
           x1={-2537.4326}
           y1={370.1733}
@@ -1794,12 +1806,12 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           />
         </linearGradient>
         <path
-          fill="url(#T)"
+          fill="url(#_ambl_Tastejs__T)"
           d="M-118.2-215.2v0.7c-4.1,2.4,4.3,3.3,1.7,6.5c2.5-0.4,2.1,1.5,1.5,3 c0.1,0,0.2-0.1,0.3-0.1c1.2-0.1,1.2,0.5,2.1,0.8c0.3,0.1,1.3,0.1,1.5,0.3c0.5,0.4,0.2,1.4,0.5,1.8c0.1,0.1,0.2,0.2,0.4,0.3 c0.2-0.4,0.3-0.4,0.6-1c0.6-0.9,1.7-2.3,2.8-1.5c0.9,0.7,0.4,2.1,0.4,3.3c0.8-0.2,1.4-0.5,2.4-0.5c0.3,0.3,0.5,0.6,0.7,0.8 c0.9-1.9,2.3-2.9,2.9,0.1c0.1,0.4,0.2,0.8,0.2,1.1c0.8-0.3,1.6-0.6,2.5-0.5c0.1-0.2,0.1-0.4,0.1-0.6c0.4-2.6,6.3-5.7,2.2-7.6 c-8.2-3-16.5-5.3-22.6-7.1C-118.2-215.3-118.2-215.2-118.2-215.2L-118.2-215.2L-118.2-215.2z"
         />
         <g transform="translate(7.984405, 32.935673)">
           <linearGradient
-            id="U"
+            id="_ambl_Tastejs__U"
             gradientUnits="userSpaceOnUse"
             x1={-2590.1316}
             y1={345.2133}
@@ -1821,11 +1833,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
             />
           </linearGradient>
           <path
-            fill="url(#U)"
+            fill="url(#_ambl_Tastejs__U)"
             d="M-111.8-219.5c0.4,0.1,0.8,0.2,1.2,0.2c0.1-1.1-0.9-1.6-1.1-2.9 c-0.2-1,0.5-1.5,0.6-2.4c0.1-1.3-0.1-1.1-0.3-2.1c-0.1-0.2-0.1-0.4-0.2-0.6c-1.4-0.2-2.8-0.2-4.2-0.3c-0.1,0.1-0.1,0.2-0.1,0.3 c-0.2,1.5,1.2,1.8,1.4,3.1c0.2,1.1-0.4,1.7-0.7,2.5C-113.7-221.8-112.2-220.7-111.8-219.5L-111.8-219.5L-111.8-219.5z"
           />
           <linearGradient
-            id="V"
+            id="_ambl_Tastejs__V"
             gradientUnits="userSpaceOnUse"
             x1={-2590.6523}
             y1={339.601}
@@ -1847,13 +1859,13 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
             />
           </linearGradient>
           <path
-            fill="url(#V)"
+            fill="url(#_ambl_Tastejs__V)"
             d="M-122.4-231.2c-0.4-0.3-0.7-0.5-1.1-0.6c0.1,0.2,0.1,0.2,0.2,0.4 c1,2.2,0.9,3.1,0.9,5.5c0,1,0.4,1.9,0.3,2.8c-0.1,0.9-0.9,1.6-1,2.4c0,0,0,0,0,0.1c0.1,0,0.1,0,0.1-0.1c1.7-0.5,2.5,2.1,4.4,1.6 c0.2-0.1,0.3-0.1,0.5-0.2c-0.3-0.5-0.5-1-0.8-1.6c-0.9-2.6,1-3.7,1-6.2c0-0.2,0-0.3-0.1-0.5c-0.6-0.1-1.2-0.2-1.8-0.4 C-120.6-228.8-121.4-230.4-122.4-231.2L-122.4-231.2L-122.4-231.2z"
           />
         </g>
         <g transform="translate(6.986355, 18.962963)">
           <linearGradient
-            id="W"
+            id="_ambl_Tastejs__W"
             gradientUnits="userSpaceOnUse"
             x1={-2571.5271}
             y1={364.2965}
@@ -1875,11 +1887,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
             />
           </linearGradient>
           <path
-            fill="url(#W)"
+            fill="url(#_ambl_Tastejs__W)"
             d="M-104.1-213.9c0-0.3,0-0.6-0.1-0.9c-0.2-0.8-1-1.2-1.2-2.1 c-0.2-0.8,0.3-2,0.4-2.8v-0.1c-0.9,0-1.9,0.1-2.8,0v0.1c0.4,1.6,0.1,2.5,0.8,4.2c0.3,0.7,0.4,1.2,0.5,1.8 C-105.7-214-104.8-214-104.1-213.9L-104.1-213.9L-104.1-213.9z"
           />
           <linearGradient
-            id="X"
+            id="_ambl_Tastejs__X"
             gradientUnits="userSpaceOnUse"
             x1={-2578.6868}
             y1={357.2923}
@@ -1901,11 +1913,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
             />
           </linearGradient>
           <path
-            fill="url(#X)"
+            fill="url(#_ambl_Tastejs__X)"
             d="M-111.1-217.1c0-1.1,0.5-2.6,1.1-3.5c-0.4-0.3-0.8-0.5-1.4-0.5 c-0.8-0.1-1.4,0.1-2.1,0.2c-0.1,0.5-0.1,0.9,0,1.3c0.3,1.2,1.5,2,0.9,3.8c-0.4,1.1-2.1,1.6-2.3,2.8v0.2c0.8,0,1.1,0.3,1.8,0.5 c0.7,0.3,1.7,0.3,2.7,0.2c0-0.1,0-0.2-0.1-0.4C-110.8-214-111.1-215.4-111.1-217.1L-111.1-217.1L-111.1-217.1z"
           />
           <linearGradient
-            id="Y"
+            id="_ambl_Tastejs__Y"
             gradientUnits="userSpaceOnUse"
             x1={-2584.0588}
             y1={354.0741}
@@ -1927,7 +1939,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
             />
           </linearGradient>
           <path
-            fill="url(#Y)"
+            fill="url(#_ambl_Tastejs__Y)"
             d="M-117.3-218.8c0.1-0.5-0.4-1.6-0.3-1.8c0.3-0.8,0.3-0.7,0.7-1.2 c-0.2-0.3-0.2-0.6-0.4-1.1c-0.3-0.9-0.6-1.1-1.5-1.2c-0.4,0-0.8,0.2-1.2,0.1c-0.4-0.1-0.8-0.5-1.2-0.7c-0.3-0.1-0.5-0.2-0.7-0.2 c-0.2,0.7-0.5,1.4-0.7,1.8c-0.8,2.2-0.8,3.6,0.1,5.6c0.2,0.3,0.3,0.6,0.4,0.9c0.6,0.5,1.2,1,1.6,1.6c1,1.5,1.4,1.8,3.2,1.9h0.3 v-0.1C-117-214.6-119.3-217.9-117.3-218.8L-117.3-218.8L-117.3-218.8z"
           />
         </g>
@@ -1968,7 +1980,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </g>
       <linearGradient
-        id="Z"
+        id="_ambl_Tastejs__Z"
         gradientUnits="userSpaceOnUse"
         x1={-382.1938}
         y1={796.5477}
@@ -2002,11 +2014,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#Z)"
+        fill="url(#_ambl_Tastejs__Z)"
         d="M134.2,216.4h7.1c0,0,6.3-0.1,6.8-6.2c0.6-6.2-2.2-42-2.2-42s-0.3-8.8-11.8-8.8 h0.1c-11.4,0-11.8,8.8-11.8,8.8s-2.5,35.8-2.2,42c0.4,6.2,6.8,6.2,6.8,6.2H134.2L134.2,216.4z"
       />
       <linearGradient
-        id="aa"
+        id="_ambl_Tastejs__aa"
         gradientUnits="userSpaceOnUse"
         x1={-381.9124}
         y1={810.2372}
@@ -2029,12 +2041,12 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#aa)"
+        fill="url(#_ambl_Tastejs__aa)"
         fillOpacity={0.7}
         d="M134.1,216.4h6.4c6.4,0,7.7-4.4,7.7-6.8 c-2.2,2.4-5.9,3.1-8,3.9c-2.8,1.2-5.3,1-6.7,0.7c-1.4-0.2-1.5-1.1-6.1-0.5c-2.4,0.3-5-1-7-2.2c0.8,2.9,2.6,4.9,7.3,4.9H134.1 L134.1,216.4z"
       />
       <linearGradient
-        id="ab"
+        id="_ambl_Tastejs__ab"
         gradientUnits="userSpaceOnUse"
         x1={-382.1989}
         y1={802.634}
@@ -2068,11 +2080,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#ab)"
+        fill="url(#_ambl_Tastejs__ab)"
         d="M147.5,194.7L147.5,194.7c0.1,0.6,0.1,1.2,0.1,1.8c-2.4-1.2-4.9-0.6-7.9,0.7 c-3.9,1.8-8.3,0.6-12.7-1c-2.3-0.9-4.8-0.3-6.5,0.4c-0.2,4-0.4,7.5-0.5,9.7c1.1,0.5,2.7,0.8,4.4,0.2c0,0,4.2,1.2,6.3,0.9 c0,0,0.8-0.2,2,0.4s2.7,0.6,3.5,0.1c0,0,2.5,0.1,3.4-0.5c0,0,1.6-0.1,2.2-0.5c0,0,2.4-0.1,3.7-1.3c0,0,1.3,0,2.6-0.1 C147.9,203.1,147.7,199.2,147.5,194.7L147.5,194.7L147.5,194.7z"
       />
       <linearGradient
-        id="ac"
+        id="_ambl_Tastejs__ac"
         gradientUnits="userSpaceOnUse"
         x1={-382.162}
         y1={810.7532}
@@ -2106,11 +2118,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#ac)"
+        fill="url(#_ambl_Tastejs__ac)"
         d="M144,204.7c2,0.2,3.3,0.2,4.1,0.1c-0.1-1.8-0.2-4-0.3-6.5c-0.7,0-1.4,0-1.9-0.1 c-1-0.1-2.9,0.4-3.9,0.8c-1,0.5-2,0.4-3.2,0.2c-1.2-0.2-1.5-0.7-3.1-0.1c-1.7,0.6-3.3,0.8-3.3,0.8s-0.4-0.2-1.1-0.1 c-0.7,0.1-2.4-0.1-2.4-0.1l-2.2,0.2c-1.8,0.9-5.1,0.3-6.3,0.1c-0.1,1.1-0.1,2.2-0.2,3.1c3.4-0.5,5.2,1.5,5.2,1.5 c3.1-1,4.9,0.4,4.9,0.4C134.8,203.7,139.7,204.4,144,204.7L144,204.7L144,204.7z"
       />
       <linearGradient
-        id="ad"
+        id="_ambl_Tastejs__ad"
         gradientUnits="userSpaceOnUse"
         x1={-381.8534}
         y1={797.9422}
@@ -2144,11 +2156,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#ad)"
+        fill="url(#_ambl_Tastejs__ad)"
         d="M145.9,167.8c-1-8.8-11.6-8.7-11.6-8.7s-10.9-0.2-11.9,8.7 c-0.4,3.1-0.8,9.2-1.1,15.7c1.1,1.8,2.6,3.6,4.1,4.1c3.6,1.2,3.9-1.1,8.9,0.5c5,1.5,6.8-0.5,9.2-1.6c1.1-0.5,2.5-0.2,3.7,0.4 C146.7,179.1,146.3,171.4,145.9,167.8L145.9,167.8L145.9,167.8z"
       />
       <linearGradient
-        id="ae"
+        id="_ambl_Tastejs__ae"
         gradientUnits="userSpaceOnUse"
         x1={-382.0582}
         y1={801.6786}
@@ -2182,11 +2194,11 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#ae)"
+        fill="url(#_ambl_Tastejs__ae)"
         d="M147.1,186.4c0,0.2,0,0.4,0.1,0.6c-1.3-0.6-2.6-0.9-3.7-0.4 c-2.4,1.2-4.2,3.1-9.2,1.6c-5-1.5-5.4,0.8-8.9-0.5c-1.6-0.5-3-2.3-4.1-4.1c-0.3,4.5-0.5,9.2-0.7,13.2c1.8-0.7,4.2-1.3,6.5-0.4 c4.4,1.6,8.8,2.7,12.7,1c3-1.4,5.6-1.9,7.9-0.7C147.5,193.3,147.3,189.9,147.1,186.4L147.1,186.4L147.1,186.4z"
       />
       <linearGradient
-        id="af"
+        id="_ambl_Tastejs__af"
         gradientUnits="userSpaceOnUse"
         x1={-382.0582}
         y1={801.6786}
@@ -2220,7 +2232,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#af)"
+        fill="url(#_ambl_Tastejs__af)"
         d="M147.1,186.4c0,0.2,0,0.4,0.1,0.6c-1.3-0.6-2.6-0.9-3.7-0.4 c-2.4,1.2-4.2,3.1-9.2,1.6c-5-1.5-5.4,0.8-8.9-0.5c-1.6-0.5-3-2.3-4.1-4.1c-0.3,4.5-0.5,9.2-0.7,13.2c1.8-0.7,4.2-1.3,6.5-0.4 c4.4,1.6,8.8,2.7,12.7,1c3-1.4,5.6-1.9,7.9-0.7C147.5,193.3,147.3,189.9,147.1,186.4L147.1,186.4L147.1,186.4z"
       />
       <path
@@ -2229,7 +2241,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       />
       <g transform="translate(242.000000, 325.000000)">
         <radialGradient
-          id="ag"
+          id="_ambl_Tastejs__ag"
           cx={-2489.8691}
           cy={504.5945}
           r={0.3642}
@@ -2259,7 +2271,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ag)"
+          fill="url(#_ambl_Tastejs__ag)"
           d="M-116.9-133.2 c-1.2-0.2-1.4,2.6-0.3,2.9c1.1,0.3,1.3-1.5,1-2.1c-0.2-0.4-0.4-0.8-0.8-0.8"
         />
         <path
@@ -2273,7 +2285,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-117.2-130.4c-0.5-0.1-0.7-0.7-0.7-1.2 c-0.1,0.7,0.2,1.4,0.7,1.6c0.9,0.2,1.1-0.9,1.1-1.7C-116.2-131-116.5-130.2-117.2-130.4L-117.2-130.4L-117.2-130.4z"
         />
         <radialGradient
-          id="ah"
+          id="_ambl_Tastejs__ah"
           cx={-2522.95}
           cy={527.5634}
           r={0.2162}
@@ -2303,7 +2315,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ah)"
+          fill="url(#_ambl_Tastejs__ah)"
           d="M-104.2-135.1c-0.5,0-1.2,0.2-1.6,0.5 c-0.2,0.1-0.3,0.3-0.3,0.5c0.1,0.3,0.3,0.4,0.5,0.5c0.5,0.3,0.8,0.4,1.4,0.2c0.4-0.1,1-0.3,1.2-0.7 C-102.7-134.6-103.7-135.1-104.2-135.1"
         />
         <path
@@ -2317,7 +2329,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-103-134.1c-0.2,0.4-0.8,0.6-1.2,0.7 c-0.6,0.1-0.9,0.1-1.4-0.2c-0.2-0.1-0.4-0.2-0.5-0.4c-0.1,0.1-0.1,0.2-0.1,0.3c0.1,0.2,0.3,0.4,0.5,0.5c0.5,0.3,0.8,0.4,1.4,0.2 c0.4-0.1,1-0.3,1.2-0.7C-102.9-133.9-103-134-103-134.1L-103-134.1L-103-134.1z"
         />
         <radialGradient
-          id="ai"
+          id="_ambl_Tastejs__ai"
           cx={-2515.6245}
           cy={487.6609}
           r={0.4696}
@@ -2347,7 +2359,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ai)"
+          fill="url(#_ambl_Tastejs__ai)"
           d="M-98-133.6c0.1-0.5-0.5-0.7-0.9-0.7 c-0.6,0.1-0.5,0.8-0.6,1.2c-0.1,0.4-0.3,0.9-0.1,1.4c0.1,0.4,0.5,0.8,0.7,1.2c0.2,0.5,0.1,1,0.2,1.5c0.1,0.5,0.6,0.7,1.1,0.5 c0.8-0.4,0.6-2.1,0.3-2.7c-0.2-0.4-0.4-0.6-0.5-1c-0.1-0.3,0.1-1.2-0.1-1.4"
         />
         <path
@@ -2361,7 +2373,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-97.7-128.6c-0.4,0.2-1-0.1-1.1-0.5 c-0.1-0.5,0-1-0.2-1.5c-0.2-0.4-0.5-0.8-0.7-1.2c-0.2-0.5,0-1,0.1-1.4c0-0.2,0-0.5,0.1-0.7c-0.3,0.2-0.2,0.7-0.3,1 c-0.1,0.4-0.3,1-0.1,1.4c0.1,0.4,0.5,0.8,0.7,1.2c0.2,0.5,0.1,1,0.2,1.5c0.1,0.5,0.6,0.7,1.1,0.5c0.2-0.1,0.4-0.3,0.5-0.6 C-97.5-128.7-97.6-128.6-97.7-128.6L-97.7-128.6L-97.7-128.6z"
         />
         <radialGradient
-          id="aj"
+          id="_ambl_Tastejs__aj"
           cx={-2516.2922}
           cy={506.2047}
           r={0.2841}
@@ -2391,7 +2403,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#aj)"
+          fill="url(#_ambl_Tastejs__aj)"
           d="M-98.6-126.9 c-0.1-0.2-0.1-0.5-0.1-0.7h0c-0.1-0.5-0.9-0.3-1.1-0.1c-0.3,0.3-0.6,0.8-0.5,1.2c0.2,0.8,1.4,1.7,2.2,1.4c0.5-0.2,0.5-0.8,0.1-1.1 c-0.3-0.2-0.7-0.4-0.7-0.8"
         />
         <path
@@ -2405,7 +2417,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-98.1-125.1c-0.8,0.4-2-0.6-2.2-1.4v0v0.4 c0.2,0.8,1.4,1.7,2.2,1.4c0.3-0.2,0.4-0.5,0.4-0.8C-97.8-125.3-98-125.2-98.1-125.1L-98.1-125.1L-98.1-125.1z"
         />
         <radialGradient
-          id="ak"
+          id="_ambl_Tastejs__ak"
           cx={-2504.8157}
           cy={489.6212}
           r={0.4864}
@@ -2435,7 +2447,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ak)"
+          fill="url(#_ambl_Tastejs__ak)"
           d="M-116.9-125.5 c-0.1-0.2,0.1-0.5,0.1-0.7s0.1-0.6,0-0.8c-0.2-0.5-0.8-0.6-1.2-0.4c-1.2,0.7-0.8,2.2,0.3,2.7c-0.4,0.4-0.8,0.8-0.8,1.4 c0,0.5,0.4,1.1,1,1.2c0.7,0.1,0.8-0.7,0.5-1.1c-0.2-0.3-0.2-0.4,0.1-0.7c0.2-0.2,0.4-0.3,0.5-0.6c0.1-0.3-0.1-0.4-0.3-0.5 C-116.9-125.1-116.9-125.2-116.9-125.5"
         />
         <path
@@ -2459,7 +2471,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-117.6-122.1c-0.5-0.1-1-0.7-1-1.2 c0-0.2,0.1-0.3,0.1-0.5c-0.2,0.2-0.3,0.5-0.3,0.8c0,0.5,0.4,1.1,0.9,1.2c0.4,0.1,0.6-0.2,0.6-0.5 C-117.2-122.1-117.4-122.1-117.6-122.1L-117.6-122.1L-117.6-122.1z"
         />
         <radialGradient
-          id="al"
+          id="_ambl_Tastejs__al"
           cx={-2489.6477}
           cy={507.2473}
           r={0.3725}
@@ -2489,7 +2501,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#al)"
+          fill="url(#_ambl_Tastejs__al)"
           d="M-103.1-123.5c-0.8,0-0.9,1-0.9,1.6 c-0.1,0.5-0.1,1.2,0.5,1.3c0.6,0.1,0.8-0.3,0.9-0.8c0-0.4,0.4-1.1,0.3-1.5c-0.1-0.2-0.4-0.5-0.6-0.6"
         />
         <path
@@ -2503,7 +2515,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-102.7-121.5c-0.1,0.6-0.2,0.9-0.9,0.8 c-0.4,0-0.5-0.4-0.5-0.7c-0.1,0.5,0,1,0.5,1c0.6,0.1,0.8-0.3,0.9-0.8c0-0.4,0.4-1,0.3-1.4C-102.5-122.1-102.7-121.7-102.7-121.5 L-102.7-121.5L-102.7-121.5z"
         />
         <radialGradient
-          id="am"
+          id="_ambl_Tastejs__am"
           cx={-2516.6147}
           cy={495.5087}
           r={0.3518}
@@ -2533,7 +2545,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#am)"
+          fill="url(#_ambl_Tastejs__am)"
           d="M-113.1-116.1 c0.2-0.5,0.3-1.1-0.2-1.3c-0.6-0.3-1,0.1-1.3,0.6c-0.2,0.5-0.4,1.2-0.1,1.6c0.1,0.2,0.3,0.3,0.3,0.5c0.1,0.3,0,0.6,0.1,0.8 c0.3,1.3,1.8,0.7,2.2-0.2c0.2-0.5,0-0.9-0.4-1.1C-112.9-115.5-113.3-115.8-113.1-116.1"
         />
         <path
@@ -2552,7 +2564,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-112.2-114.2c-0.4,0.9-1.9,1.5-2.2,0.2l0,0 v0.4c0.3,1.3,1.8,0.7,2.2-0.2c0.1-0.2,0.1-0.4,0.1-0.5C-112.1-114.3-112.1-114.3-112.2-114.2L-112.2-114.2L-112.2-114.2z"
         />
         <radialGradient
-          id="an"
+          id="_ambl_Tastejs__an"
           cx={-2462.2515}
           cy={549.1902}
           r={0.2803}
@@ -2582,7 +2594,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#an)"
+          fill="url(#_ambl_Tastejs__an)"
           d="M-111.3-116.9 c-0.7-0.2-0.8,1.6,0.3,1.4c0.4-0.1,0.6-0.5,0.5-0.9c-0.1-0.3-0.5-0.5-0.8-0.5"
         />
         <path
@@ -2596,7 +2608,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-111.1-115.6c-0.5,0.1-0.7-0.2-0.8-0.6 c-0.1,0.5,0.2,1,0.8,0.9c0.4-0.1,0.6-0.5,0.5-0.8C-110.7-115.8-110.8-115.6-111.1-115.6L-111.1-115.6L-111.1-115.6z"
         />
         <radialGradient
-          id="ao"
+          id="_ambl_Tastejs__ao"
           cx={-2509.1541}
           cy={514.4838}
           r={0.28}
@@ -2626,7 +2638,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ao)"
+          fill="url(#_ambl_Tastejs__ao)"
           d="M-98.9-116.8 c-0.2-0.5-0.9-0.4-1.3-0.1c-0.4,0.3-0.8,0.9-0.9,1.4c-0.1,0.5,0.2,0.9,0.7,0.9c0.5,0,1-0.4,1.2-0.8 C-98.9-115.9-98.8-116.4-98.9-116.8L-98.9-116.8"
         />
         <path
@@ -2640,7 +2652,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-98.9-116.5c0,0.4-0.2,0.8-0.4,1.1 c-0.2,0.4-0.8,0.8-1.2,0.8c-0.4,0-0.6-0.3-0.7-0.5c-0.1,0.5,0.2,0.9,0.7,0.9c0.5,0,1-0.4,1.2-0.8C-98.9-115.6-98.8-116-98.9-116.5 L-98.9-116.5L-98.9-116.5z"
         />
         <radialGradient
-          id="ap"
+          id="_ambl_Tastejs__ap"
           cx={-2492.5403}
           cy={506.6475}
           r={0.3852}
@@ -2670,7 +2682,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ap)"
+          fill="url(#_ambl_Tastejs__ap)"
           d="M-98.6-111.5c0.1-0.4-0.6-0.8-0.9-0.8 c-0.6,0-0.7,0.7-0.7,1.2c0,0.6,0.3,2.4,1.3,1.8c0.3-0.2,0.4-0.6,0.4-0.9c0-0.2,0.1-0.4,0.1-0.6C-98.5-111.1-98.7-111.2-98.6-111.5 "
         />
         <path
@@ -2684,7 +2696,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-99-109.3c-1,0.6-1.3-1.2-1.3-1.8 c0-0.2,0.1-0.4,0.1-0.6c-0.2,0.3-0.3,0.6-0.3,0.9c-0.1,0.6,0.3,2.4,1.3,1.8c0.2-0.1,0.3-0.3,0.4-0.5 C-98.8-109.4-98.9-109.3-99-109.3L-99-109.3L-99-109.3z"
         />
         <radialGradient
-          id="aq"
+          id="_ambl_Tastejs__aq"
           cx={-2541.4956}
           cy={489.4379}
           r={0.2384}
@@ -2714,7 +2726,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#aq)"
+          fill="url(#_ambl_Tastejs__aq)"
           d="M-115.5-159.3c-0.5,0.2-1,0.6-0.9,1.2 c0.1,0.6,0.8,0.9,1.2,0.4c0.3-0.3,0.1-0.6,0.3-0.9c0.1-0.1,0.6-0.1,0.7-0.2c0.4-0.4,0.6-0.9,0.4-1.5c0.8,0.1,2.2,0.8,2.9,0.1 c0.7-0.8-0.9-1.2-1.5-1.4c-0.9-0.2-1.9-0.8-2.6-0.1c-0.3,0.3-0.5,0.5-0.6,0.9c-0.1,0.4,0.3,1.1,0.2,1.3c0,0.1-0.1,0.1-0.1,0.1"
         />
         <path
@@ -2742,7 +2754,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           />
         </g>
         <radialGradient
-          id="ar"
+          id="_ambl_Tastejs__ar"
           cx={-2496.1118}
           cy={506.818}
           r={0.3098}
@@ -2772,7 +2784,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ar)"
+          fill="url(#_ambl_Tastejs__ar)"
           d="M-111.9-153.1c-0.6,0.4-1.2,1-1.3,1.8 c-0.1,0.6,0.4,0.9,0.9,0.7c0.5-0.2,0.9-0.7,1-1.2c0.1-0.4,0-1.2-0.6-1.1"
         />
         <path
@@ -2786,7 +2798,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-112.2-150.7c-0.5,0.2-0.9,0-0.9-0.5 c0,0,0,0-0.1,0v0c0,0.6,0.6,1,1.2,0.8c0.5-0.2,0.7-0.9,0.7-1.4C-111.4-151.3-111.8-150.9-112.2-150.7L-112.2-150.7L-112.2-150.7z"
         />
         <radialGradient
-          id="as"
+          id="_ambl_Tastejs__as"
           cx={-2467.5999}
           cy={505.886}
           r={0.4084}
@@ -2816,7 +2828,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#as)"
+          fill="url(#_ambl_Tastejs__as)"
           d="M-120.4-146.1L-120.4-146.1 c-0.1,0.9-0.2,1.8-0.2,2.7c0.2-0.1,0.5-0.1,0.7-0.1c0.2-0.1,0.4-0.2,0.5-0.4c0.2-0.4,0.3-1,0.2-1.4 C-119.5-145.8-119.9-146.1-120.4-146.1L-120.4-146.1L-120.4-146.1z"
         />
         <path
@@ -2830,7 +2842,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-119.2-144.9c0,0.4,0,0.8-0.2,1 c-0.1,0.2-0.3,0.4-0.5,0.4c-0.2,0.1-0.5,0.1-0.7,0.1c0,0.2,0,0.4-0.1,0.7c0.2-0.1,0.4-0.1,0.4-0.1c0.4-0.2,0.7-0.5,0.9-0.9 C-119.1-144-119-144.6-119.2-144.9L-119.2-144.9L-119.2-144.9z"
         />
         <radialGradient
-          id="at"
+          id="_ambl_Tastejs__at"
           cx={-2511.5547}
           cy={507.6502}
           r={0.271}
@@ -2860,7 +2872,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#at)"
+          fill="url(#_ambl_Tastejs__at)"
           d="M-105.4-149.5 c-1.1-0.3-3.1,2.3-1.3,2.5c0.6,0.1,1-0.2,1.4-0.7c0.3-0.4,0.4-1,0.3-1.4C-105.1-149.2-105.2-149.5-105.4-149.5"
         />
         <path
@@ -2874,7 +2886,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-105.3-147.7c-0.4,0.5-0.8,0.8-1.4,0.7 c-0.4-0.1-0.7-0.2-0.7-0.5c-0.1,0.4,0.1,0.8,0.7,0.8c0.6,0.1,1-0.2,1.4-0.7c0.2-0.3,0.4-0.8,0.3-1.1 C-105.1-148.2-105.2-147.9-105.3-147.7L-105.3-147.7L-105.3-147.7z"
         />
         <radialGradient
-          id="au"
+          id="_ambl_Tastejs__au"
           cx={-2487.7131}
           cy={507.5686}
           r={0.3425}
@@ -2904,7 +2916,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#au)"
+          fill="url(#_ambl_Tastejs__au)"
           d="M-100.2-149c-0.6-0.1-1,1.2-1,1.6 c-0.1,0.6,0.3,1.1,0.9,0.8c0.5-0.3,0.7-0.8,0.7-1.3C-99.6-148.2-99.8-149.1-100.2-149C-100.2-149-100.2-148.9-100.2-149"
         />
         <path
@@ -2918,7 +2930,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-100.3-146.6c-0.5,0.3-0.8-0.1-0.9-0.5v0.1 c-0.1,0.6,0.3,1.1,0.9,0.8c0.5-0.2,0.7-0.8,0.7-1.3v-0.2C-99.7-147.3-99.9-146.8-100.3-146.6L-100.3-146.6L-100.3-146.6z"
         />
         <radialGradient
-          id="av"
+          id="_ambl_Tastejs__av"
           cx={-2512.6223}
           cy={512.922}
           r={0.2523}
@@ -2948,7 +2960,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#av)"
+          fill="url(#_ambl_Tastejs__av)"
           d="M-116.1-142.4 c-0.9-0.1-2.1,1.2-1.3,1.9c0.6,0.5,2.1,0.6,2.3-0.4C-115-141.4-115.7-142.4-116.1-142.4"
         />
         <path
@@ -2962,7 +2974,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-117.4-140.5c-0.2-0.2-0.3-0.3-0.3-0.5 c-0.1,0.3,0,0.6,0.3,0.8c0.6,0.5,2.1,0.6,2.3-0.4v-0.3C-115.4-140-116.9-140.1-117.4-140.5L-117.4-140.5L-117.4-140.5z"
         />
         <radialGradient
-          id="aw"
+          id="_ambl_Tastejs__aw"
           cx={-2471.0088}
           cy={511.1416}
           r={0.3771}
@@ -2992,7 +3004,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#aw)"
+          fill="url(#_ambl_Tastejs__aw)"
           d="M-107.6-142.9c-0.7,0-0.9,0.7-1,1.3 c-0.1,0.4-0.3,1.1,0.4,1.1C-107.6-140.5-107-142.5-107.6-142.9C-107.6-142.9-107.6-142.9-107.6-142.9"
         />
         <path
@@ -3006,7 +3018,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           d="M-108.3-140.5c-0.3,0-0.4-0.2-0.5-0.4 c-0.1,0.4,0,0.7,0.5,0.7c0.5,0,1-1.2,0.9-1.9C-107.4-141.4-107.8-140.5-108.3-140.5L-108.3-140.5L-108.3-140.5z"
         />
         <radialGradient
-          id="ax"
+          id="_ambl_Tastejs__ax"
           cx={-2524.4482}
           cy={506.523}
           r={0.2489}
@@ -3036,7 +3048,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </radialGradient>
         <path
           opacity={0.3}
-          fill="url(#ax)"
+          fill="url(#_ambl_Tastejs__ax)"
           d="M-97.9-145c-0.8-0.4-2.2,0.1-2.2,1.1 c0,1,1.4,1.7,2.2,1.4c0.5-0.1,0.9-0.7,0.9-1.3C-97.1-144.3-97.5-144.8-97.9-145"
         />
         <path
@@ -3053,7 +3065,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
       <g transform="translate(260.491228, 431.157895)">
         <g>
           <linearGradient
-            id="ay"
+            id="_ambl_Tastejs__ay"
             gradientUnits="userSpaceOnUse"
             x1={-2711.9753}
             y1={377.656}
@@ -3075,7 +3087,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
             />
           </linearGradient>
           <path
-            fill="url(#ay)"
+            fill="url(#_ambl_Tastejs__ay)"
             d="M-126.3-214.8L-126.3-214.8h-3.4v6.7c0,0.5,1.5,1.7,3.4,1.7s3.4-0.4,3.4-0.9 v-7.5H-126.3L-126.3-214.8z"
           />
           <path
@@ -3116,7 +3128,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         </g>
         <g transform="translate(0.998051, 5.988304)">
           <radialGradient
-            id="az"
+            id="_ambl_Tastejs__az"
             cx={-2712.2903}
             cy={381.4538}
             r={0.2755}
@@ -3146,7 +3158,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
           </radialGradient>
           <path
             opacity={0.5}
-            fill="url(#az)"
+            fill="url(#_ambl_Tastejs__az)"
             d="M-128.6-217.2c0,0-0.7-0.7-1.2-0.1 c-0.5,0.5,0,1.8,1.1,1.5c0,0,0.3,0.3,0.3,0.7c0,0.4-0.4,1-0.4,1.5s1.4,1.2,1.3-0.1c0,0,1.1-1.4,0.5-2c0,0,0.4-0.6,0.8-0.6 c0.4,0,1.2-0.5,0.8-1c-0.4-0.5-0.8-1.1-1.9-0.1C-128.5-216.5-128.6-217.2-128.6-217.2L-128.6-217.2L-128.6-217.2z"
           />
           <path
@@ -3189,7 +3201,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         d="M128,220.6c6.8,4.8,6.1,3.8,12.7,5.3c-1-1-2.2-1.9-3.2-2.6c-0.3,0.3-0.1,0.9-0.7,0.9 c-1.7-0.3-5-1.9-5.9-2.4c-0.2-0.2,0.1-1.1-0.1-1.3c-1.8-0.3-2.9-0.1-2.9-0.1C127.9,220.6,128,220.6,128,220.6L128,220.6L128,220.6z "
       />
       <linearGradient
-        id="aA"
+        id="_ambl_Tastejs__aA"
         gradientUnits="userSpaceOnUse"
         x1={-383.3331}
         y1={799.2006}
@@ -3220,13 +3232,13 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#aA)"
+        fill="url(#_ambl_Tastejs__aA)"
         d="M117.5,77.6c-16.1,5.3-35.9,2.5-44.2,0.9c-0.5,2-0.8,4.1-0.8,6.3 c0,0.8,0.1,1.6,0.1,2.4c3.5,0.7,7.8,1.3,13.2,1.8c23.5,2,32.8-3.6,32.8-3.6S118.6,82,117.5,77.6L117.5,77.6L117.5,77.6z"
       />
       <circle fill="#FFFFFF" cx={88} cy={69.1} r={7.8} />
       <circle fill="#FFFFFF" cx={95.5} cy={77.3} r={4.3} />
       <linearGradient
-        id="aB"
+        id="_ambl_Tastejs__aB"
         gradientUnits="userSpaceOnUse"
         x1={-383.9307}
         y1={799.3304}
@@ -3250,7 +3262,7 @@ const Tastejs = (props: SVGProps<SVGSVGElement>) => (
         />
       </linearGradient>
       <path
-        fill="url(#aB)"
+        fill="url(#_ambl_Tastejs__aB)"
         d="M167,87.6c5.3-0.5,9.5-1.1,12.8-1.7c0.1-0.8,0.1-1.5,0.1-2.3c0-2.4-0.4-4.7-1-6.9 c-16.4,3.5-35.9,1.4-42.8,0.4c-1,4.1-1,7.1-1,7.1S144.2,89.5,167,87.6L167,87.6L167,87.6z"
       />
       <circle fill="#FFFFFF" cx={164.6} cy={69.7} r={7.8} />

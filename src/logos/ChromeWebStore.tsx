@@ -11,9 +11,15 @@ const ChromeWebStore = (props: SVGProps<SVGSVGElement>) => (
     <defs>
       <path
         d="M255.983159,0 L0,0 L0,204.83705 C0,214.470101 7.81422275,222.301164 17.4641142,222.301164 L238.535886,222.301164 C248.168936,222.301164 256,214.486942 256,204.83705 L255.983159,0 L255.983159,0 Z"
-        id="a"
+        id="_ambl_ChromeWebStore__a"
       />
-      <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="c">
+      <linearGradient
+        x1="0%"
+        y1="50%"
+        x2="100%"
+        y2="50%"
+        id="_ambl_ChromeWebStore__c"
+      >
         <stop stopColor="#D93025" offset="0%" />
         <stop stopColor="#EA4335" offset="100%" />
       </linearGradient>
@@ -22,7 +28,7 @@ const ChromeWebStore = (props: SVGProps<SVGSVGElement>) => (
         y1="95.8262545%"
         x2="19.8128739%"
         y2="-4.16095532%"
-        id="d"
+        id="_ambl_ChromeWebStore__d"
       >
         <stop stopColor="#1E8E3E" offset="0%" />
         <stop stopColor="#34A853" offset="100%" />
@@ -32,7 +38,7 @@ const ChromeWebStore = (props: SVGProps<SVGSVGElement>) => (
         y1="-0.134357063%"
         x2="21.4162235%"
         y2="99.8597528%"
-        id="e"
+        id="_ambl_ChromeWebStore__e"
       >
         <stop stopColor="#FBBC04" offset="0%" />
         <stop stopColor="#FCC934" offset="100%" />
@@ -49,22 +55,22 @@ const ChromeWebStore = (props: SVGProps<SVGSVGElement>) => (
         fill="#FFFFFF"
       />
       <g>
-        <mask id="b" fill="white">
-          <use href="#a" />
+        <mask id="_ambl_ChromeWebStore__b" fill="white">
+          <use href="#_ambl_ChromeWebStore__a" />
         </mask>
-        <g mask="url(#b)">
+        <g mask="url(#_ambl_ChromeWebStore__b)">
           <g transform="translate(17.455382, 94.292744)">
             <path
               d="M14.8119693,55.2553122 L30.0530718,101.753306 L62.6909246,138.180383 L110.536198,55.2721531 L206.260427,55.2553122 C187.145895,22.2132754 151.44298,0 110.536198,0 C69.6294155,0 33.9265012,22.2132754 14.8119693,55.2553122 Z"
-              fill="url(#c)"
+              fill="url(#_ambl_ChromeWebStore__c)"
             />
             <path
               d="M110.519357,221.105454 L143.15721,184.661535 L158.381471,138.180383 L62.6740836,138.180383 L14.8119693,55.2553122 C-4.23519867,88.3310309 -5.63300144,130.383001 14.8288103,165.816459 C35.273781,201.249918 72.3744981,221.071772 110.519357,221.105454 Z"
-              fill="url(#d)"
+              fill="url(#_ambl_ChromeWebStore__d)"
             />
             <path
               d="M206.260427,55.2721531 L110.536198,55.2721531 L158.398312,138.180383 L110.536198,221.105454 C148.697898,221.071772 185.798615,201.249918 206.243586,165.816459 C226.705397,130.383001 225.307595,88.3478719 206.260427,55.2721531 Z"
-              fill="url(#e)"
+              fill="url(#_ambl_ChromeWebStore__e)"
             />
             <ellipse
               fill="#F1F3F4"

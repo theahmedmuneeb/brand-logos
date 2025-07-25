@@ -9,7 +9,7 @@ const Linkerd = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a">
+      <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="_ambl_Linkerd__a">
         <stop stopColor="#4AD8AC" offset="0%" />
         <stop stopColor="#4076C4" offset="100%" />
       </linearGradient>
@@ -45,7 +45,10 @@ const Linkerd = (props: SVGProps<SVGSVGElement>) => (
         <polygon points="116.5072 25.2222222 134.284978 35.4853333 177.790756 10.3671111 160.009422 0.104" />
         <polygon points="0.0192 92.4782222 17.7969778 102.741333 58.7854222 79.0773333 41.0076444 68.8124444" />
       </g>
-      <g transform="translate(0.000000, 92.444444)" fill="url(#a)">
+      <g
+        transform="translate(0.000000, 92.444444)"
+        fill="url(#_ambl_Linkerd__a)"
+      >
         <polygon points="238.2176 10.2897778 238.2176 100.616889 255.995378 90.352 255.995378 0.0266666667" />
         <polygon points="216.883556 112.932622 216.883556 22.6072889 199.105778 32.8704 199.105778 123.197511" />
         <polygon points="159.9936 55.4513778 159.9936 145.778489 177.773156 135.5136 177.773156 45.1864889" />

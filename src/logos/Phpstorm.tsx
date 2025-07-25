@@ -14,7 +14,7 @@ const Phpstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="64.0579993%"
         x2="55.5765239%"
         y2="47.9648996%"
-        id="a"
+        id="_ambl_Phpstorm__a"
       >
         <stop stopColor="#AF1DF5" offset="0%" />
         <stop stopColor="#BC20E4" offset="21%" />
@@ -26,7 +26,7 @@ const Phpstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="78.6026201%"
         x2="63.3781297%"
         y2="-4.05749636%"
-        id="b"
+        id="_ambl_Phpstorm__b"
       >
         <stop stopColor="#6B57FF" offset="2%" />
         <stop stopColor="#B74AF7" offset="42%" />
@@ -37,7 +37,7 @@ const Phpstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="102.209324%"
         x2="32.0486817%"
         y2="-3.68844786%"
-        id="c"
+        id="_ambl_Phpstorm__c"
       >
         <stop stopColor="#293896" offset="0%" />
         <stop stopColor="#3B3AA2" offset="8%" />
@@ -52,7 +52,7 @@ const Phpstorm = (props: SVGProps<SVGSVGElement>) => (
         y1="72.4464855%"
         x2="39.7469083%"
         y2="45.5677461%"
-        id="d"
+        id="_ambl_Phpstorm__d"
       >
         <stop stopColor="#6B57FF" offset="2%" />
         <stop stopColor="#B74AF7" offset="78%" />
@@ -60,19 +60,19 @@ const Phpstorm = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Phpstorm__a)"
         points="141.306667 45.0133333 132.773333 19.2 43.68 0 1.42108547e-14 49.4133333 48 73.9733333 48 45.0133333"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Phpstorm__b)"
         points="48 61.8133333 0 49.4133333 24.4 195.973333 47.92 195.786667"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Phpstorm__c)"
         points="208 45.0133333 124.506667 45.0133333 158.053333 15.2 222.693333 27.2 256 109.973333 208.026667 157.626667"
       />
       <polygon
-        fill="url(#d)"
+        fill="url(#_ambl_Phpstorm__d)"
         points="208.053333 108.88 208 205.013333 70.56 205.013333 74.1066667 225.92 160.4 256 256 198.773333"
       />
       <polygon

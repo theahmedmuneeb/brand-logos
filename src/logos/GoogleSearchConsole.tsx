@@ -16,7 +16,7 @@ const GoogleSearchConsole = (props: SVGProps<SVGSVGElement>) => (
         fy="28.7075835%"
         r="82.8696858%"
         gradientTransform="translate(0.216598,0.287076),scale(0.740246,1.000000),rotate(36.502479),translate(-0.216598,-0.287076)"
-        id="a"
+        id="_ambl_GoogleSearchConsole__a"
       >
         <stop stopColor="#F1F2F2" offset="0%" />
         <stop stopColor="#E6E7E8" offset="100%" />
@@ -33,7 +33,7 @@ const GoogleSearchConsole = (props: SVGProps<SVGSVGElement>) => (
       />
       <path
         d="M36.4024641,37.979466 L0,74.3819301 L0,208.558521 C0,219.071868 8.54209446,227.482546 18.9240246,227.482546 L237.075975,227.482546 C247.589322,227.482546 256,218.940452 256,208.558521 L256,74.5133469 L219.466119,37.979466 L36.4024641,37.979466 Z"
-        fill="url(#a)"
+        fill="url(#_ambl_GoogleSearchConsole__a)"
       />
       <polygon
         fill="#FFFFFF"

@@ -14,7 +14,7 @@ const Apiary = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9905059%"
         x2="-6.48195737e-10%"
         y2="49.9905059%"
-        id="a"
+        id="_ambl_Apiary__a"
       >
         <stop stopColor="#37BDA6" offset="0%" />
         <stop stopColor="#8AD3B8" offset="100%" />
@@ -24,7 +24,7 @@ const Apiary = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9980936%"
         x2="-3.88862804e-09%"
         y2="49.9980936%"
-        id="b"
+        id="_ambl_Apiary__b"
       >
         <stop stopColor="#4BB6AD" offset="50%" />
         <stop stopColor="#78BBC1" offset="100%" />
@@ -34,7 +34,7 @@ const Apiary = (props: SVGProps<SVGSVGElement>) => (
         y1="49.9980936%"
         x2="100.023183%"
         y2="49.9980936%"
-        id="c"
+        id="_ambl_Apiary__c"
       >
         <stop stopColor="#4379A7" offset="0%" />
         <stop stopColor="#7CC9B8" offset="100%" />
@@ -54,15 +54,15 @@ const Apiary = (props: SVGProps<SVGSVGElement>) => (
       <path
         d="M191.54012,0 L127.693413,36.8670659 L63.8467066,0 L0,36.8670659 L127.693413,110.601198 L255.31018,36.8670659 L191.54012,0 L191.54012,0 Z"
         opacity={0.9}
-        fill="url(#a)"
+        fill="url(#_ambl_Apiary__a)"
       />
       <path
         d="M127.693413,110.601198 L0,36.8670659 L0,110.601198 L63.8467066,147.468263 L63.8467066,221.125749 L127.693413,257.992814 L191.54012,221.125749 L191.54012,147.468263 L255.31018,110.601198 L255.31018,36.8670659 L127.693413,110.601198 L127.693413,110.601198 Z"
-        fill="url(#b)"
+        fill="url(#_ambl_Apiary__b)"
       />
       <path
         d="M127.693413,110.601198 L127.693413,257.992814 L191.54012,221.125749 L191.54012,147.468263 L255.31018,110.601198 L255.31018,36.8670659 L127.693413,110.601198 L127.693413,110.601198 Z"
-        fill="url(#c)"
+        fill="url(#_ambl_Apiary__c)"
       />
       <path
         d="M127.693413,184.258683 L127.693413,257.992814 L191.54012,221.125749 L127.693413,184.258683 L127.693413,184.258683 Z"

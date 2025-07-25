@@ -14,7 +14,7 @@ const Mps = (props: SVGProps<SVGSVGElement>) => (
         y1="132.918092%"
         x2="-19.460139%"
         y2="11.0279359%"
-        id="a"
+        id="_ambl_Mps__a"
       >
         <stop stopColor="#0B8FFF" offset="9.1%" />
         <stop stopColor="#0D94F6" offset="20.8%" />
@@ -27,7 +27,7 @@ const Mps = (props: SVGProps<SVGSVGElement>) => (
         y1="92.4185714%"
         x2="28.6694004%"
         y2="-29.4707143%"
-        id="b"
+        id="_ambl_Mps__b"
       >
         <stop stopColor="#0B8FFF" offset="9.1%" />
         <stop stopColor="#0D94F6" offset="20.8%" />
@@ -40,7 +40,7 @@ const Mps = (props: SVGProps<SVGSVGElement>) => (
         y1="103.684888%"
         x2="64.5648993%"
         y2="-22.3923276%"
-        id="c"
+        id="_ambl_Mps__c"
       >
         <stop stopColor="#21D789" offset="12.3%" />
         <stop stopColor="#27D788" offset="13.2%" />
@@ -61,15 +61,15 @@ const Mps = (props: SVGProps<SVGSVGElement>) => (
       />
       <g transform="translate(0.000000, 1.576746)">
         <polygon
-          fill="url(#a)"
+          fill="url(#_ambl_Mps__a)"
           points="0 129.241461 129.240538 129.241461 64.3327068 64.4462546 0 0.000923153294"
         />
         <polygon
-          fill="url(#b)"
+          fill="url(#_ambl_Mps__b)"
           points="129.240538 129.241461 64.3327068 64.4462546 129.240538 0"
         />
         <polygon
-          fill="url(#c)"
+          fill="url(#_ambl_Mps__c)"
           points="93.9465413 93.9465413 64.3327068 64.4462546 129.240538 0"
         />
       </g>

@@ -9,11 +9,17 @@ const Grpc = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <defs>
-      <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="a">
+      <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="_ambl_Grpc__a">
         <stop stopColor="#72C9C9" offset="0%" />
         <stop stopColor="#02B0AD" offset="100%" />
       </linearGradient>
-      <linearGradient x1="100%" y1="0%" x2="-8.8817842e-14%" y2="100%" id="b">
+      <linearGradient
+        x1="100%"
+        y1="0%"
+        x2="-8.8817842e-14%"
+        y2="100%"
+        id="_ambl_Grpc__b"
+      >
         <stop stopColor="#03B6B4" offset="0%" />
         <stop stopColor="#74CBCA" offset="100%" />
       </linearGradient>
@@ -24,12 +30,12 @@ const Grpc = (props: SVGProps<SVGSVGElement>) => (
         fill="#244B5A"
       />
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Grpc__a)"
         transform="translate(35.481868, 35.481868) rotate(-135.213000) translate(-35.481868, -35.481868) "
         points="10.3922252 10.3922252 60.5715113 10.3922252 60.5715113 60.5715113 10.3922252 60.5715113"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Grpc__b)"
         transform="translate(132.446207, 35.062610) rotate(-135.213000) translate(-132.446207, -35.062610) "
         points="117.729815 20.346218 147.162598 20.346218 147.162598 49.779001 117.729815 49.779001"
       />

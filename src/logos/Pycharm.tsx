@@ -14,7 +14,7 @@ const Pycharm = (props: SVGProps<SVGSVGElement>) => (
         y1="50%"
         x2="90.5139289%"
         y2="50%"
-        id="a"
+        id="_ambl_Pycharm__a"
       >
         <stop stopColor="#21D789" offset="0%" />
         <stop stopColor="#07C3F2" offset="100%" />
@@ -24,7 +24,7 @@ const Pycharm = (props: SVGProps<SVGSVGElement>) => (
         y1="105.481057%"
         x2="105.922196%"
         y2="-7.57713839%"
-        id="b"
+        id="_ambl_Pycharm__b"
       >
         <stop stopColor="#FCF84A" offset="1%" />
         <stop stopColor="#A7EB62" offset="11%" />
@@ -45,7 +45,7 @@ const Pycharm = (props: SVGProps<SVGSVGElement>) => (
         y1="115.966514%"
         x2="61.1794942%"
         y2="22.2526636%"
-        id="c"
+        id="_ambl_Pycharm__c"
       >
         <stop stopColor="#21D789" offset="0%" />
         <stop stopColor="#24D888" offset="16%" />
@@ -62,7 +62,7 @@ const Pycharm = (props: SVGProps<SVGSVGElement>) => (
         y1="144.549783%"
         x2="118.64101%"
         y2="8.29174756%"
-        id="d"
+        id="_ambl_Pycharm__d"
       >
         <stop stopColor="#21D789" offset="0%" />
         <stop stopColor="#23D986" offset="9%" />
@@ -80,7 +80,7 @@ const Pycharm = (props: SVGProps<SVGSVGElement>) => (
         y1="50.4805683%"
         x2="-8.03965366%"
         y2="49.366207%"
-        id="e"
+        id="_ambl_Pycharm__e"
       >
         <stop stopColor="#FCF84A" offset="39%" />
         <stop stopColor="#ECF74C" offset="46%" />
@@ -91,23 +91,23 @@ const Pycharm = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_Pycharm__a)"
         points="179.493333 40.4 254.293333 102.613333 227.36 157.413333 182.266667 144.906667 143.253333 144.906667"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_Pycharm__b)"
         points="104.133333 80.8 89.6533333 157.413333 88.2666667 183.44 51.76 199.253333 0 204.826667 15.7066667 39.3066667 109.493333 0 167.28 37.8933333"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_Pycharm__c)"
         points="104.133333 80.8 111.173333 228.426667 87.7866667 256 1.42108547e-14 204.826667 72.08 97.4133333"
       />
       <polygon
-        fill="url(#d)"
+        fill="url(#_ambl_Pycharm__d)"
         points="200.72 70.0266667 112.026667 70.0266667 190.4 0"
       />
       <polygon
-        fill="url(#e)"
+        fill="url(#_ambl_Pycharm__e)"
         points="256 229.013333 177.92 255.52 73.9466667 226.24 104.133333 80.8 116.186667 70.0266667 179.493333 64.08 173.76 127.653333 224.106667 108.133333"
       />
       <polygon fill="#000000" points="48 48 208 48 208 208 48 208" />

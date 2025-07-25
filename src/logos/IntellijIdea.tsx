@@ -14,7 +14,7 @@ const IntellijIdea = (props: SVGProps<SVGSVGElement>) => (
         y1="51.0173323%"
         x2="178.130095%"
         y2="41.8613414%"
-        id="a"
+        id="_ambl_IntellijIdea__a"
       >
         <stop stopColor="#FC801D" offset="9%" />
         <stop stopColor="#B07F61" offset="23%" />
@@ -27,7 +27,7 @@ const IntellijIdea = (props: SVGProps<SVGSVGElement>) => (
         y1="114.759971%"
         x2="35.5746707%"
         y2="1.07475519%"
-        id="b"
+        id="_ambl_IntellijIdea__b"
       >
         <stop stopColor="#FE2857" offset="0%" />
         <stop stopColor="#CB3979" offset="8%" />
@@ -45,7 +45,7 @@ const IntellijIdea = (props: SVGProps<SVGSVGElement>) => (
         y1="23.6142262%"
         x2="81.8011925%"
         y2="129.75542%"
-        id="c"
+        id="_ambl_IntellijIdea__c"
       >
         <stop stopColor="#FE2857" offset="0%" />
         <stop stopColor="#FE295F" offset="8%" />
@@ -59,7 +59,7 @@ const IntellijIdea = (props: SVGProps<SVGSVGElement>) => (
     </defs>
     <g>
       <polygon
-        fill="url(#a)"
+        fill="url(#_ambl_IntellijIdea__a)"
         points="40.5333333 180.56 2.88 150.826667 25.04 109.786667 58.3466667 120.933333"
       />
       <polygon
@@ -67,11 +67,11 @@ const IntellijIdea = (props: SVGProps<SVGSVGElement>) => (
         points="256 68.24 251.386667 216.506667 152.773333 256 99.0666667 221.333333"
       />
       <polygon
-        fill="url(#b)"
+        fill="url(#_ambl_IntellijIdea__b)"
         points="256 68.24 207.2 115.84 144.533333 38.96 175.466667 4.18666667"
       />
       <polygon
-        fill="url(#c)"
+        fill="url(#_ambl_IntellijIdea__c)"
         points="99.0666667 221.333333 20.64 249.68 37.0666667 192.16 58.3466667 120.933333 0 101.413333 37.0666667 0 120.853333 9.89333333 207.2 115.84"
       />
       <polygon
